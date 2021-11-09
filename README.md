@@ -93,6 +93,9 @@ Remember: You Could Be a Target We are a natural target for all sorts of attacks
 
 [Read More](https://www.cnbc.com/2021/06/11/tips-to-help-keep-your-crypto-wallet-secure.html)
 
+[Read More](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
+
+
 ---
 
 #### Problem 10
