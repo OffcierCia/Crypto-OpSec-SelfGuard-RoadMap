@@ -176,6 +176,42 @@ Conheça os ataques mais comuns. Siga websites de hackers, leia sobre os último
 
 [Leia Mais](https://cryptosec.info/checklist/)
 
+### Table of contents
+
+| Watch                                        |
+|----------------------------------------------|
+| https://www.youtube.com/watch?v=hxHqE2W8scQy |
+| https://www.youtube.com/watch?v=0aSQMeoz9ow  |
+| https://www.youtube.com/watch?v=pGcerfVqYyU  |
+| https://www.youtube.com/watch?v=9XaYdCdwiWU  |
+| https://www.youtube.com/watch?v=ixLuRvYlrlw  |
+
+| Read                                                                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------|
+| https://blog.keys.casa/7-ways-to-level-up-your-bitcoin-opsec                                                                             |
+| https://medium.com/the-business-of-crypto/fundamentals-of-opsec-in-crypto-7844ba701b1d                                                   |
+| https://www.threatstack.com/blog/five-opsec-best-practices-to-live-by                                                                    |
+| https://digitalguardian.com/blog/what-operational-security-five-step-process-best-practices-and-more                                     |
+| https://www.gocivilairpatrol.com/programs/emergency-services/operations-support/operational-security-opsec                               |
+| https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817                                                 |
+| https://www.cnbc.com/2017/11/02/heres-how-to-protect-your-bitcoin-and-ethereum-from-hacking.html                                         |
+| https://www.cnbc.com/2021/06/11/tips-to-help-keep-your-crypto-wallet-secure.html                                                         |
+| https://www.ledger.com/academy/security/hack-wifi                                                                                        |
+| https://datatracker.ietf.org/wg/opsec/documents/                                                                                         |
+| https://www.lopp.net/bitcoin-information/security.html                                                                                   |
+| https://www.reddit.com/r/opsec/                                                                                                          |
+| https://hackernoon.com/5-tips-to-prevent-hackers-from-stealing-your-crypto-assets-e2243zig                                               |
+| https://arxiv.org/abs/2106.10740                                                                                                         |
+| https://web.mit.edu/smadnick/www/wp/2019-05.pdf                                                                                          |
+| https://airgapcomputer.com                                                                                                               |
+| https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817                                                 |
+| https://assets.website-files.com/5ffef4c69be53b44bd10b438/6012f54022181b0d0a3a948c_CryptoCurrency%20Security%20Standards%20Checklist.pdf |
+| https://blog.eduonix.com/cryptocurrency/cryptocurrency-security-checklist-investors-adopt/                                               |
+| https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md                                                                  |
+| https://cryptosec.info/checklist/                                                                                                        |
+
+#
+
 Se você gostou e quiser apoiar o projeto do escritor desse trabalho, você pode doar para o seguinte endereço:
 
 **0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH (officercia.eth)
