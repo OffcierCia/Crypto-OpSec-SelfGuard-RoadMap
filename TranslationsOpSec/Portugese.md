@@ -1,6 +1,6 @@
 # Guia Opsec para usuários cripto
 
-Nota: Opsec é um termo utilizado no exército americano, que significa segurança operacional. É um termo utilizado para descrever precauções e medidas de segurança utilizadas em atividades sensíveis, e mais recentemente passou a ser usado também no gerenciamento de criptomoedas.
+> Note: Opsec é um termo utilizado no exército americano, que significa segurança operacional. É um termo utilizado para descrever precauções e medidas de segurança utilizadas em atividades sensíveis, e mais recentemente passou a ser usado também no gerenciamento de criptomoedas.
 
 ## Problema 1
 
