@@ -20,6 +20,16 @@ _________                        __           ________          _________       
 > Note: OpSec is a term coming from the military, meaning operational security. It has been widely used to describe security precautions in various sensible activities, and more recently also in cryptocurrency management. 
 
 
+<details>
+<summary>Translations</summary>
+<br />
+
+- [Portugese](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Portugese.md)
+
+  
+</details>
+
+
 # OpSec SelfGuard RoadMap
 
 
