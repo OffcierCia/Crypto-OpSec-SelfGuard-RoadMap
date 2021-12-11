@@ -78,7 +78,7 @@ OpSec часто используется в общественных места
 
 # Напоминание!
 
-**Прочтите все материалы по ссылкам из [оригинальной статьи](https://cp0x.com/topic/624-security-zaschita-i-bezopasnost/#comment-11709)**
+**Прочтите все материалы по ссылкам из [оригинальной статьи](https://cp0x.com/topic/624-security-zaschita-i-bezopasnost/#comment-11709) и таблицы с [дополнитльными материалами](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap#table-of-contents).**
 
 Поддержать автора можно донатом на **0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A**, спасибо!
 
