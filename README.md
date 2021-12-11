@@ -24,7 +24,8 @@ _________                        __           ________          _________       
 <summary>Translations</summary>
 <br />
 
-- [Portuguese](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Portuguese.md)
+- [Portuguese-Brazilian](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Portuguese.md)
+- [Russian](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Russian.md)
 
   
 </details>
