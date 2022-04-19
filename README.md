@@ -33,6 +33,17 @@ _________                        __           ________          _________       
 
 # OpSec SelfGuard RoadMap
 
+**| Special Author's Notes:**
+
+- [All-about-NFT security ](https://graph.org/NFT-security-01-28) 
+- [Browser leakage checkers ](https://graph.org/Checkers-01-19)
+- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
+- [All good TG Dev communities ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
+- [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
+- [Solidity language cheatsheets, tools and references collection](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
+- [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
+
 
 #### Problem 1
 
@@ -44,7 +55,7 @@ Secure email provider like protonmail or tutanota. Use trused VPN like Mullvad o
 
 #### Problem 2
 
-Different emails / different strong passwords. Store them in one place. Never use repeat passwords, especially for accounts with personally identifiable and sensitive information (e.g. Facebook, Gmail, AppleID, Twitter, banks/payments, crypto accounts). Use passwords that are randomly generated and 20+ characters long. If you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts. 1Password and LastPass are both good options. 
+Different emails / different strong passwords. Store them in one place. Never use repeat passwords, especially for accounts with personally identifiable and sensitive information (e.g. Facebook, Gmail, AppleID, Twitter, banks/payments, crypto accounts). Use passwords that are randomly generated and 20+ characters long. If you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts. [Keepass](keepass.info) or BitWarden are good options.
 
 [Read More](https://blog.keys.casa/7-ways-to-level-up-your-bitcoin-opsec/)
 
@@ -84,7 +95,7 @@ Offline back-ups. Store them in a safe.
 
 #### Problem 7
 
-Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that).
+Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that). You can install malwarebytes or Comodo or DrWeb antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. 
 
 [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
 
@@ -148,6 +159,10 @@ Identify possible threats. For each category of information that you deem sensit
 #### Problem 14
 
 Analyze security holes and other vulnerabilities. Assess your current safeguards and determine what, if any, loopholes or weaknesses exist that may be exploited to gain access to your sensitive data.
+
+| Example: Use [AirGap](http://airgap.it), [OpenSource Wallet](http://alphawallet.com), [OpenSource Password storage](http://keepass.info), multi-sig, [Selfhosted link system](https://obsidian.md), read this [Sheet](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md), use [OpSec Services](https://github.com/x13a/Duress) - (you can also use [tenderly.co](https://tenderly.co) contract/address alerts + SMS).
+
+Never forget about non-trivial defence methods like one I shared [here](https://twitter.com/officer_cia/status/1516181065634824203)
 
 [Read More](https://www.lopp.net/bitcoin-information/security.html)
 
