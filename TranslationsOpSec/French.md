@@ -1,4 +1,4 @@
-**Nous rassemblons et discutons ici des meilleures recherches et données OpSec relatives à la DeFi, la Blockchain et aux crypto - toute contribution est bienvenue.**
+**Nous rassemblons et discutons ici des meilleures recherches et données OpSec relatives à la DeFi, à la Blockchain et aux cryptos - toute contribution est bienvenue.**
 
 **N'hésitez pas à soumettre une pull request, qu'il s'agisse de petites corrections, de traductions, de documents ou d'outils que vous aimeriez ajouter.**
 
