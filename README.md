@@ -171,10 +171,6 @@ Identify possible threats. For each category of information that you deem sensit
 
 Analyze security holes and other vulnerabilities. Assess your current safeguards and determine what, if any, loopholes or weaknesses exist that may be exploited to gain access to your sensitive data.
 
-| Example: Use [AirGap](http://airgap.it), [OpenSource Wallet](http://alphawallet.com), [OpenSource Password storage](http://keepass.info), multi-sig, [Selfhosted link system](https://obsidian.md), read this [Sheet](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md), use [OpSec Services](https://github.com/x13a/Duress) - (you can also use [tenderly.co](https://tenderly.co) contract/address alerts + SMS). For deals use [escrow](github.com/JackBekket/escrow-eth/blob/master/contracts/EscrowAdvansed.sol) and [tx alarm clock](github.com/ethereum-alarm-clock/ethereum-alarm-clock) and with  special services like [safient.io](https:safient.io), [sarcophagus.io](https://sarcophagus.io), [safehaven.io](https://safehaven.io).
-
-Never forget about non-trivial defence methods like one I shared [here](https://twitter.com/officer_cia/status/1516181065634824203) and [here](https://twitter.com/officer_cia/status/1516581048792289280).
-
 [Read More](https://www.lopp.net/bitcoin-information/security.html)
 
 ---
