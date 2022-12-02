@@ -269,7 +269,7 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 
 #### Problem 25
 
-Be aware of most common attacks. Follow hacker websites, latest security standarts, check out what [Nitrokey](https://www.nitrokey.com/) does and why. As a conclusion - read what is OSINT and counterOSINT so possible criminals wont be able to collect needed data.
+Be aware of most common attacks. Follow hacker websites, latest security standarts, check out what [Nitrokey](https://www.nitrokey.com/) and [YubiKey](https://www.yubico.com) do and why. As a conclusion - read what is OSINT and counterOSINT so possible criminals wont be able to collect needed data.
 
 [Read More](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
 
