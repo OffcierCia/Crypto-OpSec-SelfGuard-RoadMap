@@ -316,13 +316,13 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 
 **My Articles:**
 
+- [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
+- [OpSec Going Smarter](https://officercia.mirror.xyz/B9hBom4jGhkV0C-47E4YBz8tBJkb0a7zVwQR0jITIyM)
 - [OpSec Going Smarter: Secure Smartphones](https://officercia.mirror.xyz/0tlSSF2LDTOnnMN41R5Uc1kTpo-G-kXljn8pT0a1YLY)
 - [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
 - [Innovative Trio in Smart Contract Security: Monitoring, Prevention, Defense](https://officercia.mirror.xyz/W-SUbkTf18b3RuPL9DykXQmpexWBZxbp4P1xfCfXo4Y)
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
-- [OpSec Going Smarter](https://officercia.mirror.xyz/B9hBom4jGhkV0C-47E4YBz8tBJkb0a7zVwQR0jITIyM)
 - [How Cross-Chain Bridges are Hacked?](https://officercia.mirror.xyz/AFkEUuxid1egNm4XdqYEzWEwosPNbz2CNghlNrq7LZQ)
-- [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
 - [What you should do if you think someone has stolen your crypto-assets](https://officercia.mirror.xyz/wSvKI5p91-GYcun1aAyMMjNbpkgKnp7qIxVIqc1sXZk)
 - [What to do when your Web3 project Discord server is hacked & how security audit may prevent it from happening](https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk)
 - [Violent Attack Vectors in Web3: A Detailed Review](https://officercia.mirror.xyz/qfhQ_ocTPKnO5EqMlZ2ixIX7oBIfz5Tznid82EucbYk)
