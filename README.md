@@ -275,6 +275,8 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 
 [Read More](https://cryptosec.info/checklist/)
 
+#
+
 
 ### Table of contents
 
@@ -310,7 +312,33 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 | https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md                                                                  |
 | https://cryptosec.info/checklist/                                                                                                        |
 
+#
 
+**My Articles:**
+
+- [OpSec Going Smarter: Secure Smartphones](https://officercia.mirror.xyz/0tlSSF2LDTOnnMN41R5Uc1kTpo-G-kXljn8pT0a1YLY)
+- [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
+- [Innovative Trio in Smart Contract Security: Monitoring, Prevention, Defense](https://officercia.mirror.xyz/W-SUbkTf18b3RuPL9DykXQmpexWBZxbp4P1xfCfXo4Y)
+- [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
+- [OpSec Going Smarter](https://officercia.mirror.xyz/B9hBom4jGhkV0C-47E4YBz8tBJkb0a7zVwQR0jITIyM)
+- [How Cross-Chain Bridges are Hacked?](https://officercia.mirror.xyz/AFkEUuxid1egNm4XdqYEzWEwosPNbz2CNghlNrq7LZQ)
+- [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
+- [What you should do if you think someone has stolen your crypto-assets](https://officercia.mirror.xyz/wSvKI5p91-GYcun1aAyMMjNbpkgKnp7qIxVIqc1sXZk)
+- [What to do when your Web3 project Discord server is hacked & how security audit may prevent it from happening](https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk)
+- [Violent Attack Vectors in Web3: A Detailed Review](https://officercia.mirror.xyz/qfhQ_ocTPKnO5EqMlZ2ixIX7oBIfz5Tznid82EucbYk)
+- [What is ARP spoofing and how to protect against it?](https://officercia.mirror.xyz/fYQegsuZkdLPlhW9xopFzwnLmQWjaaWBjnR2qX9UixY)
+- [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
+- [QR Code: An Underestimated Danger](https://officercia.mirror.xyz/aN6giRkUsNd0o0bmjZVeZb2htkO_Ve16gMsARU6RBfM)
+- [The most significant milestones in the development of communications](https://officercia.mirror.xyz/G4782jMUpA_kkIpwakphbd6djX85cxRGS-pjBipc8Yk)
+- [Someone overheard me! Why it's important to think about all attack vectors, even if they seem unlikely to happen?](https://officercia.mirror.xyz/Gc4msiSq4HkKrrsKcL5tDF613iUtX4vWUAb5DYdDPC0)
+- [Laplace's Demon Speaks: Is there a life in blockchain?](https://officercia.mirror.xyz/OWdu4NkAeygp2dh-AXr82gM_fWD95WuFSP3WzMnpddc)
+- [MacOS + IOS + Crypto + OpSec = ?](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
+- [How to win the war, trick the KGB and protect your crypto-assets from theft by Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA)
+- [Master of OpSec Masters: A View Through the Prism of Time](https://officercia.mirror.xyz/4x2-M4R2cSnID1wpsTO4CQNrMQ5JUFouR-rZ_N4xO-Q)
+- [OpSec in Crypto: Thoughts](https://officercia.mirror.xyz/VCUaozkvMw1CSaNm3VnafrDLX4dwEjDIQo6qSOIbO8o)
+- [Attacks via a Representative Sample : Myths and Reality](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo)
+- [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
+- [Key principles of storing cryptocurrency securely](https://officercia.mirror.xyz/GtKNkmRDR_hhCqrnSENjqfPDHHb0W1M2SVeXDp4swCQ)
 
 ## Support Me:
 
