@@ -232,8 +232,6 @@ Malware can also have the functionality to "attack" a computer's clipboard. The 
 
 [Read More](https://medium.com/@cryptochatjoe/remaining-anonymous-in-todays-crypto-market-a-101-guide-for-the-badass-not-so-techies-7091edffa9aa)
 
-
-
 ---
 
 #### Problem 21
@@ -349,6 +347,19 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 - [Attacks via a Representative Sample : Myths and Reality](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo)
 - [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [Key principles of storing cryptocurrency securely](https://officercia.mirror.xyz/GtKNkmRDR_hhCqrnSENjqfPDHHb0W1M2SVeXDp4swCQ)
+
+**Also check out:**
+
+- [Anon Guide](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
+- [anonymousplanet.org](https://anonymousplanet.org)
+- [My Works](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
+- [How to use an ipad as a secure calling and messaging device](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device)
+- [Stylometric fingerprinting redux](https://seirdy.one/posts/2022/07/09/stylometric-fingerprinting-redux)
+- [privacyguides.org](https://privacyguides.org)
+- [OpSec](www.usenix.org/system/files/1401_08-12_mickens.pdf)
+- [DeepWeb OpSec](https://telegra.ph/Deepweb-OpSec-Link-08-20)
+- [privacytools.io](https://www.privacytools.io/)
+- [Start.me RabbitHole](https://cia.start.me/p/dlaxD0/ciaofficerv2)
 
 ## Support Me:
 
