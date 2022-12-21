@@ -368,7 +368,7 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 
 ## Support Me:
 
-Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users :sparkling_heart:  First, a few words, dear friends... I want to thank everyone who sent me donations! Much much thanks to you, I was able to bear the loss of my last job, found new meaning of life, and finally started writing a lot!
+Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users :sparkling_heart:  First, a few words, dear friends... I want to thank everyone who sent me donations!
 
 The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
 
@@ -394,19 +394,6 @@ If you want to support my work, you can also send me a donation to the address:
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
 
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
-
-#
-
-User donations have been and still are my main source of income. It helps to avoid affiliations and engagements. I really care about what I do and I'm glad you like it! You can also buy the works of my good friend and artist - all proceeds will go to create a book about blockchain with a unique design:
-
-- [opensea.io/collection/regullion-collection](https://opensea.io/collection/regullion-collection)
-
-I hope my tips have helped you make and save a lot of money! In our world of ruling Entropy, information means a lot and I give it to you for free. Also I want to remind all my enemies and haters that I'm just a writer and my nickname is just an attempt to make people aware of the safety issue. Call it a swan song or a cry from the heart, but I like what I do.
-
-I would like to let you know that I also do private orders for onchain investigations of hacks and incidents! Most of related cases ended successfully! For a small % of the returned funds or donation I will conduct an investigation for you, advise you on what further steps to take and send you to the right route! 
-
-Thank you very much. I am very happy and excited to help each and every one of you! Thank you so much for your support!
-
 
 #
 
