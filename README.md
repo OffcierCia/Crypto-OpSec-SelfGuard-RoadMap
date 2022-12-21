@@ -94,6 +94,8 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 
 Offline back-ups. Store them in a safe. Can be written on paper, but recommended to be etched or laser-printed into metal. Always be sure to have a backup stored somewhere safe if your threat model allows for that. Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
+> Check out: [Portable Secret](https://mprimi.github.io/portable-secret)
+
 [Read More]([https://www.gocivilairpatrol.com/programs/emergency-services/operations-support/operational-security-opsec](https://unchained.com/blog/how-to-store-bitcoin-seed-phrase-backups/))
 
 ---
