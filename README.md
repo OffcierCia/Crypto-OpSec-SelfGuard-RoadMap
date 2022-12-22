@@ -34,6 +34,27 @@ _________                        __           ________          _________       
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
+**Also check out:**
+
+- [Anon Guide](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
+- [anonymousplanet.org](https://anonymousplanet.org)
+- [My Works](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
+- [How to use an ipad as a secure calling and messaging device](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device)
+- [Stylometric fingerprinting redux](https://seirdy.one/posts/2022/07/09/stylometric-fingerprinting-redux)
+- [privacyguides.org](https://privacyguides.org)
+- [OpSec](www.usenix.org/system/files/1401_08-12_mickens.pdf)
+- [DeepWeb OpSec](https://telegra.ph/Deepweb-OpSec-Link-08-20)
+- [privacytools.io](https://www.privacytools.io/)
+- [Start.me RabbitHole](https://cia.start.me/p/dlaxD0/ciaofficerv2)
+- [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
+- [OpSec101](https://opsec101.org)
+- [How to protect your crypto assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
+- [Crypto OpSec](https://twitter.com/jurad0x/status/1454120956516093956)
+- [Security best practices](https://twitter.com/bobbyong/status/1403881080902471680)
+- [MyCrypto’s Security Guide For Dummies And Smart People Too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e)
+- [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
+- [The Ten Commandments of crypto security](https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40)
+
 ## To answer your questions beforehand...
 
 Firstly, for an ideal OpSec I recommend either developing an own programming language (done by different remote & in-house teams) with your own semantics or becoming a developer yourself, or avoiding using ANY third-party software, implying that it can be compromised, and developing tools and apps in dependance on your needs completely on your own. 
@@ -63,11 +84,14 @@ The most important thing to understand here is the path of the cyber attack – 
 
 Use a secure email provider like Protonmail or Tutanota. Also use trused VPN like Mullvad or ProtonVPN. E2E (end-to-end) encryption is only as secure as the service you are sending the email to. 
 
+- [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
+
 For example, if a Protonmail user sends an email to a GMail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
 
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
+- [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
 
 [Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
 [Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
@@ -381,27 +405,6 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 - [Attacks via a Representative Sample : Myths and Reality](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo)
 - [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [Key principles of storing cryptocurrency securely](https://officercia.mirror.xyz/GtKNkmRDR_hhCqrnSENjqfPDHHb0W1M2SVeXDp4swCQ)
-
-**Also check out:**
-
-- [Anon Guide](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
-- [anonymousplanet.org](https://anonymousplanet.org)
-- [My Works](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
-- [How to use an ipad as a secure calling and messaging device](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device)
-- [Stylometric fingerprinting redux](https://seirdy.one/posts/2022/07/09/stylometric-fingerprinting-redux)
-- [privacyguides.org](https://privacyguides.org)
-- [OpSec](www.usenix.org/system/files/1401_08-12_mickens.pdf)
-- [DeepWeb OpSec](https://telegra.ph/Deepweb-OpSec-Link-08-20)
-- [privacytools.io](https://www.privacytools.io/)
-- [Start.me RabbitHole](https://cia.start.me/p/dlaxD0/ciaofficerv2)
-- [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
-- [OpSec101](https://opsec101.org)
-- [How to protect your crypto assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
-- [Crypto OpSec](https://twitter.com/jurad0x/status/1454120956516093956)
-- [Security best practices](https://twitter.com/bobbyong/status/1403881080902471680)
-- [MyCrypto’s Security Guide For Dummies And Smart People Too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e)
-- [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
-- [The Ten Commandments of crypto security](https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40)
 
 #
 
