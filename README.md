@@ -43,7 +43,7 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 
-Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes has the right to exist in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
+Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes has the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
 
 - [Check out this tool!](https://mprimi.github.io/portable-secret)
 
