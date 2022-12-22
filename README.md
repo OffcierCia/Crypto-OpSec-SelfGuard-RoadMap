@@ -34,7 +34,7 @@ _________                        __           ________          _________       
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
-## To answer your questions in advance...
+## To answer your questions beforehand...
 
 Firstly, for an ideal OpSec I recommend either developing an own programming language (done by different remote & in-house teams) with your own semantics or becoming a developer yourself, or avoiding using ANY third-party software, implying that it can be compromised, and developing tools and apps in dependance on your needs completely on your own. 
 
