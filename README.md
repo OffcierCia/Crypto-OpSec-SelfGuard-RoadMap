@@ -29,7 +29,7 @@ _________                        __           ________          _________       
 
 # OpSec SelfGuard RoadMap
 
-**| Special Author's Notes:**
+**| Special Notes:**
 
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
