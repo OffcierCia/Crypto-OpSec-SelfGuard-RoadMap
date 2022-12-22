@@ -245,6 +245,18 @@ Your level of opsec usually depends on your threat model and which adversary you
 
 [Watch More](https://www.youtube.com/watch?v=ixLuRvYlrlw)
 
+**Check out:**
+
+- [logic bomb](https://github.com/starius/logic-bomb/blob/master/logic_bomb.c)
+- [Duress - Emergency Password](https://play.google.com/store/apps/details?id=me.lucky.duress)
+- [Contracts for a wallet that is recoverable via backup keys](https://github.com/Zoltu/recoverable-wallet)
+- [Better privacy, without special software](https://mprimi.github.io/portable-secret)
+- [digi cloak](https://github.com/kaushalmeena/digi-cloak)
+- [hackna](https://9p4.github.io/hackna)
+- [html vault](https://github.com/dividuum/html-vault)
+- [Great PC for work](https://libreboot.org/docs/hardware)
+- [Another great PC for work](https://shop.nitrokey.com/shop/product/nitropad-x230-67)
+- [More Info](https://news.ycombinator.com/item?id=34083366)
 
 ---
 
@@ -269,7 +281,7 @@ Only Interact with DeFi Protocols You Trust - Take your time to read up on some 
 
 #### Problem 24
 
-Use trusted services. Using a secure, easy-to-use crypto wallet to interact with DeFi applications is essential to a safe and user-friendly DeFi experience. Interacting with smart contracts can be tricky for first-time users, so using a beginner-friendly crypto wallet with DApp support is a smart way to mitigate risks stemming from accidental errors on the side of the user.
+Use trusted services. Using a secure, easy-to-use crypto wallet to interact with DeFi applications is essential to a safe and user-friendly DeFi experience. Interacting with smart contracts can be tricky for first-time users, so using a beginner-friendly crypto wallet with DApp support is a smart way to mitigate risks stemming from accidental errors on the side of the user. Better do **everything** manually!
 
 [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
