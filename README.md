@@ -42,6 +42,7 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
+- [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 
 Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes has the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
 
@@ -64,6 +65,7 @@ For example, if a Protonmail user sends an email to a GMail user, the email is e
 
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
+- [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 
 [Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
 [Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
@@ -307,6 +309,8 @@ Your level of opsec usually depends on your threat model and which adversary you
 - [Great PC for work](https://libreboot.org/docs/hardware)
 - [Another great PC for work](https://shop.nitrokey.com/shop/product/nitropad-x230-67)
 - [More Info](https://news.ycombinator.com/item?id=34083366)
+- [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
+- [OpSec101](https://opsec101.org)
 
 ---
 
@@ -388,6 +392,13 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 - [DeepWeb OpSec](https://telegra.ph/Deepweb-OpSec-Link-08-20)
 - [privacytools.io](https://www.privacytools.io/)
 - [Start.me RabbitHole](https://cia.start.me/p/dlaxD0/ciaofficerv2)
+- [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
+- [OpSec101](https://opsec101.org)
+- [How to protect your crypto assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
+- [Crypto OpSec](https://twitter.com/jurad0x/status/1454120956516093956)
+- [Security best practices](https://twitter.com/bobbyong/status/1403881080902471680)
+- [MyCrypto’s Security Guide For Dummies And Smart People Too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e)
+- [The Ten Commandments of crypto security](https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40)
 
 #
 
