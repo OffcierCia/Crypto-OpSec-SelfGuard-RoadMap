@@ -34,6 +34,26 @@ _________                        __           ________          _________       
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
+## To answer your questions in advance...
+
+Firstly, for an ideal OpSec I recommend either developing an own programming language (done by different remote & in-house teams) with your own semantics or becoming a developer yourself, or avoiding using ANY third-party software, implying that it can be compromised, and developing tools and apps in dependance on your needs completely on your own. 
+
+This is all correct, but nothing stops you from doing a fork or ordering an independent audit of the tools you are going to use , does it? With all said, it all depends on what you are going to get in result and against whom you are acting.
+
+- [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
+- [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
+
+Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes has the right to exist in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
+
+- [Check out this tool!](https://mprimi.github.io/portable-secret)
+
+Secondly, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base)! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring. «Antenna-websites» were created at that time. There, their authors gathered a variety of resources that were related by a common subject to make someone’s life easier! In some ways, the creators of Awesome Lists and start.me continue this idea now. And it's fantastically amazing! 
+
+Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients!
+
+The most important thing to understand here is the path of the cyber attack – its vector. Let's take a closer look at various problems associated with OpSec and its implementation to modern life!
+
+
 #
 
 #### Problem 1
