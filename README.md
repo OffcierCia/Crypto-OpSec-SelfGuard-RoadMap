@@ -203,7 +203,7 @@ A lot of OpSec missteps can be avoided by being more aware of your surroundings 
 
 Identify your sensitive data, including your product research, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting.
 
-
+[Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
 [Watch More](https://www.youtube.com/watch?v=0aSQMeoz9ow)
 
 ---
@@ -400,6 +400,7 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 - [Crypto OpSec](https://twitter.com/jurad0x/status/1454120956516093956)
 - [Security best practices](https://twitter.com/bobbyong/status/1403881080902471680)
 - [MyCrypto’s Security Guide For Dummies And Smart People Too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e)
+- [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
 - [The Ten Commandments of crypto security](https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40)
 
 #
