@@ -67,6 +67,8 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 
 Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes has the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
 
+> I highly recommend to purchase a hardware wallet directly from the manufacturer's website rather than online retailers like Amazon/eBay. It is also advised to use an alternative email address or a virtual office to protect your personal information in case of a data leak. I also don’t like trusting hardware. Therefore, we all should have physical ciphers! Once again, study Steganography!
+
 - [Check out this tool!](https://mprimi.github.io/portable-secret)
 
 Secondly, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base)! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring. 
