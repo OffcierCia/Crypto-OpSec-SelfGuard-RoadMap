@@ -38,7 +38,12 @@ _________                        __           ________          _________       
 
 #### Problem 1
 
-Use a secure email provider like Protonmail or Tutanota. Also use trused VPN like Mullvad or ProtonVPN. E2E (end-to-end) encryption is only as secure as the service you are sending the email to. For example, if a Protonmail user sends an email to a GMail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
+Use a secure email provider like Protonmail or Tutanota. Also use trused VPN like Mullvad or ProtonVPN. E2E (end-to-end) encryption is only as secure as the service you are sending the email to. 
+
+For example, if a Protonmail user sends an email to a GMail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
+
+- [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
+- [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 
 [Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
 [Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
@@ -47,9 +52,13 @@ Use a secure email provider like Protonmail or Tutanota. Also use trused VPN lik
 
 #### Problem 2
 
-Use different emails and different strong passwords. Store them in one place like a password manager. Never reuse passwords, especially for accounts with personally identifiable and sensitive information (e.g. Facebook, Gmail, AppleID, Twitter, banks/payments, crypto accounts). Use passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character. 
+Use different emails and different strong passwords. Store them in one place like a password manager. Never reuse passwords, especially for accounts with personally identifiable and sensitive information (e.g. Facebook, Gmail, AppleID, Twitter, banks/payments, crypto accounts).
 
-Using a string of unrelated words while still meeting the dictionary requirement makes it easy to have an extremely secure password while still being able to remember it. If fully relying on a password manager, a password of 20+ characters in length that is randomly generated can be used. If you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts. [KeePass](https://keepass.info) or [KeePassDX](https://www.keepassdx.com) or [KeePassXC](https://keepassxc.org) or BitWarden are good options. I also found [this tutorial](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093) for [integrity check](https://keepass.info/integrity.html) (and other checks) very helpful, be sure to check it out as well: [link](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093).
+Use passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character. 
+
+Using a string of unrelated words while still meeting the dictionary requirement makes it easy to have an extremely secure password while still being able to remember it. If fully relying on a password manager, a password of 20+ characters in length that is randomly generated can be used. If you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts. 
+
+[KeePass](https://keepass.info) or [KeePassDX](https://www.keepassdx.com) or [KeePassXC](https://keepassxc.org) or BitWarden are good options. I also found [this tutorial](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093) for [integrity check](https://keepass.info/integrity.html) (and other checks) very helpful, be sure to check it out as well: [link](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093).
 
 **On the opposite:**
 
@@ -62,7 +71,14 @@ Using a string of unrelated words while still meeting the dictionary requirement
 
 #### Problem 3
 
-Never link phone numbers to crypto platforms. Use trusted multiple e-sims if you have to link the phone. To lock down your SIM, contact your mobile phone carrier. Ask them to NEVER make changes to your phone number/SIM unless you physically show up to a specific store with at minimum two forms of identification. This (should) prevent hackers from calling up AT&T or T-Mobile or Vodafone, claiming to be you, and asking them to port your phone number to a new phone.
+Never link phone numbers to crypto platforms. Use trusted multiple e-sims if you have to link the phone. To lock down your SIM, contact your mobile phone carrier. 
+
+Ask them to NEVER make changes to your phone number/SIM unless you physically show up to a specific store with at minimum two forms of identification. This (should) prevent hackers from calling up AT&T or T-Mobile or Vodafone, claiming to be you, and asking them to port your phone number to a new phone.
+
+- [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
+- [OpSec Going Smarter](https://officercia.mirror.xyz/B9hBom4jGhkV0C-47E4YBz8tBJkb0a7zVwQR0jITIyM)
+- [OpSec Going Smarter: Secure Smartphones](https://officercia.mirror.xyz/0tlSSF2LDTOnnMN41R5Uc1kTpo-G-kXljn8pT0a1YLY)
+- [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
 
 [Read More](https://medium.com/the-business-of-crypto/fundamentals-of-opsec-in-crypto-7844ba701b1d)
 
@@ -70,7 +86,9 @@ Never link phone numbers to crypto platforms. Use trusted multiple e-sims if you
 
 #### Problem 4
 
-Instead of SMS-based 2FA, use Authy or Aegis OTP for iOS or Android. Google Authenticator is generally not recommended anymore in order to stay out of the Google ecosystem, and Authy offers more robust account recovery options (Aegis does not offer the same level of account recovery options). Keep in mind that the codes generated by 2FA apps are device specific. If your account is not manually backed up to Google cloud or iCloud and you lose your phone, you’ll need to spend some time proving your identity to restore your 2FA. The added security is worth the hassle!
+Instead of SMS-based 2FA, use Authy or Aegis OTP for iOS or Android. Google Authenticator is generally not recommended anymore in order to stay out of the Google ecosystem, and Authy offers more robust account recovery options (Aegis does not offer the same level of account recovery options). Keep in mind that the codes generated by 2FA apps are device specific. 
+
+If your account is not manually backed up to Google cloud or iCloud and you lose your phone, you’ll need to spend some time proving your identity to restore your 2FA. The added security is worth the hassle!
 
 Hardware-based 2FA options are regarded as more secure than phone-based OTP options since the keys are stored on the YubiKey device itself, not on your phone, or in the cloud, or on your computer.
 
@@ -92,7 +110,9 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 
 #### Problem 6
 
-Offline back-ups. Store them in a safe. Can be written on paper, but recommended to be etched or laser-printed into metal. Always be sure to have a backup stored somewhere safe if your threat model allows for that. Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
+Offline back-ups. Store them in a safe. Can be written on paper, but recommended to be etched or laser-printed into metal. Always be sure to have a backup stored somewhere safe if your threat model allows for that. 
+
+Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
 > Check out: [Portable Secret](https://mprimi.github.io/portable-secret) & [digi cloak](https://github.com/kaushalmeena/digi-cloak)
 
@@ -103,7 +123,9 @@ Offline back-ups. Store them in a safe. Can be written on paper, but recommended
 
 #### Problem 7
 
-Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that). You can install malwarebytes or Comodo or DrWeb antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. 
+Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that). 
+
+You can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date.
 
 [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
 
@@ -111,7 +133,9 @@ Never do anything you do not understand. Always check which token you approve, t
 
 #### Problem 8
 
-Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet. If you’re ordering pizza with crypto, order it for pickup instead of delivery. When online shopping, use a different (and publicly available) address for package delivery. Options here include your workplace or drop boxes at delivery service providers like FedEx and your local postal service.
+Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet. 
+
+If you’re ordering pizza with crypto, order it for pickup instead of delivery. When online shopping, use a different (and publicly available) address for package delivery. Options here include your workplace or drop boxes at delivery service providers like FedEx and your local postal service.
 
 [Read More](https://www.cnbc.com/2017/11/02/heres-how-to-protect-your-bitcoin-and-ethereum-from-hacking.html)
 
@@ -141,7 +165,9 @@ Remain Vigilant -  Create a culture of skepticism where they feel comfortable ch
 
 #### Problem 11
 
-OpSec often comes into play in public settings. For example, if members of your team are discussing work-related matters at a nearby lunch spot, during a conference, or over a beer, odds are that someone could overhear. As they say, loose lips can sink ships, so make sure you don’t discuss any sensitive company information while out in public.  Many OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically. 
+OpSec often comes into play in public settings. For example, if members of your team are discussing work-related matters at a nearby lunch spot, during a conference, or over a beer, odds are that someone could overhear. As they say, loose lips can sink ships, so make sure you don’t discuss any sensitive company information while out in public.  
+
+A lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically. 
 
 [Watch More](https://www.youtube.com/watch?v=hxHqE2W8scQy)
 
@@ -227,7 +253,9 @@ Many individuals from an organization can be in charge of different parts of the
 For example:
 A hacker delivered a RAT (remote access trojan) onto the computer of an employee. If the RAT has a variety of capabilities, it could steal the cookies from the web browser, sift through files on the computer, and then exfiltrate that data to be sold on a darkweb market at a later date. The operational security steps mentioned in problems 1 through 10 should help prevent this from happening.
 
-Another potential attack is called "DNS Poisoning". It is a "highly deceptive cyber attack in which hackers redirect web traffic toward fake web servers and phishing websites". A web page could appear that looks like a normal login page for a business like GMail, Kraken, etc., but in reality it could be a phishing site made to steal your login information (email/username/password). Separate machines on the same network will not prevent this, as the traffic passes through the router for both machines, so the solution is to have separate networks and to verify website certificates. Some VPN providers use their own DNS servers through the software pakcage they provide, so this could prevent this type of attack as well.
+Another potential attack is called "DNS Poisoning". It is a "highly deceptive cyber attack in which hackers redirect web traffic toward fake web servers and phishing websites". A web page could appear that looks like a normal login page for a business like GMail, Kraken, etc., but in reality it could be a phishing site made to steal your login information (email/username/password). 
+
+Separate machines on the same network will not prevent this, as the traffic passes through the router for both machines, so the solution is to have separate networks and to verify website certificates. Some VPN providers use their own DNS servers through the software pakcage they provide, so this could prevent this type of attack as well.
 
 Malware can also have the functionality to "attack" a computer's clipboard. The malware could check the clipboard at a set interval to see if any cryptocurrency addresses are detected in it. If they are, it would then replace the one in the clipboard with one of the hacker's cryptocurrency addresses, which means the cryptocurrency would then be sent to the hacker. The beginning and end may match, but this requires extra functionality on the part of the malware, as it would need to generate wallets on the fly and exfiltrate the keys to the hacker.
 
