@@ -446,7 +446,6 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 | https://datatracker.ietf.org/wg/opsec/documents/                                                                                         |
 | https://www.lopp.net/bitcoin-information/security.html                                                                                   |
 | https://www.reddit.com/r/opsec/                                                                                                          |
-| https://hackernoon.com/5-tips-to-prevent-hackers-from-stealing-your-crypto-assets-e2243zig                                               |
 | https://arxiv.org/abs/2106.10740                                                                                                         |
 | https://web.mit.edu/smadnick/www/wp/2019-05.pdf                                                                                          |
 | https://airgapcomputer.com                                                                                                               |
