@@ -36,7 +36,7 @@ _________                        __           ________          _________       
 
 **Also check out:**
 
-- [Anon Guide](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
+- [Anon Guide](https://hackmd.io/@0xngmi/B1BXYIWCO) or via [this link](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
 - [anonymousplanet.org](https://anonymousplanet.org)
 - [My Works](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 - [How to use an ipad as a secure calling and messaging device](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device)
