@@ -60,6 +60,8 @@ _________                        __           ________          _________       
 
 Firstly, for an ideal OpSec I recommend either developing an own programming language (done by different remote & in-house teams) with your own semantics or becoming a developer yourself, or avoiding using ANY third-party software, implying that it can be compromised, and developing tools and apps in dependance on your needs completely on your own. 
 
+> Try not to enable such a psychological phenomenon as the [tunnel effect](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1006&context=isap_2005), which [refers us to the aviation psychology](https://en.wikipedia.org/wiki/Aviation_psychology) and [flight psychology](https://www.bps.org.uk/psychologist/psychology-flight), to emerge and expand. When [experienced pilots](https://flightsafety.org/asw-article/attention%E2%80%89on-deck) get overly focused on one item while disregarding or ignoring all other warnings, they have an accident. I hope you understood my guide correctly and did not allow this to happen. Be cautious, don't rush, and stay calm. When you are hungry, unwell, or defenseless, do not act on emotion.
+
 This is all correct, but nothing stops you from doing a fork or ordering an independent audit of the tools you are going to use , does it? With all said, it all depends on what you are going to get in result and against whom you are acting.
 
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
@@ -78,6 +80,8 @@ Secondly, regarding big lists. Japan was the first country to invent the work th
 «Antenna-websites» were created at that time. There, their authors gathered a variety of resources that were related by a common subject to make someone’s life easier! In some ways, the creators of Awesome Lists and start.me continue this idea now. And it's fantastically amazing! 
 
 Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients!
+
+> Remember, you must manage your OpSec wall and literally take it through "be like water," tending not to overdo it! You construct your own wall, which you must guard, repair, and develop, exactly like a real wall. Visit: [this article](officercia.mirror.xyz/4x2-M4R2cSnID1wpsTO4CQNrMQ5JUFouR-rZ_N4xO-Q)!
 
 The most important thing to understand here is the path of the cyber attack – its vector. Let's take a closer look at various problems associated with OpSec and its implementation to modern life!
 
