@@ -65,6 +65,7 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
+- [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 
 Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes has the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
 
@@ -225,6 +226,8 @@ Remain Vigilant -  Create a culture of skepticism where they feel comfortable ch
 #### Problem 11
 
 OpSec often comes into play in public settings. For example, if members of your team are discussing work-related matters at a nearby lunch spot, during a conference, or over a beer, odds are that someone could overhear. As they say, loose lips can sink ships, so make sure you don’t discuss any sensitive company information while out in public.  
+
+- [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 
 A lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically. 
 
@@ -414,6 +417,7 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 - [Attacks via a Representative Sample : Myths and Reality](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo)
 - [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [Key principles of storing cryptocurrency securely](https://officercia.mirror.xyz/GtKNkmRDR_hhCqrnSENjqfPDHHb0W1M2SVeXDp4swCQ)
+- [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 
 #
 
