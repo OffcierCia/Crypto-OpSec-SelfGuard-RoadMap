@@ -422,7 +422,7 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 #
 
 
-### Table of contents
+### Additional Resources
 
 | Watch                                        |
 |----------------------------------------------|
