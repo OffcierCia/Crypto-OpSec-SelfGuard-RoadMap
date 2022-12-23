@@ -191,6 +191,14 @@ Never do anything you do not understand. Always check which token you approve, t
 
 You can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date.
 
+OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
+
+I'm only offering you a set of tools and guidelines to hunt for information; the rest is up to you! No one can create your security wall better than you, and learning OpSec does not require you to become a hostile, distrustful cryptopunk and abuse it to the extreme: you might find something that works for you.
+
+At the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on. 
+
+After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may effect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
+
 [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
 
 ---
