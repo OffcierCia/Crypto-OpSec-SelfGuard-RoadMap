@@ -54,6 +54,7 @@ _________                        __           ________          _________       
 - [MyCrypto’s Security Guide For Dummies And Smart People Too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e)
 - [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
 - [The Ten Commandments of crypto security](https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40)
+- [Privacytests.org](https://privacytests.org)
 
 ## To answer your questions beforehand...
 
