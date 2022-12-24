@@ -86,7 +86,7 @@ Secondly, regarding big lists. Japan was the first country to invent the work th
 
 Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients!
 
-> Remember, you must manage your OpSec wall and literally take it through "be like water," tending not to overdo it! You construct your own security wall, which you must guard, repair, and develop, exactly like a real wall. Visit: [this article](officercia.mirror.xyz/4x2-M4R2cSnID1wpsTO4CQNrMQ5JUFouR-rZ_N4xO-Q)!
+> Remember, you must manage your OpSec wall and literally take it through "[be like water](https://www.goodreads.com/quotes/29138-be-like-water-making-its-way-through-cracks-do-not)", tending not to overdo it! You construct your own security wall, which you must guard, repair, and develop, exactly like a real wall. Visit: [this article](officercia.mirror.xyz/4x2-M4R2cSnID1wpsTO4CQNrMQ5JUFouR-rZ_N4xO-Q)!
 
 The most important thing to understand here is the path of the cyber attack – its vector. Let's take a closer look at various problems associated with OpSec and its implementation to modern life!
 
