@@ -58,6 +58,8 @@ _________                        __           ________          _________       
 - [The Ten Commandments of crypto security](https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40)
 - [Privacytests.org](https://privacytests.org)
 - [All known smart contract-side and user-side attacks and vulnerabilities](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy)
+- [Privacy.sexy Website](https://privacy.sexy)
 
 ## To answer your questions beforehand...
 
