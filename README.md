@@ -123,7 +123,7 @@ Using a string of unrelated words while still meeting the dictionary requirement
 
 If you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts. 
 
-[KeePass](https://keepass.info) or [KeePassDX](https://www.keepassdx.com) or [KeePassXC](https://keepassxc.org) or BitWarden are good options. I also found [this tutorial](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093) for [integrity check](https://keepass.info/integrity.html) (and other checks) very helpful, be sure to check it out as well: [link](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093).
+[KeePass](https://keepass.info) or [KeePassDX](https://www.keepassdx.com) or [KeePassXC](https://keepassxc.org) or [BitWarden](https://bitwarden.com) are good options. I also found [this tutorial](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093) for [integrity check](https://keepass.info/integrity.html) (and other checks) very helpful, be sure to check it out as well: [link](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093).
 
 **On the opposite:**
 
