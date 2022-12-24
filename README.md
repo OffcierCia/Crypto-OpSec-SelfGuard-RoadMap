@@ -256,7 +256,11 @@ A lot of OpSec missteps can be avoided by being more aware of your surroundings 
 
 #### Problem 12
 
-Identify your sensitive data, including your product research, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting.
+Identify your sensitive data, including your product research, passwords, intellectual property, financial statements, customer information, and employee information. This will be the data you will need to focus your resources on protecting.
+
+> [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and Cryptography can also be combined for this purpose. After all, cryptography hides information, whereas steganography masks the fact that it was transmitted. For example, if you stenographically double-encrypt your passwords and store them in a cloud-based password manager, hackers (even if the vault is decoded or hacked) will be unable to use them as they will need your [stega-key](https://www.edureka.co/blog/steganography-tutorial) for this. You would, however, have to decrypt each password each time you are using it, with a special note.
+
+- Check out [this tool](https://github.com/utkusen/wholeaked)!
 
 [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
 [Watch More](https://www.youtube.com/watch?v=0aSQMeoz9ow)
