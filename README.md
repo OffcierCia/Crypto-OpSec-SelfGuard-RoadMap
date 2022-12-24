@@ -289,7 +289,11 @@ Appraise the level of risk associated with each vulnerability. Rank your vulnera
 
 #### Problem 16
 
-Get countermeasures in place. The last step of operational security is to create and implement a plan to eliminate threats and mitigate risks. This could include updating your hardware, creating new policies regarding sensitive data, or training employees on sound security practices and company policies. Countermeasures should be straightforward and simple. Employees should be able to implement the measures required on their part with or without additional training.
+Get countermeasures in place. The last step of operational security is to create and implement a plan to eliminate threats and mitigate risks. This could include updating your hardware, creating new policies regarding sensitive data, or training employees on sound security practices and company policies. Countermeasures should be straightforward and simple. 
+
+> If your job requires you to deal with various files (for example, CV), always ask to upload them to Google Drive in preview mode beforehand. Or open them via [dangerzone.rocks](https://dangerzone.rocks). Even with all of the above, always do your work from a separate computer and VM!
+
+Employees should be able to implement the measures required on their part with or without additional training.
 
 [Read More](https://hackernoon.com/5-tips-to-prevent-hackers-from-stealing-your-crypto-assets-e2243zig)
 
