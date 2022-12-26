@@ -109,6 +109,11 @@ For example, if a Protonmail user sends an email to a GMail user, the email is e
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
+- [Create your own vpn server](https://proprivacy.com/vpn/guides/create-your-own-vpn-server)
+- [Create your own vpn server No.2](https://medium.com/press-start-to-begin/anyone-can-ssh-into-a-server-scp-files-from-it-set-up-your-own-vpn-or-all-of-the-above-471a06e310bd)
+- [Setup OpenVPN server on Ubuntu](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts)
+- [Watch more](https://youtu.be/rXwJwubqVmI)
+- [Wireguard VS OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn)
 
 ---
 
