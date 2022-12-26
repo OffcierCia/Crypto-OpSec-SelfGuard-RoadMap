@@ -420,6 +420,8 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 
 Be aware of most common attacks. Follow hacker websites, latest security standarts, check out what [Nitrokey](https://www.nitrokey.com/) and [YubiKey](https://www.yubico.com) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) so possible criminals wont be able to collect needed data.
 
+> Check out this [book & article](https://counterintelligence.info/index.php/2020/03/05/extreme-privacy-michael-bazzell)!
+
 [Read More](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
 
 [Read More](https://cryptosec.info/checklist/)
