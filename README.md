@@ -140,12 +140,19 @@ If you see suspicious password activity or failed log-ins on any of your account
 
 Never link phone numbers to crypto platforms. Use trusted multiple e-sims if you have to link the phone. To lock down your SIM, contact your mobile phone carrier. 
 
+> That is a standard that [has been tested](https://twitter.com/officer_cia/status/1607182946104119301) by telecommunications operators in the [US, the UK, Poland, and China](https://twitter.com/officer_cia/status/1581725537571344385) - also check out [this tweet](https://twitter.com/cryptonacks/status/1538206075178074113) and [this article](https://www.androidpolice.com/how-to-protect-yourself-from-a-sim-swap-attack). You just need to insist on it or visit the head office, and I’m sure that the support manager on the phone mayn’t know about it!
+
 Ask them to NEVER make changes to your phone number/SIM unless you physically show up to a specific store with at minimum two forms of identification. This (should) prevent hackers from calling up AT&T or T-Mobile or Vodafone, claiming to be you, and asking them to port your phone number to a new phone.
+
+ **On the opposite:**
+
+> Instead, require staff to verify via phone call to a secondary number because show ID is compromised or just use something like [Efani](https://www.efani.com). Or [tend to use E-sim only](https://twitter.com/officer_cia/status/1582984626146250753)!
 
 - [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
 - [OpSec Going Smarter](https://officercia.mirror.xyz/B9hBom4jGhkV0C-47E4YBz8tBJkb0a7zVwQR0jITIyM)
 - [OpSec Going Smarter: Secure Smartphones](https://officercia.mirror.xyz/0tlSSF2LDTOnnMN41R5Uc1kTpo-G-kXljn8pT0a1YLY)
 - [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
+- [How to use an ipad as a secure calling and messaging device](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device)
 
 [Read More](https://medium.com/the-business-of-crypto/fundamentals-of-opsec-in-crypto-7844ba701b1d)
 
@@ -411,7 +418,7 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 
 #### Problem 25
 
-Be aware of most common attacks. Follow hacker websites, latest security standarts, check out what [Nitrokey](https://www.nitrokey.com/) and [YubiKey](https://www.yubico.com) do and why. As a conclusion - read what is OSINT and counterOSINT so possible criminals wont be able to collect needed data.
+Be aware of most common attacks. Follow hacker websites, latest security standarts, check out what [Nitrokey](https://www.nitrokey.com/) and [YubiKey](https://www.yubico.com) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) so possible criminals wont be able to collect needed data.
 
 [Read More](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
 
