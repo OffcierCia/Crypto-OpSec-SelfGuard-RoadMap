@@ -97,19 +97,18 @@ The most important thing to understand here is the path of the cyber attack – 
 
 Use a secure email provider like Protonmail or Tutanota. Also use trused VPN like Mullvad or ProtonVPN. E2E (end-to-end) encryption is only as secure as the service you are sending the email to. 
 
-- [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
+For example, if a Protonmail user sends an email to a GMail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
+
+- [Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
+- [Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
 
 > Don't forget that the VDS/RDP + VM combinaton can replace all of this, but it is not available to everyone. If you know how to do it correcly - choose this way. [Check out this article as well](https://www.techtarget.com/searchitoperations/tip/Understand-the-differences-between-VPS-vs-VPC).
 
-For example, if a Protonmail user sends an email to a GMail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
-
+- [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
-
-[Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
-[Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
 
 ---
 
@@ -131,8 +130,8 @@ If you see suspicious password activity or failed log-ins on any of your account
 
 > For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344).
 
-[Read More](https://blog.keys.casa/7-ways-to-level-up-your-bitcoin-opsec/)
-[NIST 800-63b Password Guidelines and Best Practices](https://specopssoft.com/blog/nist-800-63b/)
+- [Read More](https://blog.keys.casa/7-ways-to-level-up-your-bitcoin-opsec/)
+- [NIST 800-63b Password Guidelines and Best Practices](https://specopssoft.com/blog/nist-800-63b/)
 
 ---
 
@@ -155,8 +154,7 @@ Ask them to NEVER make changes to your phone number/SIM unless you physically sh
 - [OpSec Going Smarter: Secure Smartphones](https://officercia.mirror.xyz/0tlSSF2LDTOnnMN41R5Uc1kTpo-G-kXljn8pT0a1YLY)
 - [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
 - [How to use an ipad as a secure calling and messaging device](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device)
-
-[Read More](https://medium.com/the-business-of-crypto/fundamentals-of-opsec-in-crypto-7844ba701b1d)
+- [Read More](https://medium.com/the-business-of-crypto/fundamentals-of-opsec-in-crypto-7844ba701b1d)
 
 ---
 
@@ -174,7 +172,7 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 
 > Aegis Authenticator is open source (licensed under GPL v3) and the source code [can be found here](http://github.com/beemdevelopment/Aegis). The issue with Authy is that it depends on a phone number which can be changed through an email request, allowing anyone access to HOTP/TOTP after an approximate 4-day wait period. To avoid that, disable multi-device function in Authy's settings!
 
-[Read More](https://www.threatstack.com/blog/five-opsec-best-practices-to-live-by)
+- [Read More](https://www.threatstack.com/blog/five-opsec-best-practices-to-live-by)
 
 ---
 
@@ -182,7 +180,10 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 
 Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as example) or at least a hardware wallet. Never store your seed phrase digitally. Seed phrases are intended to be stored on the paper card included with hardware wallets! That means never type it up, store it online, or take a photo of the card. Store your key on hard device.
 
-[Read More](https://digitalguardian.com/blog/what-operational-security-five-step-process-best-practices-and-more)
+- [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
+- [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
+- [Read More](https://digitalguardian.com/blog/what-operational-security-five-step-process-best-practices-and-more)
+- [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
 
 ---
 
@@ -192,10 +193,11 @@ Offline (better - physical) back-ups. Store them in a safe. Can be written on pa
 
 Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
-> Check out: [Portable Secret](https://mprimi.github.io/portable-secret) & [digi cloak](https://github.com/kaushalmeena/digi-cloak)
-
-
-[Read More]([https://www.gocivilairpatrol.com/programs/emergency-services/operations-support/operational-security-opsec](https://unchained.com/blog/how-to-store-bitcoin-seed-phrase-backups/))
+- [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
+- [OpSec Going Smarter](https://officercia.mirror.xyz/B9hBom4jGhkV0C-47E4YBz8tBJkb0a7zVwQR0jITIyM)
+- Check out: [Portable Secret](https://mprimi.github.io/portable-secret) & [digi cloak](https://github.com/kaushalmeena/digi-cloak)
+- [Read More](https://www.gocivilairpatrol.com/programs/emergency-services/operations-support/operational-security-opsec)
+- [How to Store Seed Phrase Backups](https://unchained.com/blog/how-to-store-bitcoin-seed-phrase-backups)
 
 ---
 
@@ -207,13 +209,13 @@ You can install Comodo or MalwareBytes antivirus but it won't help you if you do
 
 OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
 
+- [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
+
 I'm only offering you a set of tools and guidelines to hunt for information; the rest is up to you! No one can create your security wall better than you, and learning OpSec does not require you to become a hostile, distrustful cryptopunk and abuse it to the extreme: you might find something that works for you.
 
 At the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on. 
 
 After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may effect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
-
-[Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
 
 ---
 
@@ -225,7 +227,7 @@ Be careful about using your real home address online for delivery purposes. Data
 
 If you’re ordering pizza with crypto, order it for pickup instead of delivery. When online shopping, use a different (and publicly available) address for package delivery. Options here include your workplace or drop boxes at delivery service providers like FedEx and your local postal service.
 
-[Read More](https://www.cnbc.com/2017/11/02/heres-how-to-protect-your-bitcoin-and-ethereum-from-hacking.html)
+- [Read More](https://www.cnbc.com/2017/11/02/heres-how-to-protect-your-bitcoin-and-ethereum-from-hacking.html)
 
 ---
 
@@ -233,10 +235,8 @@ If you’re ordering pizza with crypto, order it for pickup instead of delivery.
 
 Remember: You Could Be a Target! We are a natural target for all sorts of attacks — from garden-variety cybercriminals to competitive spying (sounds dramatic, but it’s real!). That said, it doesn’t really matter what industry you’re in. If you have any sensitive, proprietary information at all (and let’s face it, most people in crypto do), then you could very well be a target. This is a good thing to always keep in mind.
 
-[Read More](https://www.cnbc.com/2021/06/11/tips-to-help-keep-your-crypto-wallet-secure.html)
-
-[Read More](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
-
+- [Read More](https://www.cnbc.com/2021/06/11/tips-to-help-keep-your-crypto-wallet-secure.html)
+- [Read More](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 
 ---
 
@@ -244,9 +244,8 @@ Remember: You Could Be a Target! We are a natural target for all sorts of attack
 
 Remain Vigilant -  Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. 
 
-[Read More](https://www.ledger.com/academy/security/hack-wifi)
-
-[Read More](https://anonymousplanet.org/guide.html)
+- [Read More](https://www.ledger.com/academy/security/hack-wifi)
+- [Read More](https://anonymousplanet.org/guide.html)
 
 
 ---
@@ -259,7 +258,7 @@ OpSec often comes into play in public settings. For example, if members of your 
 
 A lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically. 
 
-[Watch More](https://www.youtube.com/watch?v=hxHqE2W8scQy)
+- [Watch More](https://www.youtube.com/watch?v=hxHqE2W8scQy)
 
 ---
 
@@ -270,9 +269,8 @@ Identify your sensitive data, including your product research, passwords, intell
 > [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and Cryptography can also be combined for this purpose. After all, cryptography hides information, whereas steganography masks the fact that it was transmitted. For example, if you stenographically double-encrypt your passwords and store them in a cloud-based password manager, hackers (even if the vault is decoded or hacked) will be unable to use them as they will need your [stega-key](https://www.edureka.co/blog/steganography-tutorial) for this. You would, however, have to decrypt each password each time you are using it, with a special note.
 
 - Check out [this tool](https://github.com/utkusen/wholeaked)!
-
-[Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
-[Watch More](https://www.youtube.com/watch?v=0aSQMeoz9ow)
+- [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
+- [Watch More](https://www.youtube.com/watch?v=0aSQMeoz9ow)
 
 ---
 
@@ -280,7 +278,7 @@ Identify your sensitive data, including your product research, passwords, intell
 
 Identify possible threats. For each category of information that you deem sensitive, you should identify what kinds of threats are present. While you should be wary of third parties trying to steal your information, you should also watch out for insider threats, such as negligent employees and disgruntled workers.
 
-[Read More](https://datatracker.ietf.org/wg/opsec/documents/)
+- [Read More](https://datatracker.ietf.org/wg/opsec/documents/)
 
 ---
 
@@ -288,7 +286,7 @@ Identify possible threats. For each category of information that you deem sensit
 
 Analyze security holes and other vulnerabilities. Assess your current safeguards and determine what, if any, loopholes or weaknesses exist that may be exploited to gain access to your sensitive data.
 
-[Read More](https://www.lopp.net/bitcoin-information/security.html)
+- [Read More](https://www.lopp.net/bitcoin-information/security.html)
 
 ---
 
@@ -296,7 +294,7 @@ Analyze security holes and other vulnerabilities. Assess your current safeguards
 
 Appraise the level of risk associated with each vulnerability. Rank your vulnerabilities using factors such as the likelihood of an attack happening, the extent of damage that you would suffer, and the amount of work and time you would need to recover. The more likely and damaging an attack is, the more you should prioritize mitigating the associated risk.
 
-[Read More](https://www.reddit.com/r/opsec/)
+- [Read More](https://www.reddit.com/r/opsec/)
 
 ---
 
@@ -308,7 +306,7 @@ Get countermeasures in place. The last step of operational security is to create
 
 Employees should be able to implement the measures required on their part with or without additional training.
 
-[Read More](https://hackernoon.com/5-tips-to-prevent-hackers-from-stealing-your-crypto-assets-e2243zig)
+- [Read More](https://hackernoon.com/5-tips-to-prevent-hackers-from-stealing-your-crypto-assets-e2243zig)
 
 ---
 
@@ -316,7 +314,7 @@ Employees should be able to implement the measures required on their part with o
 
 Implement separation of duties. Make sure that those who work on your network are not the same people in charge of security.
 
-[Read More](https://arxiv.org/abs/2106.10740)
+- [Read More](https://arxiv.org/abs/2106.10740)
 
 ---
 
@@ -324,9 +322,8 @@ Implement separation of duties. Make sure that those who work on your network ar
 
 Automate tasks to reduce the need for human intervention. Humans are the weakest link in any organization’s operational security initiatives because they make mistakes, overlook details, forget things, and bypass processes.
 
-[Read More](https://web.mit.edu/smadnick/www/wp/2019-05.pdf)
-
-[Read More](https://medium.com/immunefi/how-not-to-get-hacked-on-telegram-2db2b93a5fa2v)
+- [Read More](https://web.mit.edu/smadnick/www/wp/2019-05.pdf)
+- [Read More](https://medium.com/immunefi/how-not-to-get-hacked-on-telegram-2db2b93a5fa2v)
 
 
 ---
@@ -335,9 +332,8 @@ Automate tasks to reduce the need for human intervention. Humans are the weakest
 
 Incident response and disaster recovery planning are always crucial components of a sound security posture. Even when operational security measures are robust, you must have a plan to identify risks, respond to them, and mitigate potential damages.
 
-[Read More on Incident Response Plans](https://www.crowdstrike.com/cybersecurity-101/incident-response/)
-
-[Read More](https://trustwallet.com/blog/how-to-stay-safe-on-the-internet-crypto-guide)
+- [Read More on Incident Response Plans](https://www.crowdstrike.com/cybersecurity-101/incident-response/)
+- [Read More](https://trustwallet.com/blog/how-to-stay-safe-on-the-internet-crypto-guide)
 
 
 ---
@@ -357,9 +353,8 @@ Separate machines on the same network will not prevent this, as the traffic pass
 
 Malware can also have the functionality to "attack" a computer's clipboard. The malware could check the clipboard at a set interval to see if any cryptocurrency addresses are detected in it. If they are, it would then replace the one in the clipboard with one of the hacker's cryptocurrency addresses, which means the cryptocurrency would then be sent to the hacker. The beginning and end may match, but this requires extra functionality on the part of the malware, as it would need to generate wallets on the fly and exfiltrate the keys to the hacker.
 
-[Watch More](https://www.youtube.com/watch?v=pGcerfVqYyU)
-
-[Read More](https://medium.com/@cryptochatjoe/remaining-anonymous-in-todays-crypto-market-a-101-guide-for-the-badass-not-so-techies-7091edffa9aa)
+- [Watch More](https://www.youtube.com/watch?v=pGcerfVqYyU)
+- [Read More](https://medium.com/@cryptochatjoe/remaining-anonymous-in-todays-crypto-market-a-101-guide-for-the-badass-not-so-techies-7091edffa9aa)
 
 ---
 
@@ -367,9 +362,8 @@ Malware can also have the functionality to "attack" a computer's clipboard. The 
 
 Your level of opsec usually depends on your threat model and which adversary you're up against. So it's hard to define how good your opsec is. But I'd say it sounds pretty okay. I recommend watching: 
 
-[Watch More](https://www.youtube.com/watch?v=9XaYdCdwiWU)
-
-[Watch More](https://www.youtube.com/watch?v=ixLuRvYlrlw)
+- [Watch More](https://www.youtube.com/watch?v=9XaYdCdwiWU)
+- [Watch More](https://www.youtube.com/watch?v=ixLuRvYlrlw)
 
 **Check out:**
 
@@ -390,9 +384,10 @@ Your level of opsec usually depends on your threat model and which adversary you
 
 #### Problem 22
 
-If you use smartphone be extremely aware.
+If you use smartphone be extremely aware!
 
-[Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
+- [OpSec Going Smarter: Secure Smartphones](https://officercia.mirror.xyz/0tlSSF2LDTOnnMN41R5Uc1kTpo-G-kXljn8pT0a1YLY)
+- [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
 
 ---
 
@@ -400,9 +395,8 @@ If you use smartphone be extremely aware.
 
 Only Interact with DeFi Protocols You Trust - Take your time to read up on some previous concepts we’ve covered such as staking, yield farming, NFT farming, and research any other new terms you may come across before depositing crypto into a DApp that deploys any of these investment strategies. 
 
-[Read More](https://github.com/OffcierCia/ultimate-defi-research-base)
-
-[Read More](https://assets.website-files.com/5ffef4c69be53b44bd10b438/6012f54022181b0d0a3a948c_CryptoCurrency%20Security%20Standards%20Checklist.pdf)
+- [Read More](https://github.com/OffcierCia/ultimate-defi-research-base)
+- [Read More](https://assets.website-files.com/5ffef4c69be53b44bd10b438/6012f54022181b0d0a3a948c_CryptoCurrency%20Security%20Standards%20Checklist.pdf)
 
 
 ---
@@ -411,9 +405,8 @@ Only Interact with DeFi Protocols You Trust - Take your time to read up on some 
 
 Use trusted services. Using a secure, easy-to-use crypto wallet to interact with DeFi applications is essential to a safe and user-friendly DeFi experience. Interacting with smart contracts can be tricky for first-time users, so using a beginner-friendly crypto wallet with DApp support is a smart way to mitigate risks stemming from accidental errors on the side of the user. Better do **everything** manually!
 
-[Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
-
-[Read More](https://blog.eduonix.com/cryptocurrency/cryptocurrency-security-checklist-investors-adopt/)
+- [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [Read More](https://blog.eduonix.com/cryptocurrency/cryptocurrency-security-checklist-investors-adopt/)
 
 
 ---
@@ -424,9 +417,8 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 
 > Check out this [book & article](https://counterintelligence.info/index.php/2020/03/05/extreme-privacy-michael-bazzell)!
 
-[Read More](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
-
-[Read More](https://cryptosec.info/checklist/)
+- [Read More](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
+- [Read More](https://cryptosec.info/checklist/)
 
 #
 
