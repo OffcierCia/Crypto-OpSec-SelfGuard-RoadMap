@@ -127,6 +127,15 @@ Use passwords that are at least 8 characters in length, but a minimum of 12 is g
 
 Using a string of unrelated words while still meeting the dictionary requirement makes it easy to have an extremely secure password while still being able to remember it. If fully relying on a password manager, a password of 20+ characters in length that is randomly generated can be used. 
 
+- [Wi-Fi Security A-Z](twitter.com/officer_cia/status/1566473017068331010)
+- [How to detect if someone is attempting to crack your wi-fi](https://andrecamillo.medium.com/how-to-detect-if-someone-is-attempting-to-crack-your-wi-fi-1d142c5cec93)
+- [Use a Raspberry Pi To Catch Hackers with OpenCanary](https://www.tomshardware.com/news/use-a-raspberry-pi-to-catch-hackers-with-opencanary)
+- [canarytokens.org](https://canarytokens.org/generate)
+- [Someone overheard me! Why it's important to think about all attack vectors, even if they seem unlikely to happen?](https://officercia.mirror.xyz/Gc4msiSq4HkKrrsKcL5tDF613iUtX4vWUAb5DYdDPC0)
+- [MacOS + IOS + Crypto + OpSec = ?](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
+- [Awesome wifi security](https://github.com/edelahozuah/awesome-wifi-security)
+
+
 If you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts. 
 
 [KeePass](https://keepass.info) or [KeePassDX](https://www.keepassdx.com) or [KeePassXC](https://keepassxc.org) or [BitWarden](https://bitwarden.com) are good options. I also found [this tutorial](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093) for [integrity check](https://keepass.info/integrity.html) (and other checks) very helpful, be sure to check it out as well: [link](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093).
