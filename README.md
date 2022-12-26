@@ -199,6 +199,26 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 - [Read More](https://digitalguardian.com/blog/what-operational-security-five-step-process-best-practices-and-more)
 - [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
 
+**Great wallets (both hot and cold):**
+
+**For Bitcoin:**
+
+- [Coldcardwallet](https://twitter.com/coldcardwallet)
+- [Cypherockwallet](https://twitter.com/cypherockwallet)
+- [Sparrowwallet.com](https://sparrowwallet.com)
+- [Bitlox](https://twitter.com/bitlox)
+
+**Other Cryptocurrencies:**
+
+- [Alphawallet](https://twitter.com/alphawallet)
+- [Airgap_it](https://twitter.com/airgap_it)
+- [Frame.sh](https://frame.sh)
+- [Walletscrutiny.com](http://walletscrutiny.com)
+- [Grid-lattice1](https://gridplus.io/products/grid-lattice1)
+- [Atomicwallet.io](https://atomicwallet.io)
+- [Forked MetaMask](https://twitter.com/0xngmi/status/1601744180510085121)
+- [Multichain crypto wallet](www.npmjs.com/package/multichain-crypto-wallet)
+
 ---
 
 #### Problem 6
