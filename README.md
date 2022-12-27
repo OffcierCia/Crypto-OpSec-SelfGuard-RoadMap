@@ -435,9 +435,17 @@ If you use smartphone be extremely aware!
 
 Only Interact with DeFi Protocols You Trust - Take your time to read up on some previous concepts we’ve covered such as staking, yield farming, NFT farming, and research any other new terms you may come across before depositing crypto into a DApp that deploys any of these investment strategies. 
 
+- [TryEthernal.com](https://TryEthernal.com)
+- [Defillama.com](https://Defillama.com)
+- [Rotki](https://github.com/rotki)
+- [Find wallet](https://ethereum.org/en/wallets/find-wallet)
 - [Read More](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [Read More](https://assets.website-files.com/5ffef4c69be53b44bd10b438/6012f54022181b0d0a3a948c_CryptoCurrency%20Security%20Standards%20Checklist.pdf)
-
+- [Someone overheard me! Why it's important to think about all attack vectors, even if they seem unlikely to happen?](https://officercia.mirror.xyz/Gc4msiSq4HkKrrsKcL5tDF613iUtX4vWUAb5DYdDPC0)
+- [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
+- [Violent Attack Vectors in Web3: A Detailed Review](https://officercia.mirror.xyz/qfhQ_ocTPKnO5EqMlZ2ixIX7oBIfz5Tznid82EucbYk)
+- [Do not confuse it with allowance approve scam!](https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M)
+- [How to protect your assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
 
 ---
 
