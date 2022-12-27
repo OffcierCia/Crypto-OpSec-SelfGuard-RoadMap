@@ -453,9 +453,11 @@ Only Interact with DeFi Protocols You Trust - Take your time to read up on some 
 
 Use trusted services. Using a secure, easy-to-use crypto wallet to interact with DeFi applications is essential to a safe and user-friendly DeFi experience. Interacting with smart contracts can be tricky for first-time users, so using a beginner-friendly crypto wallet with DApp support is a smart way to mitigate risks stemming from accidental errors on the side of the user. Better do **everything** manually!
 
+- [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [Read More](https://blog.eduonix.com/cryptocurrency/cryptocurrency-security-checklist-investors-adopt/)
-
+- [How to protect your assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
+- [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 
 ---
 
