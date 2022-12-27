@@ -104,6 +104,11 @@ For example, if a Protonmail user sends an email to a GMail user, the email is e
 
 > Don't forget that the VDS/RDP + VM combinaton can replace all of this, but it is not available to everyone. If you know how to do it correcly - choose this way. [Check out this article as well](https://www.techtarget.com/searchitoperations/tip/Understand-the-differences-between-VPS-vs-VPC).
 
+**On the opposite:**
+
+Don’t use 3rd party VPN, rent a VPS and bootstrap open source VPN server!
+
+- [Richard Stallman: How I Do My Computing](https://stallman.org/stallman-computing.html)
 - [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
