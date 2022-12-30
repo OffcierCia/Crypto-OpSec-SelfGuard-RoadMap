@@ -95,7 +95,7 @@ The most important thing to understand here is the path of the cyber attack – 
 
 #### Problem 1
 
-Use a secure email provider like Protonmail or Tutanota. Also use trused VPN like Mullvad or ProtonVPN. E2E (end-to-end) encryption is only as secure as the service you are sending the email to. 
+Use a secure email provider like Protonmail or Tutanota. Also use trused VPN like Mullvad or ProtonVPN. E2E (end-to-end) encryption is only as secure as the service you are sending the email to.
 
 For example, if a Protonmail user sends an email to a GMail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
 
@@ -251,6 +251,24 @@ OpSec isn't always a matter of survival! It manifests itself in a variety of way
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 
 I'm only offering you a set of tools and guidelines to hunt for information; the rest is up to you! No one can create your security wall better than you, and learning OpSec does not require you to become a hostile, distrustful cryptopunk and abuse it to the extreme: you might find something that works for you.
+
+<details>
+<summary>More about VPN</summary>
+<br />
+
+A VPN (Virtual Private Network) is an application that increases your online security and privacy. It creates an encrypted tunnel by redirecting your traffic and hides personal data, information and browsing history. Many of us do not know where to start when choosing a VPN, but I will help you in this, remember main key principles:
+
+- The VPN app must reliably encrypt data
+- The VPN app must have a kill-switch, AND lockdown modes!
+- It must not store a single byte of your sensitive data, including email address.
+
+One helpful sheet created by someone comparing VPNs in detail is [here](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit#gid=0)!
+
+[Mullvad](https://mullvad.net) does a few things differently than most other VPNs, such as allowing cash payments and not requiring an email address to create an account. One may also wonder: Isn't WireGuard less safe than OpenVPN, since logs are kept for WireGuard (at least temporary? Well, If you have multiple users you have to make an additional gateway with additional IP address. Like in [Nordlynx](https://nordvpn.com/blog/nordlynx-protocol-wireguard/). But out of the box you cant say that OpenVPN is more safe. It's more difficult to configure it so misconfiguration may be an issue. With all said, I prefer mullvad.net + oVPN. Another Option — Setting Up a Hardware VPN. If you area VPN enjoyer I’d strongly consider you look at affordable hardware options, for example, the [gl-mt1300](https://www.amazon.com/GL-iNet-GL-MT1300-Wireless-Pocket-Sized-Repeater/dp/B08MKZXGBY) is a cheap and very nice piece of kit, easy way to protect your home network from threats without relying on running software locally. It may seem overkill but the options of TOR or Mullvad and general WireGuard, and measures to stop [DNS leakage](http://www.dnsleaktest.com) make it quite a nice useful piece of kit!
+
+It is important to note that you can achieve the same thing by installing oVPN Mullvad (or another service you trust / your own VPN) configuration on your home router! You should also keep in mind the basic rule: the VPN is your buddy and will keep you safe from a wide range of threats, including even several WiFi and physical attacks. I hope this short [note](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg) helps you decide!
+
+</details>
 
 At the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on. 
 
