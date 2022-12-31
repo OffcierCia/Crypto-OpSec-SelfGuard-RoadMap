@@ -451,8 +451,30 @@ Your level of opsec usually depends on your threat model and which adversary you
 
 If you use smartphone be extremely aware!
 
+Your choice of smartphone can indicate how much you respect your privacy in the modern world, when protecting your privacy online is just as important as protecting it offline. Good thing is, these specialized smartphones that came into existence to protect your privacy, will make you sleep in peace at night.
+
 - [OpSec Going Smarter: Secure Smartphones](https://officercia.mirror.xyz/0tlSSF2LDTOnnMN41R5Uc1kTpo-G-kXljn8pT0a1YLY)
 - [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
+
+But do they truly live up to their reputations? I believe that in general, three things are necessary:
+
+- The ability to physically disconnect the stubs to the camera (like in Purism Librem 5), GPS, microphone, speakers, and so on;
+- Next, ability to run GrapheneOS or LineageOS;
+- And third, it's root access, as follows.
+
+One thing to keep in mind before we get started is that very few firms produce privacy and security-based smartphones, which means some of these devices are a little dated or use an earlier version of Android. As a result, do not anticipate the newest hardware or software to work with these devices.
+
+Here’s a list of the most secure phones you can use today:
+
+- Bittium Tough Mobile 2C
+- K-iPhone – The one of the most secure Phones [IMHO](https://officercia.mirror.xyz/)❕
+- Solarin From Sirin Labs
+- Purism Librem 5 - Top-1 IMHO ❗️
+- Sirin Labs Finney U1
+- Latest iPhone (watch out [iCloud](https://www.quora.com/What-can-the-FBI-or-police-access-from-an-iCloud-account-Can-they-access-everything) & [known attacks](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)) or Android
+- [BlackBerry Device](https://www.blackberry.com/us/en/products/secure-smartphones) - Let's [respect](https://www.itworldcanada.com/slideshow/blackberry-through-the-years) the true [Pioneers](https://arstechnica.com/gadgets/2013/02/a-look-at-blackberrys-devices-through-the-ages/) in this industry!
+- Google Pixel (4 and beyond) are good privacy friendly options if you reconfigure them to run GrapheneOS!
+- Buy an old Nexus, run divestos.org or LineageOS or Ubuntu!
 
 ---
 
