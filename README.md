@@ -270,6 +270,10 @@ Another Option — Setting Up a Hardware VPN. If you area VPN enjoyer I’d stro
 
 It is important to note that you can achieve the same thing by installing oVPN Mullvad (or another service you trust / your own VPN) configuration on your home router! You should also keep in mind the basic rule: the VPN is your buddy and will keep you safe from a wide range of threats, including even several WiFi and physical attacks. I hope this short [note](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg) helps you decide!
 
+**On the opposite:**
+
+Don't use 3rd party VPN, rent a VPS and bootstrap open source VPN server, it's 5 min!
+
 </details>
 
 At the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on. 
