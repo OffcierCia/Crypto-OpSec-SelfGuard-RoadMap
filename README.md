@@ -492,6 +492,8 @@ But do they truly live up to their reputations? I believe that in general, three
 
 One thing to keep in mind before we get started is that very few firms produce privacy and security-based smartphones, which means some of these devices are a little dated or use an earlier version of Android. As a result, do not anticipate the newest hardware or software to work with these devices.
 
+- Check out: [darknetdiaries: Encrypted Phones](https://darknetdiaries.com/episode/105)
+
 Here’s a list of the most secure phones you can use today:
 
 - Bittium Tough Mobile 2C
