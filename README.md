@@ -642,5 +642,5 @@ If you want to support my work, you can also send me a donation to the address:
 
 ##
 
-(👍 ͡❛ ͜ʖ ͡❛)👍 Thank you! 
+**Thank you! Stay safe!**
 
