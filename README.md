@@ -224,6 +224,21 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 - [Forked MetaMask](https://twitter.com/0xngmi/status/1601744180510085121)
 - [Multichain crypto wallet](www.npmjs.com/package/multichain-crypto-wallet)
 
+**On the opposite:**
+
+Tend to use:
+
+- QubesOS; [Manual](https://www.qubes-os.org/news/2022/10/28/how-to-organize-your-qubes)
+- TailsOS; [Manual](https://blokt.com/guides/tails-os)
+- WhonixOS; [Manual](https://www.whonix.org/wiki/Linux)
+
+For mobile: 
+
+- GrapheneOS; [Forum](https://discuss.grapheneos.org/u/6gsxdr3U)
+- LineageOS; [Manual](https://wiki.lineageos.org/install_guides)
+- DivestOS; [Manual](https://en.wikipedia.org/wiki/DivestOS)
+- [Read](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
+
 ---
 
 #### Problem 6
