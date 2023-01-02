@@ -325,11 +325,17 @@ That said, it doesn’t really matter what industry you’re in. If you have any
 
 #### Problem 10
 
-Remain Vigilant -  Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. 
+Remain Vigilant -  Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. Watch out [physical attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)!
 
+- [Wi-Fi Security when holding Crypto assets!](https://t.me/officer_cia/377)
 - [Read More](https://www.ledger.com/academy/security/hack-wifi)
 - [Read More](https://anonymousplanet.org/guide.html)
-
+- [SS7 Attacks](https://t.me/officer_cia/79)
+- [More SS7 Attacks](https://www.zdnet.com/article/5g-networks-could-be-vulnerable-to-exploit-due-to-mishmash-of-old-technologies)
+- [How to detect IMSI catchers](https://armadillophone.com/blog/how-to-detect-imsi-catchers)
+- [Check out](https://twitter.com/Laughing_Mantis/status/1579550302172508161)
+- [Wardriving](https://github.com/AlexLynd/ESP8266-Wardriving)
+- [CreepDetector](https://github.com/skickar/CreepDetector)
 
 ---
 
