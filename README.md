@@ -294,6 +294,7 @@ For mobile:
 - LineageOS; [Manual](https://wiki.lineageos.org/install_guides)
 - DivestOS; [Manual](https://en.wikipedia.org/wiki/DivestOS)
 - [Read](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
+- [Comparing VeraCrypt and TrueCrypt with an unexpected result](https://book.cyberyozh.com/veracrypt-veracrypt-vs-truecrypt)
 
 ---
 
