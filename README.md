@@ -224,21 +224,6 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 - [Forked MetaMask](https://twitter.com/0xngmi/status/1601744180510085121)
 - [Multichain crypto wallet](www.npmjs.com/package/multichain-crypto-wallet)
 
-**On the opposite:**
-
-Tend to use:
-
-- QubesOS; [Manual](https://www.qubes-os.org/news/2022/10/28/how-to-organize-your-qubes)
-- TailsOS; [Manual](https://blokt.com/guides/tails-os)
-- WhonixOS; [Manual](https://www.whonix.org/wiki/Linux)
-
-For mobile: 
-
-- GrapheneOS; [Forum](https://discuss.grapheneos.org/u/6gsxdr3U)
-- LineageOS; [Manual](https://wiki.lineageos.org/install_guides)
-- DivestOS; [Manual](https://en.wikipedia.org/wiki/DivestOS)
-- [Read](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
-
 ---
 
 #### Problem 6
@@ -294,6 +279,21 @@ Don't use 3rd party VPN, rent a VPS and bootstrap open source VPN server, it's 5
 At the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on. 
 
 After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may effect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
+
+**On the opposite:**
+
+Tend to use:
+
+- QubesOS; [Manual](https://www.qubes-os.org/news/2022/10/28/how-to-organize-your-qubes)
+- TailsOS; [Manual](https://blokt.com/guides/tails-os)
+- WhonixOS; [Manual](https://www.whonix.org/wiki/Linux)
+
+For mobile: 
+
+- GrapheneOS; [Forum](https://discuss.grapheneos.org/u/6gsxdr3U)
+- LineageOS; [Manual](https://wiki.lineageos.org/install_guides)
+- DivestOS; [Manual](https://en.wikipedia.org/wiki/DivestOS)
+- [Read](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
 
 ---
 
