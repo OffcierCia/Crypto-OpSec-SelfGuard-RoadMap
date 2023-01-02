@@ -405,6 +405,7 @@ Implement separation of duties. Make sure that those who work on your network ar
 
 Automate tasks to reduce the need for human intervention. Humans are the weakest link in any organization’s operational security initiatives because they make mistakes, overlook details, forget things, and bypass processes.
 
+- [Telegram & Discord Security Best Practices](https://telegra.ph/Telegram--Discord-Security-Best-Practices-01-02)
 - [Read More](https://web.mit.edu/smadnick/www/wp/2019-05.pdf)
 - [Read More](https://medium.com/immunefi/how-not-to-get-hacked-on-telegram-2db2b93a5fa2v)
 
@@ -475,6 +476,7 @@ Your choice of smartphone can indicate how much you respect your privacy in the 
 
 - [OpSec Going Smarter: Secure Smartphones](https://officercia.mirror.xyz/0tlSSF2LDTOnnMN41R5Uc1kTpo-G-kXljn8pT0a1YLY)
 - [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
+- [Telegram & Discord Security Best Practices](https://telegra.ph/Telegram--Discord-Security-Best-Practices-01-02)
 
 But do they truly live up to their reputations? I believe that in general, three things are necessary:
 
