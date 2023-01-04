@@ -211,6 +211,7 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 - [Coldcardwallet](https://twitter.com/coldcardwallet)
 - [Cypherockwallet](https://twitter.com/cypherockwallet)
 - [Sparrowwallet.com](https://sparrowwallet.com)
+- [BitBox](https://shiftcrypto.ch/bitbox02/threat-model)
 - [Bitlox](https://twitter.com/bitlox)
 
 **Other Cryptocurrencies:**
