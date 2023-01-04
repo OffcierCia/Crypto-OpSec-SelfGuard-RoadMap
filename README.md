@@ -203,6 +203,7 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [Read More](https://digitalguardian.com/blog/what-operational-security-five-step-process-best-practices-and-more)
 - [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
+- [ShiftCrypto](https://shiftcrypto.support/help/en-us/5-backup/72-what-types-of-wallet-backups-can-i-create)
 
 **Great wallets (both hot and cold):**
 
