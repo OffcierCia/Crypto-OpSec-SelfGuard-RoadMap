@@ -203,6 +203,7 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [Read More](https://digitalguardian.com/blog/what-operational-security-five-step-process-best-practices-and-more)
 - [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
+- [The problem with Crypto Wallets today](https://www.radixdlt.com/post/the-problem-with-crypto-wallets-today)
 
 **Great wallets (both hot and cold):**
 
@@ -524,6 +525,8 @@ Only Interact with DeFi Protocols You Trust - Take your time to read up on some 
 - [Violent Attack Vectors in Web3: A Detailed Review](https://officercia.mirror.xyz/qfhQ_ocTPKnO5EqMlZ2ixIX7oBIfz5Tznid82EucbYk)
 - [Do not confuse it with allowance approve scam!](https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M)
 - [How to protect your assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
+- [Understanding the problem with smart contracts today](https://www.radixdlt.com/post/the-problem-with-smart-contracts-today)
+- [Comparing virtual machines](https://www.radixdlt.com/post/comparing-virtual-machines-message-only-vs-asset-oriented)
 
 ---
 
