@@ -379,7 +379,22 @@ Identify possible threats. For each category of information that you deem sensit
 
 Analyze security holes and other vulnerabilities. Assess your current safeguards and determine what, if any, loopholes or weaknesses exist that may be exploited to gain access to your sensitive data.
 
+- [Can forensic science still recover data from a hard drive after a seven-pass wipe?](https://www.quora.com/Can-forensic-science-still-recover-data-from-a-hard-drive-after-a-seven-pass-wipe?)
+- [File carving](https://resources.infosecinstitute.com/topic/file-carving)
 - [Read More](https://www.lopp.net/bitcoin-information/security.html)
+- [Choose Veracrypt (better) or FileVault!](https://book.cyberyozh.com/veracrypt-veracrypt-vs-truecrypt)
+
+**Also:**
+
+- [Citation from this resource:](https://www.quora.com/Can-forensic-science-still-recover-data-from-a-hard-drive-after-a-seven-pass-wipe?top_ans=29806971)
+
+If you have confidential files you want to protect, store them in cipher text, using 256-bit AES encryption, not in plain text format.
+
+If you want to sanitize the files, you can run a multi-pass wipe, shred or erase program. Glary Utilities includes a free file shredder tool where you can shred files or folders using Dept of Defense standard 5220.22-M. You can repeat the delete process up to 10 times.
+
+Even if someone was able to recover remnants of old magnetic disk data after 10 shredding passes, they would still not see the plain text data, they would see scrambled cipher text data, and would have to decrypt the very strong 256-bit AES encryption.
+
+Better yet, don’t store confidential or encrypted files on magnetic storage. Store the files on a removable flash drive that can be shredded with software and physically destroyed if desired. Unplug the flash drive when not in use.
 
 ---
 
