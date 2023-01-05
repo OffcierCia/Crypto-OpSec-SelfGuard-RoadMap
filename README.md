@@ -612,6 +612,7 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 - [Key principles of storing cryptocurrency securely](https://officercia.mirror.xyz/GtKNkmRDR_hhCqrnSENjqfPDHHb0W1M2SVeXDp4swCQ)
 - [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 - [Taming a Wildhorse CEX App](https://officercia.mirror.xyz/scaEkpIpF7pd9Dhsj26F3HguaYnwhDg9TeAGIo76aRY)
+- [Telegram & Discord Security Best Practices](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
 
 #
 
