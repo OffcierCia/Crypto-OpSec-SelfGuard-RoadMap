@@ -31,6 +31,10 @@ _________                        __           ________          _________       
 
 # OpSec SelfGuard RoadMap
 
+**Special Thanks:**
+
+- [AnonPlanet](https://anonymousplanet.org/links.html)
+
 **| Special Notes:**
 
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
@@ -386,6 +390,9 @@ Analyze security holes and other vulnerabilities. Assess your current safeguards
 
 - [Can forensic science still recover data from a hard drive after a seven-pass wipe?](https://www.quora.com/Can-forensic-science-still-recover-data-from-a-hard-drive-after-a-seven-pass-wipe?)
 - [Gentoo, a highly flexible, source-based Linux distribution. Gentoo allows users to easily patch almost any source-based package during build by providing a patch file in the appropriate directory within /etc/portage/patches. For medium to large scale deployments, a binhost may be set up to deploy binary packages to each individual machine, for easy management. ](https://www.gentoo.org)
+- [TailsOS](https://tails.boum.org/about/index.en.html)
+- [WhonixOS](https://www.whonix.org)
+- [ParrotOS](https://www.parrotsec.org)
 - You may also try using [LUKS!](https://en.m.wikipedia.org/wiki/Linux_Unified_Key_Setup)
 - [File carving](https://resources.infosecinstitute.com/topic/file-carving)
 - [Read More](https://www.lopp.net/bitcoin-information/security.html)
