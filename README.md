@@ -38,6 +38,7 @@ _________                        __           ________          _________       
 
 **Also check out:**
 
+- [AnonPlanet](https://anonymousplanet.org/links.html)
 - [Anon Guide](https://hackmd.io/@0xngmi/B1BXYIWCO) or via [this link](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
 - [anonymousplanet.org](https://anonymousplanet.org)
 - [My Works](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
@@ -73,6 +74,7 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
+- [AnonPlanet](https://anonymousplanet.org/links.html)
 
 Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes has the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
 
@@ -372,6 +374,7 @@ Identify your sensitive data, including your product research, passwords, intell
 Identify possible threats. For each category of information that you deem sensitive, you should identify what kinds of threats are present. While you should be wary of third parties trying to steal your information, you should also watch out for insider threats, such as negligent employees and disgruntled workers.
 
 - [Read More](https://datatracker.ietf.org/wg/opsec/documents/)
+- [AnonPlanet](https://anonymousplanet.org/links.html)
 
 ---
 
