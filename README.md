@@ -55,6 +55,7 @@ _________                        __           ________          _________       
 - [Start.me RabbitHole](https://cia.start.me/p/dlaxD0/ciaofficerv2)
 - [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [OpSec101](https://opsec101.org)
+- [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening)
 - [How to protect your crypto assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
 - [Crypto OpSec](https://twitter.com/jurad0x/status/1454120956516093956)
 - [Security best practices](https://twitter.com/bobbyong/status/1403881080902471680)
@@ -249,6 +250,7 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 - Check out: [Portable Secret](https://mprimi.github.io/portable-secret) & [digi cloak](https://github.com/kaushalmeena/digi-cloak)
 - [Read More](https://www.gocivilairpatrol.com/programs/emergency-services/operations-support/operational-security-opsec)
 - [How to Store Seed Phrase Backups](https://unchained.com/blog/how-to-store-bitcoin-seed-phrase-backups)
+- [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening)
 
 ---
 
@@ -307,6 +309,7 @@ For mobile:
 - DivestOS; [Manual](https://en.wikipedia.org/wiki/DivestOS)
 - [Read](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
 - [Comparing VeraCrypt and TrueCrypt with an unexpected result](https://book.cyberyozh.com/veracrypt-veracrypt-vs-truecrypt)
+- [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening)
 
 ---
 
