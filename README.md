@@ -1,5 +1,5 @@
 
-**Here we collect and discuss the best DeFi,Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.**
+**Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.**
 
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
@@ -72,7 +72,7 @@ Firstly, for an ideal OpSec I recommend either developing an own programming lan
 
 > Try not to enable such a psychological phenomenon as the [tunnel effect](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1006&context=isap_2005), which [refers us to the aviation psychology](https://en.wikipedia.org/wiki/Aviation_psychology) and [flight psychology](https://www.bps.org.uk/psychologist/psychology-flight), to emerge and expand. When [experienced pilots](https://flightsafety.org/asw-article/attention%E2%80%89on-deck) get overly focused on one item while disregarding or ignoring all other warnings, they have an accident. I hope you understood my guide correctly and did not allow this to happen. Be cautious, don't rush, and stay calm. When you are hungry, unwell, or defenseless, do not act on emotion.
 
-This is all correct, but nothing stops you from doing a fork or ordering an independent audit of the tools you are going to use , does it? With all said, it all depends on what you are going to get in result and against whom you are acting.
+This is all correct, but nothing stops you from doing a fork or ordering an independent audit of the tools you are going to use, does it? With all said, it all depends on what you are going to get in result and against whom you are acting.
 
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
@@ -80,7 +80,7 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 - [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 - [AnonPlanet](https://anonymousplanet.org/links.html)
 
-Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes has the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
+Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes have the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
 
 > I highly recommend to purchase a hardware wallet directly from the manufacturer's website rather than online retailers like Amazon/eBay. It is also advised to use an alternative email address or a virtual office to protect your personal information in case of a data leak. I also don’t like trusting hardware. Therefore, we all should have physical ciphers! Once again, study Steganography!
 
@@ -105,12 +105,12 @@ The most important thing to understand here is the path of the cyber attack – 
 
 Use a secure email provider like Protonmail or Tutanota. Also use trusted VPN like Mullvad or ProtonVPN. E2E (end-to-end) encryption is only as secure as the service you are sending the email to.
 
-For example, if a Protonmail user sends an email to a GMail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
+For example, if a Protonmail user sends an email to a Gmail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
 
 - [Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
 - [Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
 
-> Don't forget that the VDS/RDP + VM combinaton can replace all of this, but it is not available to everyone. If you know how to do it correcly - choose this way. [Check out this article as well](https://www.techtarget.com/searchitoperations/tip/Understand-the-differences-between-VPS-vs-VPC).
+> Don't forget that the VDS/RDP + VM combination can replace all of this, but it is not available to everyone. If you know how to do it correctly - choose this way. [Check out this article as well](https://www.techtarget.com/searchitoperations/tip/Understand-the-differences-between-VPS-vs-VPC).
 
 **On the opposite:**
 
@@ -240,7 +240,7 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 
 #### Problem 6
 
-Offline (better - physical) back-ups. Store them in a safe. Can be written on paper, but recommended to be etched or laser-printed into metal. Always be sure to have a backup stored somewhere safe if your threat model allows for that. 
+Offline (better - physical) backups. Store them in a safe. Can be written on paper, but recommended to be etched or laser-printed into metal. Always be sure to have a backup stored somewhere safe if your threat model allows for that. 
 
 Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
@@ -290,7 +290,7 @@ Don't use 3rd party VPN, rent a VPS and bootstrap open source VPN server, it's 5
 
 At the same time, I believe that OpSec, in its broadest sense, does not function on half-measures, and it's critical to understand how to do things in a benchmark so you have something to fall back on. 
 
-After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may effect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
+After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
 
 **On the opposite:**
 
@@ -474,7 +474,7 @@ A hacker delivered a RAT (remote access trojan) onto the computer of an employee
 
 Another potential attack is called "DNS Poisoning". It is a "highly deceptive cyber attack in which hackers redirect web traffic toward fake web servers and phishing websites". A web page could appear that looks like a normal login page for a business like GMail, Kraken, etc., but in reality it could be a phishing site made to steal your login information (email/username/password). 
 
-Separate machines on the same network will not prevent this, as the traffic passes through the router for both machines, so the solution is to have separate networks and to verify website certificates. Some VPN providers use their own DNS servers through the software pakcage they provide, so this could prevent this type of attack as well.
+Separate machines on the same network will not prevent this, as the traffic passes through the router for both machines, so the solution is to have separate networks and to verify website certificates. Some VPN providers use their own DNS servers through the software package they provide, so this could prevent this type of attack as well.
 
 Malware can also have the functionality to "attack" a computer's clipboard. The malware could check the clipboard at a set interval to see if any cryptocurrency addresses are detected in it. If they are, it would then replace the one in the clipboard with one of the hacker's cryptocurrency addresses, which means the cryptocurrency would then be sent to the hacker. The beginning and end may match, but this requires extra functionality on the part of the malware, as it would need to generate wallets on the fly and exfiltrate the keys to the hacker.
 
@@ -530,7 +530,7 @@ One thing to keep in mind before we get started is that very few firms produce p
 Here’s a list of the most secure phones you can use today:
 
 - Bittium Tough Mobile 2C
-- K-iPhone – The one of the most secure Phones [IMHO](https://officercia.mirror.xyz/)❕
+- K-iPhone – One of the most secure Phones [IMHO](https://officercia.mirror.xyz/)❕
 - Solarin From Sirin Labs
 - Purism Librem 5 - Top-1 IMHO ❗️
 - Sirin Labs Finney U1
@@ -573,7 +573,7 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 
 #### Problem 25
 
-Be aware of most common attacks. Follow hacker websites, latest security standarts, check out what [Nitrokey](https://www.nitrokey.com/) and [YubiKey](https://www.yubico.com) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) so possible criminals wont be able to collect needed data.
+Be aware of most common attacks. Follow hacker websites, latest security standards, check out what [Nitrokey](https://www.nitrokey.com/) and [YubiKey](https://www.yubico.com) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) so possible criminals won't be able to collect needed data.
 
 > Check out this [book & article](https://counterintelligence.info/index.php/2020/03/05/extreme-privacy-michael-bazzell)!
 
