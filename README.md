@@ -99,7 +99,7 @@ The most important thing to understand here is the path of the cyber attack – 
 
 #### Problem 1
 
-Use a secure email provider like Protonmail or Tutanota. Also use trused VPN like Mullvad or ProtonVPN. E2E (end-to-end) encryption is only as secure as the service you are sending the email to.
+Use a secure email provider like Protonmail or Tutanota. Also use trusted VPN like Mullvad or ProtonVPN. E2E (end-to-end) encryption is only as secure as the service you are sending the email to.
 
 For example, if a Protonmail user sends an email to a GMail user, the email is encrypted with TLS, but Google can still read and hand over any data that passes through their server. E2E can be re-established by using features such as the password-protected email feature from Protonmail.
 
