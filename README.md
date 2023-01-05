@@ -84,7 +84,7 @@ Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?i
 
 Secondly, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base)! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring. 
 
-> Behind every line of this guide stand dozens of years of experts who have shared their insights on security. Think of this guide as a lot of ideas and pathways!
+> This manual was written by decades of safety experts who shared their knowledge in every word. Consider this manual as a collection of suggestions and routes.
 
 «Antenna-websites» were created at that time. There, their authors gathered a variety of resources that were related by a common subject to make someone’s life easier! In some ways, the creators of Awesome Lists and start.me continue this idea now. And it's fantastically amazing! 
 
