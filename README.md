@@ -225,6 +225,7 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 - [Atomicwallet.io](https://atomicwallet.io)
 - [Forked MetaMask](https://twitter.com/0xngmi/status/1601744180510085121)
 - [Multichain crypto wallet](www.npmjs.com/package/multichain-crypto-wallet)
+- [Radix Wallet Demo](https://youtu.be/5iSK3rTjPMw?t=2306)
 
 ---
 
