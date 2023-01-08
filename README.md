@@ -129,6 +129,14 @@ Don’t use 3rd party VPN, rent a VPS and bootstrap open source VPN server!
 - [Watch more](https://youtu.be/rXwJwubqVmI)
 - [Wireguard VS OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn)
 
+**Check out:**
+
+Use dedicated email address for each account, or use an alias eg. chortly534524twitter@gmail , if it leaks it will be isolated to the account!
+
+You can also use something like [private addresses feature](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection) from DuckDuckGo or [simplelogin.io](https://simplelogin.io).
+
+- [How to hide your email](https://gizmodo.com/the-best-ways-to-hide-your-email-address-1848092989)
+
 ---
 
 #### Problem 2
@@ -560,6 +568,24 @@ Only Interact with DeFi Protocols You Trust - Take your time to read up on some 
 - [Violent Attack Vectors in Web3: A Detailed Review](https://officercia.mirror.xyz/qfhQ_ocTPKnO5EqMlZ2ixIX7oBIfz5Tznid82EucbYk)
 - [Do not confuse it with allowance approve scam!](https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M)
 - [How to protect your assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
+
+Don’t use Tornado and forget about it, but you can use:
+
+- [SideShift](https://sideshift.ai) or [AgoraDesk](https://agoradesk.com)
+- [How to fund an undoxxed Ethereum wallet off-chain](https://mirror.xyz/xanny.eth/SGxwfVQ75831z5vFaS1LrlatUJEhxBvZ2cyTvAdCD0k)
+- [changenow.io](https://changenow.io)
+- [tradeogre](https://tradeogre.com/markets)
+- ETH-XMR [atomic swap](https://github.com/noot/atomic-swap) - this one released via a bridge!
+- Maybe also check out: [Aztecnetwork](https://twitter.com/aztecnetwork) but always keep in mind [this dune dashboard!](https://dune.com/jaosef/Aztec-2)
+
+Use a reliable RPC provide or run a light client or a full node:
+
+- [Spook](https://github.com/EdenBlockVC/spook)
+- [RPC-proxy](https://github.com/shark0der/rpc-proxy)
+- [Zmok](https://zmok.io)
+- [Helios](https://github.com/a16z/helios)
+
+Check out this [awesome repo!](https://github.com/Msiusko/web3privacy)
 
 ---
 
