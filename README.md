@@ -310,6 +310,7 @@ For mobile:
 - [Read](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
 - [Comparing VeraCrypt and TrueCrypt with an unexpected result](https://book.cyberyozh.com/veracrypt-veracrypt-vs-truecrypt)
 - [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening)
+- [Endian](https://www.endian.com/community/)
 
 ---
 
