@@ -270,6 +270,12 @@ Never do anything you do not understand. Always check which token you approve, t
 
 You can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date.
 
+**Tip:**
+
+For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in.](https://www.darknetstats.com/tutorial-xmpp-jabber-otr-over-tor) Or Matrix… Or, at least, configure telegram correctly… 
+
+- [Digital Communications Protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0)
+
 OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
 
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
