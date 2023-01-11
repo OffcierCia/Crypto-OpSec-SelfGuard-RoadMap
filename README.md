@@ -171,6 +171,7 @@ If you see suspicious password activity or failed log-ins on any of your account
 
 - [Read More](https://blog.keys.casa/7-ways-to-level-up-your-bitcoin-opsec/)
 - [NIST 800-63b Password Guidelines and Best Practices](https://specopssoft.com/blog/nist-800-63b/)
+- [OpSec tips](https://twitter.com/wazzcrypto/status/1511447427751952385)
 
 ---
 
