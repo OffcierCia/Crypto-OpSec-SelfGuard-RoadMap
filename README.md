@@ -292,6 +292,8 @@ For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xab
 - [Open source virtual / remote desktop infrastructure for everyone!](https://rustdesk.com)
 - [The Invisible Internet Project](https://geti2p.net/en)
 - [Get Bridges for Tor](https://bridges.torproject.org)
+- [YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) & [example](https://www.youtube.com/watch?v=Fmm1AeYmbNU)
+- [youbit](https://github.com/MeViMo/youbit)
 
 OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
 
