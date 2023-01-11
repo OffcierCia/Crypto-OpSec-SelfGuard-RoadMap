@@ -145,6 +145,7 @@ Use different emails and different strong passwords. Store them in one place lik
 
 - [Taming a Wildhorse CEX App](https://officercia.mirror.xyz/scaEkpIpF7pd9Dhsj26F3HguaYnwhDg9TeAGIo76aRY)
 - [«Back office» and «front office»](https://twitter.com/officer_cia/status/1516581048792289280)
+- [Steganography tool](https://stylesuxx.github.io/steganography)
 
 Use passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character. 
 
