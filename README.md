@@ -275,6 +275,15 @@ You can install Comodo or MalwareBytes antivirus but it won't help you if you do
 For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in.](https://www.darknetstats.com/tutorial-xmpp-jabber-otr-over-tor) Or Matrix… Or, at least, configure telegram correctly… 
 
 - [Digital Communications Protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0)
+- [OTR versus OMEMO](https://forums.whonix.org/t/otr-versus-omemo/14063)
+- [ChatSecure](https://chatsecure.org)
+- [Encrypted Instant Messaging on Mac OS X with Adium and Off The Record](https://calyxinstitute.org/docs/howto-encrypted-instant-messaging-with-osx-adium-and-otr)
+- [axolotl, OMEMO vs OpenPGP](https://lists.gnupg.org/pipermail/gnupg-devel/2016-March/030917.html)
+- [The most significant milestones in the development of communications](https://officercia.mirror.xyz/G4782jMUpA_kkIpwakphbd6djX85cxRGS-pjBipc8Yk)
+- [Telegram & Discord Security Best Practices](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
+- [Jolly Roger’s Security Thread for Beginners](https://www.lopp.net/pdf/Jolly_Rogers_Security_Guide_for_Beginners.pdf)
+- [A curated list of privacy & security-focused software and services](https://github.com/Lissy93/awesome-privacy)
+- [Complete Expert Opsec Setup](https://ru.scribd.com/document/514305801/Complete-Expert-Opsec-Setup)
 
 OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
 
