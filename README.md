@@ -144,6 +144,7 @@ You can also use something like [private addresses feature](https://spreadprivac
 Use different emails and different strong passwords. Store them in one place like a password manager. Never reuse passwords, especially for accounts with personally identifiable and sensitive information (e.g. Facebook, Gmail, AppleID, Twitter, banks/payments, crypto accounts).
 
 - [Taming a Wildhorse CEX App](https://officercia.mirror.xyz/scaEkpIpF7pd9Dhsj26F3HguaYnwhDg9TeAGIo76aRY)
+- [«Back office» and «front office»](https://twitter.com/officer_cia/status/1516581048792289280)
 
 Use passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character. 
 
@@ -271,6 +272,7 @@ You can install Comodo or MalwareBytes antivirus but it won't help you if you do
 OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
 
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
+- [openvpn-install](https://github.com/Nyr/openvpn-install)
 
 I'm only offering you a set of tools and guidelines to hunt for information; the rest is up to you! No one can create your security wall better than you, and learning OpSec does not require you to become a hostile, distrustful cryptopunk and abuse it to the extreme: you might find something that works for you.
 
@@ -403,6 +405,7 @@ Analyze security holes and other vulnerabilities. Assess your current safeguards
 - [Can forensic science still recover data from a hard drive after a seven-pass wipe?](https://www.quora.com/Can-forensic-science-still-recover-data-from-a-hard-drive-after-a-seven-pass-wipe?)
 - [Gentoo, a highly flexible, source-based Linux distribution. Gentoo allows users to easily patch almost any source-based package during build by providing a patch file in the appropriate directory within /etc/portage/patches. For medium to large scale deployments, a binhost may be set up to deploy binary packages to each individual machine, for easy management. ](https://www.gentoo.org)
 - [TailsOS](https://tails.boum.org/about/index.en.html)
+- [Awesome Memory Forensics](https://github.com/digitalisx/awesome-memory-forensics)
 - [WhonixOS](https://www.whonix.org)
 - [ParrotOS](https://www.parrotsec.org)
 - You may also try using [LUKS!](https://en.m.wikipedia.org/wiki/Linux_Unified_Key_Setup)
@@ -538,6 +541,7 @@ But do they truly live up to their reputations? I believe that in general, three
 One thing to keep in mind before we get started is that very few firms produce privacy and security-based smartphones, which means some of these devices are a little dated or use an earlier version of Android. As a result, do not anticipate the newest hardware or software to work with these devices.
 
 - Check out: [darknetdiaries: Encrypted Phones](https://darknetdiaries.com/episode/105)
+- [A nice OpSec feature](https://www.nairaland.com/6258327/xiaomi-phone-allows-me-operate)
 
 Here’s a list of the most secure phones you can use today:
 
@@ -550,6 +554,7 @@ Here’s a list of the most secure phones you can use today:
 - [BlackBerry Device](https://www.blackberry.com/us/en/products/secure-smartphones) - Let's [respect](https://www.itworldcanada.com/slideshow/blackberry-through-the-years) the true [Pioneers](https://arstechnica.com/gadgets/2013/02/a-look-at-blackberrys-devices-through-the-ages/) in this industry!
 - Google Pixel (4 and beyond) are good privacy friendly options if you reconfigure them to run GrapheneOS!
 - Buy an old Nexus, run divestos.org or LineageOS or Ubuntu!
+- [ThinkPhone](https://news.lenovo.com/pressroom/press-releases/thinkphone-by-motorola-unmatched-business-device-experience)
 
 ---
 
