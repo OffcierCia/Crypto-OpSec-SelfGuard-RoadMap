@@ -284,6 +284,8 @@ For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xab
 - [Jolly Roger’s Security Thread for Beginners](https://www.lopp.net/pdf/Jolly_Rogers_Security_Guide_for_Beginners.pdf)
 - [A curated list of privacy & security-focused software and services](https://github.com/Lissy93/awesome-privacy)
 - [Complete Expert Opsec Setup](https://ru.scribd.com/document/514305801/Complete-Expert-Opsec-Setup)
+- [Pidgin](https://pidgin.im/help/protocols/xmpp/)
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org)
 
 OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
 
