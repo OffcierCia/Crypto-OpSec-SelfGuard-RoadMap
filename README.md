@@ -286,6 +286,11 @@ For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xab
 - [Complete Expert Opsec Setup](https://ru.scribd.com/document/514305801/Complete-Expert-Opsec-Setup)
 - [Pidgin](https://pidgin.im/help/protocols/xmpp/)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org)
+- [element.io - Matrix client](https://element.io)
+- [jitsi.org - for video calls](https://jitsi.org)
+- [Open source virtual / remote desktop infrastructure for everyone!](https://rustdesk.com)
+- [The Invisible Internet Project](https://geti2p.net/en)
+- [Get Bridges for Tor](https://bridges.torproject.org)
 
 OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
 
