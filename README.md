@@ -582,6 +582,15 @@ Here’s a list of the most secure phones you can use today:
 - Buy an old Nexus, run divestos.org or LineageOS or Ubuntu!
 - [ThinkPhone](https://news.lenovo.com/pressroom/press-releases/thinkphone-by-motorola-unmatched-business-device-experience)
 
+**On the opposite:**
+
+From a security standpoint, with a standard OS, most processes you start have at least all permissions for everything you are interacting with. Practical example: If you want to post nice pictures, telegram needs access to your pictures. No matter where it runs. 
+
+If your pc is comprised, your telegram can be used to exfiltrate your photos. In the end, user behavior is what's most important imho. Reckless behavior will lead to compromise sooner rather than later. Deploy a few simple security measures and review them regularly.
+
+- [What is Island in Android?](https://island.oasisfeng.com)
+- [Read more](https://forum.xda-developers.com/t/app-5-0-beta-island-app-freezing-privacy-protection-parallel-accounts.3366295)
+
 ---
 
 #### Problem 23
