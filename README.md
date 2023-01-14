@@ -136,6 +136,8 @@ Use dedicated email address for each account, or use an alias eg. chortly534524t
 You can also use something like [private addresses feature](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection) from DuckDuckGo or [simplelogin.io](https://simplelogin.io).
 
 - [How to hide your email](https://gizmodo.com/the-best-ways-to-hide-your-email-address-1848092989)
+- [Anti-detection system](https://detect.expert)
+- [Browser leakage checkers](https://graph.org/Checkers-01-19)
 
 ---
 
