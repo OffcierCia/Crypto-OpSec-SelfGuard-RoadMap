@@ -152,6 +152,8 @@ Use different emails and different strong passwords. Store them in one place lik
 Use passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character. 
 
 - [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive)
+- [Blockchain dark forest selfguard handbook](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/user_awareness/01_handbook/en)
+- [A tool that allows user to create time bound backups for various cryptocurrencies](https://github.com/James-Sangalli/crypto-timelocked-backup)
 
 > For a perfect-level privacy, always generate complex passwords and write them down on a notebook. It takes time but saves headache. Somewhere along the line, the 'stop writing passwords on sticky notes' narrative got misinterpreted as 'never write them down'. There's nuance to it!
 
