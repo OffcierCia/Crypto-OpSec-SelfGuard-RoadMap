@@ -151,6 +151,8 @@ Use different emails and different strong passwords. Store them in one place lik
 
 Use passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character. 
 
+- [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive)
+
 > For a perfect-level privacy, always generate complex passwords and write them down on a notebook. It takes time but saves headache. Somewhere along the line, the 'stop writing passwords on sticky notes' narrative got misinterpreted as 'never write them down'. There's nuance to it!
 
 Using a string of unrelated words while still meeting the dictionary requirement makes it easy to have an extremely secure password while still being able to remember it. If fully relying on a password manager, a password of 20+ characters in length that is randomly generated can be used. 
@@ -231,7 +233,8 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 
 **Great wallets (both hot and cold):**
 
-- **I Recommend Trezor or a [Lattice](https://gridplus.io/products/grid-lattice1)!**
+- **I Recommend Trezor or a [Lattice](https://gridplus.io/products/grid-lattice1)!** 
+- [Opinion on Trezor](https://twitter.com/0xjezza/status/1614522479438958592)
 
 **For Bitcoin:**
 
