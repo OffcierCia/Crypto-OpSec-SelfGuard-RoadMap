@@ -231,6 +231,8 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 
 **Great wallets (both hot and cold):**
 
+- **I Recommend Trezor or a [Lattice](https://gridplus.io/products/grid-lattice1)!**
+
 **For Bitcoin:**
 
 - [Coldcardwallet](https://twitter.com/coldcardwallet)
