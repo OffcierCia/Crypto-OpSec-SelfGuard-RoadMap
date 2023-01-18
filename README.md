@@ -40,33 +40,6 @@ _________                        __           ________          _________       
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
-**Also check out:**
-
-- [AnonPlanet](https://anonymousplanet.org/links.html)
-- [Anon Guide](https://hackmd.io/@0xngmi/B1BXYIWCO) or via [this link](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
-- [anonymousplanet.org](https://anonymousplanet.org)
-- [My Works](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
-- [How to use an ipad as a secure calling and messaging device](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device)
-- [Stylometric fingerprinting redux](https://seirdy.one/posts/2022/07/09/stylometric-fingerprinting-redux)
-- [privacyguides.org](https://privacyguides.org)
-- [OpSec](www.usenix.org/system/files/1401_08-12_mickens.pdf)
-- [DeepWeb OpSec](https://telegra.ph/Deepweb-OpSec-Link-08-20)
-- [privacytools.io](https://www.privacytools.io/)
-- [Start.me RabbitHole](https://cia.start.me/p/dlaxD0/ciaofficerv2)
-- [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
-- [OpSec101](https://opsec101.org)
-- [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening)
-- [How to protect your crypto assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
-- [Crypto OpSec](https://twitter.com/jurad0x/status/1454120956516093956)
-- [Security best practices](https://twitter.com/bobbyong/status/1403881080902471680)
-- [MyCrypto’s Security Guide For Dummies And Smart People Too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e)
-- [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
-- [The Ten Commandments of crypto security](https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40)
-- [Privacytests.org](https://privacytests.org)
-- [All known smart contract-side and user-side attacks and vulnerabilities](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy)
-- [Privacy.sexy Website](https://privacy.sexy)
-
 ## To answer your questions beforehand...
 
 Firstly, for an ideal OpSec I recommend either developing an own programming language (done by different remote & in-house teams) with your own semantics or becoming a developer yourself, or avoiding using ANY third-party software, implying that it can be compromised, and developing tools and apps in dependance on your needs completely on your own. 
@@ -693,6 +666,33 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 - [Taming a Wildhorse CEX App](https://officercia.mirror.xyz/scaEkpIpF7pd9Dhsj26F3HguaYnwhDg9TeAGIo76aRY)
 - [Telegram & Discord Security Best Practices](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
 
+**Also check out:**
+
+- [AnonPlanet](https://anonymousplanet.org/links.html)
+- [Anon Guide](https://hackmd.io/@0xngmi/B1BXYIWCO) or via [this link](hackmd.io/YKjhguQES_KeKYs-v1YC1w?both)
+- [anonymousplanet.org](https://anonymousplanet.org)
+- [My Works](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
+- [How to use an ipad as a secure calling and messaging device](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device)
+- [Stylometric fingerprinting redux](https://seirdy.one/posts/2022/07/09/stylometric-fingerprinting-redux)
+- [privacyguides.org](https://privacyguides.org)
+- [OpSec](www.usenix.org/system/files/1401_08-12_mickens.pdf)
+- [DeepWeb OpSec](https://telegra.ph/Deepweb-OpSec-Link-08-20)
+- [privacytools.io](https://www.privacytools.io/)
+- [Start.me RabbitHole](https://cia.start.me/p/dlaxD0/ciaofficerv2)
+- [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
+- [OpSec101](https://opsec101.org)
+- [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening)
+- [How to protect your crypto assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
+- [Crypto OpSec](https://twitter.com/jurad0x/status/1454120956516093956)
+- [Security best practices](https://twitter.com/bobbyong/status/1403881080902471680)
+- [MyCrypto’s Security Guide For Dummies And Smart People Too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e)
+- [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
+- [The Ten Commandments of crypto security](https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40)
+- [Privacytests.org](https://privacytests.org)
+- [All known smart contract-side and user-side attacks and vulnerabilities](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy)
+- [Privacy.sexy Website](https://privacy.sexy)
+
 #
 
 
@@ -731,35 +731,40 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 
 #
 
-## Support Me:
+Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users!
 
-Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users :sparkling_heart:  First, a few words, dear friends... I want to thank everyone who sent me donations!
+- [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
+- [My Blog on Medium](https://officercia.medium.com)
 
-The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
+**Sponsored:**
+
+- Order the best code audits here: [pessimistic.io](https://pessimistic.io)
+
+-  If you need an awesome lawyer, head to [analybits.xyz](https://analybits.xyz) and [rata0x](https://twitter.com/rata0x)
+
+The best thing is to support me directly by donating to any address from the list below:
 
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
-
-If you want to support my work, please consider donating me:
-
-- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
-
-- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR
+If you want to support my work, you can also send me a donation to the address:
 
 - **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
+
+- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** or **bc1q75zgp5jurtm96nltt9c9kzjnrt33uylr8uvdds** - BTC
+
+- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
 
 - **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC
 
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
 
+- [Binance Referral Link](https://accounts.binance.com/en/register?ref=165027618)
+
+- [Me on GitCoin](https://gitcoin.co/grants/3150/defi-developer-roadmap)
+
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
-#
-
-- [Check out my Telegram Channel](https://t.me/officer_cia)
-- [Follow my Twitter](https://twitter.com/officer_cia)
-- [Track all my activities](https://t.me/officer_cia/296)
-- [All my Socials](https://t.me/officer_cia/296)
+ **Much much thanks every single one of you!**
 
 ##
 
