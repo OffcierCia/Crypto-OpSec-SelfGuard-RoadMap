@@ -330,6 +330,35 @@ For mobile:
 - [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening)
 - [Endian](https://www.endian.com/community/)
 
+Also check out:
+
+- [sandboxie-plus.com](https://sandboxie-plus.com/downloads)
+- [Digital Communications Protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit?usp=drivesdk)
+- [spideroak.com](https://spideroak.com)
+- [rsync.net](https://rsync.net)
+- [nextdns.io](https://nextdns.io)
+- [app.any.run](https://app.any.run)
+- [Malware - File Analysis](https://start.me/w/aJxMm0)
+- [Island](https://island.oasisfeng.com)
+- [Vanilla OS](https://vanillaos.org)
+- [safing.io](https://safing.io)
+- [shadowsocks](https://github.com/shadowsocks)
+- [mac.getutm.app](https://mac.getutm.app)
+- [souin](https://github.com/darkweak/souin)
+- [geti2p.net](https://geti2p.net/en)
+- [anon-service](https://github.com/bit4mind/anon-service)
+- [privacy.sexy](https://privacy.sexy)
+- [Learn Cryptography!](https://4pda.to/forum/index.php?showtopic=782986)
+- [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker)
+- [CamWings](https://schiffer.tech/camwings-mobile.html)
+- [ScreenWings](https://schiffer.tech/screenwings-mobile.html)
+- [rethink-app](https://github.com/celzero/rethink-app)
+- [kleopatra](https://apps.kde.org/kleopatra)
+- [DPI tunnel](https://github.com/zhenyolka/DPITunnel-androidhttps://github.com/zhenyolka/DPITunnel-android)
+- [Teletun](https://github.com/PiMaker/Teletun)
+- [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+- [algoVPN](https://github.com/trailofbits/algo)
+
 ---
 
 #### Problem 8
