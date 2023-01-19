@@ -121,6 +121,8 @@ Use different emails and different strong passwords. Store them in one place lik
 - [Taming a Wildhorse CEX App](https://officercia.mirror.xyz/scaEkpIpF7pd9Dhsj26F3HguaYnwhDg9TeAGIo76aRY)
 - [«Back office» and «front office»](https://twitter.com/officer_cia/status/1516581048792289280)
 - [Steganography tool](https://stylesuxx.github.io/steganography)
+- [The State of Crypto Security](https://thecontrol.co/the-state-of-crypto-security-d628ac5b609d)
+- [Blockchain dark forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
 
 Use passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character. 
 
@@ -152,6 +154,9 @@ If you see suspicious password activity or failed log-ins on any of your account
 - [Read More](https://blog.keys.casa/7-ways-to-level-up-your-bitcoin-opsec/)
 - [NIST 800-63b Password Guidelines and Best Practices](https://specopssoft.com/blog/nist-800-63b/)
 - [OpSec tips](https://twitter.com/wazzcrypto/status/1511447427751952385)
+- [How to Defend Your Castle | Innovative Trio in Smart Contract Security: Monitoring, Prevention, Defense](https://blog.pessimistic.io/how-to-defend-your-castle-innovative-trio-in-smart-contract-security-monitoring-prevention-c8885304035a)
+- [Web3 Cybersecurity Academy](https://twitter.com/1nf0s3cpt/status/1615613430991564807)
+- [Enhancing user asset security](https://twitter.com/1nf0s3cpt/status/1614896605270007811)
 
 ---
 
@@ -358,6 +363,7 @@ Also check out:
 - [Teletun](https://github.com/PiMaker/Teletun)
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 - [algoVPN](https://github.com/trailofbits/algo)
+- [usbraptor](https://sourceforge.net/projects/usbraptor)
 
 ---
 
@@ -443,7 +449,7 @@ Identify possible threats. For each category of information that you deem sensit
 Analyze security holes and other vulnerabilities. Assess your current safeguards and determine what, if any, loopholes or weaknesses exist that may be exploited to gain access to your sensitive data.
 
 - [Can forensic science still recover data from a hard drive after a seven-pass wipe?](https://www.quora.com/Can-forensic-science-still-recover-data-from-a-hard-drive-after-a-seven-pass-wipe?)
-- [Gentoo, a highly flexible, source-based Linux distribution. Gentoo allows users to easily patch almost any source-based package during build by providing a patch file in the appropriate directory within /etc/portage/patches. For medium to large scale deployments, a binhost may be set up to deploy binary packages to each individual machine, for easy management. ](https://www.gentoo.org)
+- [Gentoo](https://www.gentoo.org)
 - [TailsOS](https://tails.boum.org/about/index.en.html)
 - [Awesome Memory Forensics](https://github.com/digitalisx/awesome-memory-forensics)
 - [WhonixOS](https://www.whonix.org)
