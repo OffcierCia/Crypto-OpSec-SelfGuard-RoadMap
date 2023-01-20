@@ -54,6 +54,8 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 - [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 - [AnonPlanet](https://anonymousplanet.org/links.html)
 
+> [Study Kerckhoffs's principle](https://en.m.wikipedia.org/wiki/Kerckhoffs%27s_principle) - The principle which holds that a cryptosystem should be secure, even if everything about the system, except the key, is public knowledge. This concept is widely embraced by cryptographers, in contrast to security through obscurity, which is not.
+
 Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes have the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
 
 > I highly recommend to purchase a hardware wallet directly from the manufacturer's website rather than online retailers like Amazon/eBay. It is also advised to use an alternative email address or a virtual office to protect your personal information in case of a data leak. I also don’t like trusting hardware. Therefore, we all should have physical ciphers! Once again, study Steganography!
@@ -210,6 +212,7 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 - [Read More](https://digitalguardian.com/blog/what-operational-security-five-step-process-best-practices-and-more)
 - [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
 - [ShiftCrypto](https://shiftcrypto.support/help/en-us/5-backup/72-what-types-of-wallet-backups-can-i-create)
+- [Rogue Key Attack in BLS Signature and Harmony Security](https://medium.com/@coolcottontail/rogue-key-attack-in-bls-signature-and-harmony-security-eac1ea2370ee)
 
 **Great wallets (both hot and cold):**
 
@@ -281,6 +284,7 @@ For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xab
 - [Get Bridges for Tor](https://bridges.torproject.org)
 - [YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) & [example](https://www.youtube.com/watch?v=Fmm1AeYmbNU)
 - [youbit](https://github.com/MeViMo/youbit)
+- [aperisolve.com](https://www.aperisolve.com)
 
 OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
 
