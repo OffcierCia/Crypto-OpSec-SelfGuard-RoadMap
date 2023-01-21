@@ -214,6 +214,6 @@ Conheça os ataques mais comuns. Siga websites de hackers, leia sobre os último
 
 Se você gostou e quiser apoiar o projeto do escritor desse trabalho, você pode doar para o seguinte endereço:
 
-**0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH (officercia.eth)
+**0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH (officercia.eth)!
 
 **17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU** - BTC
