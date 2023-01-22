@@ -257,7 +257,7 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 
 #### Problem 7
 
-Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that). 
+Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that).
 
 You can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date.
 
@@ -392,6 +392,10 @@ Remember: You Could Be a Target! We are a natural target for all sorts of attack
 > You may create **honeypots** on the working device (assuming you keep to this notion), such as [CanaryToken](https://www.tomshardware.com/news/use-a-raspberry-pi-to-catch-hackers-with-opencanary) or [IpLogger](https://iplogger.org). You can also create many wallet.dat files or just create a PDF document called, for example, **Wallet Seed** and hide [traps](https://twitter.com/lordnarfz0g/status/1554649309580300288) inside. That way, you'll be notified if anything happens or bad actors trigger it! Check out as well: [link1](https://github.com/lamer112311/Dnnme2), [link2](https://github.com/Bafomet666/Bigbro), [link3](https://t.me/ibederov_en/252), [link4](https://canarytokens.org). It will work out like a basic SIEM or DLP system. Same goes to your blockchain wallet - [alerts are very important](https://officercia.mirror.xyz/W-SUbkTf18b3RuPL9DykXQmpexWBZxbp4P1xfCfXo4Y)! Set them up properly!
 
 That said, it doesn’t really matter what industry you’re in. If you have any sensitive, proprietary information at all (and let’s face it, most people in crypto do), then you could very well be a target. This is a good thing to always keep in mind.
+
+> Anything on a mobile device uses the built in render, aka, brave uses web kit from Apple on iPhone, or blink on Android. They are just ui wrappers with some functionality built on top. I'd say Brave browser is sufficiently secure, but (original) Chromium is better because of the faster updates then on its forks (like Brave). Other tools should be treated with the same attitude. I mean, you can use Chrome both in anonymous and private ways.
+
+> Tor just makes your life easier a little bit. There is neither no out-of-the-box security nor out-of-the-box privacy solutions… There are no bad tools either. You can use obscore privacy enhanced forks like librewolf but its a trade off as you end up being more identifiable through browser fingerprinting, whereas when you use ff/chrome you are one of millions sharing a similar fingerprint.
 
 - [Read More](https://www.cnbc.com/2021/06/11/tips-to-help-keep-your-crypto-wallet-secure.html)
 - [Read More](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
