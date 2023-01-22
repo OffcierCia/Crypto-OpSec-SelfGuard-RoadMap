@@ -247,6 +247,8 @@ Cold storage, and separate “hot” wallet. Use multisig ([gnosis-safe.io](http
 
 Offline (better - physical) backups. Store them in a safe. Can be written on paper, but recommended to be etched or laser-printed into metal. Always be sure to have a backup stored somewhere safe if your threat model allows for that. 
 
+> In cryptography, [format-preserving encryption (FPE)](https://en.wikipedia.org/wiki/Format-preserving_encryption), refers to encrypting in such a way that the output (the ciphertext) is in the same format as the input (the plaintext). The meaning of "format" varies. Typically only finite sets of characters are used; numeric, alphabetic or alphanumeric.
+
 Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
 - [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
