@@ -205,7 +205,7 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 
 #### Problem 5
 
-Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as example) or at least a hardware wallet. Never store your seed phrase digitally. Seed phrases are intended to be stored on the paper card included with hardware wallets! That means never type it up, store it online, or take a photo of the card. Store your key on hard device.
+Cold storage, and separate “hot” wallet. Use multisig ([gnosis-safe.io](https://gnosis-safe.io) as example) or at least a hardware wallet. Never store your seed phrase digitally. Seed phrases are intended to be stored on the paper card included with hardware wallets! That means never type it up, store it online, or take a photo of the card. Store your key on hard device.
 
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
@@ -231,10 +231,13 @@ Cold storage, and separate “hot” wallet. Use multisig (gnosis-safe as exampl
 
 - [Alphawallet](https://twitter.com/alphawallet)
 - [Airgap_it](https://twitter.com/airgap_it)
+- [rainbow.me](https://rainbow.me)
 - [Frame.sh](https://frame.sh)
 - [Walletscrutiny.com](http://walletscrutiny.com)
 - [Grid-lattice1](https://gridplus.io/products/grid-lattice1)
 - [Atomicwallet.io](https://atomicwallet.io)
+- [Alternatives to Metamask](https://ethereum.stackexchange.com/questions/73982/alternatives-to-metamask)
+- [myetherwallet.com](https://www.myetherwallet.com)
 - [Forked MetaMask](https://twitter.com/0xngmi/status/1601744180510085121)
 - [Multichain crypto wallet](www.npmjs.com/package/multichain-crypto-wallet)
 
