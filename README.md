@@ -170,7 +170,7 @@ Never link phone numbers to crypto platforms. Use trusted multiple e-sims if you
 
 Ask them to NEVER make changes to your phone number/SIM unless you physically show up to a specific store with at minimum two forms of identification. This (should) prevent hackers from calling up AT&T or T-Mobile or Vodafone, claiming to be you, and asking them to port your phone number to a new phone.
 
-> SERM/ORMM and [Counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) - **do** exist, and one of the most interesting areas of which is to work with adding fake or confusing information about yourself in "leakages" or, for example, attaching to your number 100+ names related to taxi services through various GetContact accounts, to confuse potential bad actors who will try to research data on you in the future, in preparation for an attack. Then, think up.
+> SERM/ORM (search engine reputation marketing or reputation management) and [Counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) - **do** exist, and one of the most interesting areas of which is to work with adding fake or confusing information about yourself in "leakages" or, for example, attaching to your number 100+ names related to taxi services through various GetContact accounts, to confuse potential bad actors who will try to research data on you in the future, in preparation for an attack. Then, think up.
 
  **On the opposite:**
 
