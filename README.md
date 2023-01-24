@@ -218,6 +218,7 @@ Cold storage, and separate “hot” wallet. Use multisig ([gnosis-safe.io](http
 
 - **I Recommend Trezor or a [Lattice](https://gridplus.io/products/grid-lattice1)!** 
 - [Opinion on Trezor](https://twitter.com/0xjezza/status/1614522479438958592)
+- [airgapcomputer.com](https://airgapcomputer.com)
 
 **For Bitcoin:**
 
