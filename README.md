@@ -546,6 +546,12 @@ Incident response and disaster recovery planning are always crucial components o
 Risk management: The process of identifying, assessing and controlling threats to an organization's capital and earnings. These risks stem from a variety of sources including financial uncertainties, legal liabilities, technology issues, strategic management errors, accidents and natural disasters.
 
 - [Violent Attack Vectors in Web3: A Detailed Review](https://officercia.mirror.xyz/qfhQ_ocTPKnO5EqMlZ2ixIX7oBIfz5Tznid82EucbYk)
+- [Here's a List of 29 Different Types of USB Attacks](https://www.bleepingcomputer.com/news/security/heres-a-list-of-29-different-types-of-usb-attacks)
+- [Bluetooth Attacks and Security Tips – Awareness Results in Better Protection](https://home.sophos.com/en-us/security-news/2021/bluetooth-attacks)
+- [Bluetooth Security: 5 Ways to prevent Bluetooth attacks with Build38](https://build38.com/prevent-bluetooth-attacks)
+- [This is a macOS hardening to read or set security configuration](https://github.com/ataumo/macos_hardening)
+- [A collection of awesome security hardening guides, tools and other resources](https://github.com/decalage2/awesome-security-hardening)
+- [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 
 Many individuals from an organization can be in charge of different parts of the risk management process. Through this process, they can discover potential areas for a data breach or other threats. Understanding potential threat vectors is central to this process, as it allows them to be seen before they can be exploited. 
 
