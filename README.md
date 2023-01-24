@@ -254,7 +254,6 @@ Offline (better - physical) backups. Store them in a safe. Can be written on pap
 
 - [Audio Steganography : The art of hiding secrets](https://sumit-arora.medium.com/audio-steganography-the-art-of-hiding-secrets-within-earshot-part-1-of-2-6a3bbd706e15)
 - [Audio Steganography Technique for Communication Security](https://ukdiss.com/examples/implementation-design-for-audio-steganography.php)
-- [How I turned a mini-PC into an Ethereum node to run at home](https://medium.com/coinmonks/how-i-turned-a-mini-pc-into-an-ethereum-node-to-run-at-home-5aebf1b6f881)
 
 Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
@@ -320,6 +319,9 @@ One helpful sheet created by someone comparing VPNs in detail is [here](https://
 [Mullvad](https://mullvad.net) does a few things differently than most other VPNs, such as allowing cash payments and not requiring an email address to create an account. One may also wonder: Isn't WireGuard less safe than OpenVPN, since logs are kept for WireGuard (at least temporary? Well, If you have multiple users you have to make an additional gateway with additional IP address. Like in [Nordlynx](https://nordvpn.com/blog/nordlynx-protocol-wireguard/). But out of the box you cant say that OpenVPN is more safe. It's more difficult to configure it so misconfiguration may be an issue. With all said, I prefer mullvad.net + oVPN. 
 
 Another Option — Setting Up a Hardware VPN. If you area VPN enjoyer I’d strongly consider you look at affordable hardware options, for example, the [gl-mt1300](https://www.amazon.com/GL-iNet-GL-MT1300-Wireless-Pocket-Sized-Repeater/dp/B08MKZXGBY) is a cheap and very nice piece of kit, easy way to protect your home network from threats without relying on running software locally. It may seem overkill but the options of TOR or Mullvad and general WireGuard, and measures to stop [DNS leakage](http://www.dnsleaktest.com) make it quite a nice useful piece of kit!
+
+- [How I turned a mini-PC into an Ethereum node to run at home](https://medium.com/coinmonks/how-i-turned-a-mini-pc-into-an-ethereum-node-to-run-at-home-5aebf1b6f881)
+- [Spin up your own Ethereum node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node)
 
 It is important to note that you can achieve the same thing by installing oVPN Mullvad (or another service you trust / your own VPN) configuration on your home router! You should also keep in mind the basic rule: the VPN is your buddy and will keep you safe from a wide range of threats, including even several WiFi and physical attacks. I hope this short [note](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg) helps you decide!
 
