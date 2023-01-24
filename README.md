@@ -249,6 +249,9 @@ Offline (better - physical) backups. Store them in a safe. Can be written on pap
 
 > In cryptography, [format-preserving encryption (FPE)](https://en.wikipedia.org/wiki/Format-preserving_encryption), refers to encrypting in such a way that the output (the ciphertext) is in the same format as the input (the plaintext). The meaning of "format" varies. Typically only finite sets of characters are used; numeric, alphabetic or alphanumeric.
 
+- [Audio Steganography : The art of hiding secrets](https://sumit-arora.medium.com/audio-steganography-the-art-of-hiding-secrets-within-earshot-part-1-of-2-6a3bbd706e15)
+- [Audio Steganography Technique for Communication Security](https://ukdiss.com/examples/implementation-design-for-audio-steganography.php)
+
 Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
 - [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
