@@ -149,6 +149,8 @@ If you see suspicious password activity or failed log-ins on any of your account
 
 [KeePass](https://keepass.info) or [Keepassx](https://keepassx.org) or [KeePassDX](https://www.keepassdx.com) or [KeePassXC](https://keepassxc.org) or [BitWarden](https://bitwarden.com) are good options. I also found [this tutorial](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093) for [integrity check](https://keepass.info/integrity.html) (and other checks) very helpful, be sure to check it out as well: [link](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093).
 
+- [This article tells that when using BitWarden one have to audit server side cryptography primitives by himself and monitor for changes!](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations)
+
 **On the opposite:**
 
 > For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344).
@@ -252,6 +254,7 @@ Offline (better - physical) backups. Store them in a safe. Can be written on pap
 
 - [Audio Steganography : The art of hiding secrets](https://sumit-arora.medium.com/audio-steganography-the-art-of-hiding-secrets-within-earshot-part-1-of-2-6a3bbd706e15)
 - [Audio Steganography Technique for Communication Security](https://ukdiss.com/examples/implementation-design-for-audio-steganography.php)
+- [How I turned a mini-PC into an Ethereum node to run at home](https://medium.com/coinmonks/how-i-turned-a-mini-pc-into-an-ethereum-node-to-run-at-home-5aebf1b6f881)
 
 Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
@@ -401,6 +404,9 @@ Remember: You Could Be a Target! We are a natural target for all sorts of attack
 > You may create **honeypots** on the working device (assuming you keep to this notion), such as [CanaryToken](https://www.tomshardware.com/news/use-a-raspberry-pi-to-catch-hackers-with-opencanary) or [IpLogger](https://iplogger.org). You can also create many wallet.dat files or just create a PDF document called, for example, **Wallet Seed** and hide [traps](https://twitter.com/lordnarfz0g/status/1554649309580300288) inside. That way, you'll be notified if anything happens or bad actors trigger it! Check out as well: [link1](https://github.com/lamer112311/Dnnme2), [link2](https://github.com/Bafomet666/Bigbro), [link3](https://t.me/ibederov_en/252), [link4](https://canarytokens.org). It will work out like a basic SIEM or DLP system. Same goes to your blockchain wallet - [alerts are very important](https://officercia.mirror.xyz/W-SUbkTf18b3RuPL9DykXQmpexWBZxbp4P1xfCfXo4Y)! Set them up properly!
 
 That said, it doesn’t really matter what industry you’re in. If you have any sensitive, proprietary information at all (and let’s face it, most people in crypto do), then you could very well be a target. This is a good thing to always keep in mind.
+
+- [Threat modeling for smart contracts step-by-step guide](https://composable-security.com/blog/threat-modeling-for-smart-contracts-best-step-by-step-guide)
+- [How to Defend Your Castle | Innovative Trio in Smart Contract Security: Monitoring, Prevention, Defense](https://officercia.mirror.xyz/W-SUbkTf18b3RuPL9DykXQmpexWBZxbp4P1xfCfXo4Y)
 
 > Anything on a mobile device uses the built in render, aka, brave uses web kit from Apple on iPhone, or blink on Android. They are just ui wrappers with some functionality built on top. I'd say Brave browser is sufficiently secure, but (original) Chromium is better because of the faster updates then on its forks (like Brave). Other tools should be treated with the same attitude. I mean, you can use Chrome both in anonymous and private ways.
 
