@@ -44,7 +44,9 @@ _________                        __           ________          _________       
 
 **Why do I need OpSec?**
 
-Take a close look at [this picture](https://t.me/officer_cia/684). Then think up: the world is full of bad people, scammers, hackers, competitors, extortionists, and your personal enemies. Read [this research](https://www.usenix.org/system/files/1401_08-12_mickens.pdf). Study [my blog](https://officercia.mirror.xyz))!
+Take a close look at [this picture](https://t.me/officer_cia/684). Then think up: the world is full of bad people, scammers, hackers, competitors, extortionists, and your personal enemies. Read [this research](https://www.usenix.org/system/files/1401_08-12_mickens.pdf). 
+
+- Study [my blog](https://officercia.mirror.xyz)!
 
 This guide tries to account for all models, but focuses more on protecting against hackers, scammers, competitive espionage specialists (which can include police or other law enforcement officers who in theory can abuse their power), and so on. Your OpSec depends directly on those against whom you are up against. In other words, you must build your own OpSec wall on your own, as follows, you must navigate it flawlessly well. Be one step ahead! May the power be with you!
 
