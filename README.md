@@ -42,6 +42,14 @@ _________                        __           ________          _________       
 
 ## To answer your questions beforehand...
 
+**Why do I need OpSec?**
+
+Take a close look at [this picture](https://t.me/officer_cia/684). Then think up: the world is full of bad people, scammers, hackers, competitors, extortionists, and your personal enemies. Read [this research](https://www.usenix.org/system/files/1401_08-12_mickens.pdf). Study [my blog](https://officercia.mirror.xyz))!
+
+This guide tries to account for all models, but focuses more on protecting against hackers, scammers, competitive espionage specialists (which can include police or other law enforcement officers who in theory can abuse their power), and so on. Your OpSec depends directly on those against whom you are up against. In other words, you must build your own OpSec wall on your own, as follows, you must navigate it flawlessly well. Be one step ahead! May the power be with you!
+
+**What do I need for a perfect OpSec?**
+
 Firstly, for an ideal OpSec I recommend either developing an own programming language (done by different remote & in-house teams) with your own semantics or becoming a developer yourself, or avoiding using ANY third-party software, implying that it can be compromised, and developing tools and apps in dependance on your needs completely on your own. 
 
 > Try not to enable such a psychological phenomenon as the [tunnel effect](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1006&context=isap_2005), which [refers us to the aviation psychology](https://en.wikipedia.org/wiki/Aviation_psychology) and [flight psychology](https://www.bps.org.uk/psychologist/psychology-flight), to emerge and expand. When [experienced pilots](https://flightsafety.org/asw-article/attention%E2%80%89on-deck) get overly focused on one item while disregarding or ignoring all other warnings, they have an accident. I hope you understood my guide correctly and did not allow this to happen. Be cautious, don't rush, and stay calm. When you are hungry, unwell, or defenseless, do not act on emotion.
