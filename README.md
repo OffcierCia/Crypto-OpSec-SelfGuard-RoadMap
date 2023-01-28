@@ -729,7 +729,7 @@ Be aware of most common attacks. Follow hacker websites, latest security standar
 - [Physical Attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
 - [3FA](https://www.techtarget.com/searchsecurity/definition/three-factor-authentication-3FA)
 
-Pretend to be someone ordinary. For example, follow the legend that you are just a developer of one of the games for Asian market (there are a lot of them), mimic a "average person" in everything - even in financial transactions/operations. Think like your possible enemy. 
+Pretend to be someone ordinary. For example, follow the legend that you are just a developer of one of the games for Asian market (there are a lot of them), mimic a "average person" in everything - even in financial transactions/operations. **Think like your possible enemy: forewarned is forearmed.**
 
 > Check out this [book & article](https://counterintelligence.info/index.php/2020/03/05/extreme-privacy-michael-bazzell)!
 
