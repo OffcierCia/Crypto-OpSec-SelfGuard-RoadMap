@@ -397,6 +397,17 @@ If you’re ordering pizza with crypto, order it for pickup instead of delivery.
 
 - [Read More](https://www.cnbc.com/2017/11/02/heres-how-to-protect-your-bitcoin-and-ethereum-from-hacking.html)
 
+**Also:**
+
+- [Torn](https://mirror.xyz/xanny.eth/SGxwfVQ75831z5vFaS1LrlatUJEhxBvZ2cyTvAdCD0k)
+- [Anon Swaps](https://telegra.ph/ButHow-01-28)
+- [sideshift.ai](https://sideshift.ai)
+- [agoradesk.com](https://agoradesk.com)
+- [Aztecnetwork](https://twitter.com/aztecnetwork)
+- [Aztec-2 Dune Privacy Dashboard](https://dune.com/jaosef/Aztec-2)
+- [RailGun](https://railgun.ch/#/)
+- [Monero](https://telegra.ph/CIA-Officer--Monero-05-08)
+
 ---
 
 #### Problem 9
