@@ -492,7 +492,7 @@ Maybe you can come up with your own solution based on [logic bomb](https://githu
 
 ### Problem 13
 
-Identify possible threats. For each category of information that you deem sensitive, you should identify what kinds of threats are present. While you should be wary of third parties trying to steal your information, you should also watch out for insider threats, such as negligent employees and disgruntled workers.
+Identify possible threats. For each category of information that you deem sensitive, you should identify what kinds of threats are present. While you should be wary of third parties trying to steal your information, you should also watch out for insider threats, such as negligent employees and disgruntled workers. **OpSec is generally more of a failure than the technology!**
 
 > [Keep your friends close, and your enemies closer.](https://en.wiktionary.org/wiki/keep_your_friends_close,_and_your_enemies_closer#:~:text=Proverb,wreak%20havoc%20in%20one's%20life.)
 
