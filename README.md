@@ -481,6 +481,8 @@ Whatever you do, do it with some element of randomness. If you find it hard to c
 
 Identify possible threats. For each category of information that you deem sensitive, you should identify what kinds of threats are present. While you should be wary of third parties trying to steal your information, you should also watch out for insider threats, such as negligent employees and disgruntled workers.
 
+> [Keep your friends close, and your enemies closer.](https://en.wiktionary.org/wiki/keep_your_friends_close,_and_your_enemies_closer#:~:text=Proverb,wreak%20havoc%20in%20one's%20life.)
+
 - [Read More](https://datatracker.ietf.org/wg/opsec/documents/)
 - [AnonPlanet](https://anonymousplanet.org/links.html)
 
