@@ -7,17 +7,7 @@
 
 [![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
   [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base)
-       [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
-
-
-```
-_________                        __           ________          _________               .____    .__          __   
-\_   ___ \_______ ___.__._______/  |_  ____   \_____  \ ______ /   _____/ ____   ____   |    |   |__| _______/  |_ 
-/    \  \/\_  __ <   |  |\____ \   __\/  _ \   /   |   \\____ \\_____  \_/ __ \_/ ___\  |    |   |  |/  ___/\   __\
-\     \____|  | \/\___  ||  |_> >  | (  <_> ) /    |    \  |_> >        \  ___/\  \___  |    |___|  |\___ \  |  |  
- \______  /|__|   / ____||   __/|__|  \____/  \_______  /   __/_______  /\___  >\___  > |_______ \__/____  > |__|  
-        \/        \/     |__|                         \/|__|          \/     \/     \/          \/       \/        
-```
+       [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 > Note: OpSec is a term coming from the military, meaning operational security. It has been widely used to describe security precautions in various sensible activities, and more recently also in cryptocurrency management. 
 
