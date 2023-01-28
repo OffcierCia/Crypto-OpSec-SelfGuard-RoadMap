@@ -414,7 +414,7 @@ If you’re ordering pizza with crypto, order it for pickup instead of delivery.
 
 Remember: You Could Be a Target! We are a natural target for all sorts of attacks — from garden-variety cybercriminals to competitive spying (sounds dramatic, but it’s real!). 
 
-> You may create **honeypots** on the working device (assuming you keep to this notion), such as [CanaryToken](https://www.tomshardware.com/news/use-a-raspberry-pi-to-catch-hackers-with-opencanary) or [IpLogger](https://iplogger.org). You can also create many wallet.dat files or just create a PDF document called, for example, **Wallet Seed** and hide [traps](https://twitter.com/lordnarfz0g/status/1554649309580300288) inside. That way, you'll be notified if anything happens or bad actors trigger it! Check out as well: [link1](https://github.com/lamer112311/Dnnme2), [link2](https://github.com/Bafomet666/Bigbro), [link3](https://t.me/ibederov_en/252), [link4](https://canarytokens.org). It will work out like a basic SIEM or DLP system. Same goes to your blockchain wallet - [alerts are very important](https://officercia.mirror.xyz/W-SUbkTf18b3RuPL9DykXQmpexWBZxbp4P1xfCfXo4Y)! Set them up properly!
+> You may create **honeypots** on the working device (assuming you keep to this notion), such as [CanaryToken](https://www.tomshardware.com/news/use-a-raspberry-pi-to-catch-hackers-with-opencanary) or [canarytokens.org](https://canarytokens.org/generate) or [IpLogger](https://iplogger.org). You can also create many wallet.dat files or just create a PDF document called, for example, **Wallet Seed** and hide [traps](https://twitter.com/lordnarfz0g/status/1554649309580300288) inside. That way, you'll be notified if anything happens or bad actors trigger it! Check out as well: [link1](https://github.com/lamer112311/Dnnme2), [link2](https://github.com/Bafomet666/Bigbro), [link3](https://t.me/ibederov_en/252), [link4](https://canarytokens.org). It will work out like a basic SIEM or DLP system. Same goes to your blockchain wallet - [alerts are very important](https://officercia.mirror.xyz/W-SUbkTf18b3RuPL9DykXQmpexWBZxbp4P1xfCfXo4Y)! Set them up properly!
 
 That said, it doesn’t really matter what industry you’re in. If you have any sensitive, proprietary information at all (and let’s face it, most people in crypto do), then you could very well be a target. This is a good thing to always keep in mind.
 
@@ -842,13 +842,9 @@ If you want to support my work, you can also send me a donation to the address:
 
 - **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** or **bc1q75zgp5jurtm96nltt9c9kzjnrt33uylr8uvdds** - BTC
 
-- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
-
-- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC
+- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR
 
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
-
-- [Binance Referral Link](https://accounts.binance.com/en/register?ref=165027618)
 
 - [Me on GitCoin](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
