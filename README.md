@@ -36,9 +36,17 @@
 
 Take a close look at [this picture](https://t.me/officer_cia/684). Then think up: the world is full of bad people, scammers, hackers, competitors, extortionists, and your personal enemies. Read [this research](https://www.usenix.org/system/files/1401_08-12_mickens.pdf). 
 
-- Study [my blog](https://officercia.mirror.xyz)!
+- Study [my blog!](https://officercia.mirror.xyz)
+- [Follow AnonPlanet!](https://anonymousplanet.org/links.html)
 
 This guide tries to account for all models, but focuses more on protecting against hackers, scammers, annoying fans and paparazzi, competitive espionage specialists (which can include police or other law enforcement officers who in theory can abuse their power), and so on. Your OpSec depends directly on those against whom you are up against. In other words, you must build your own OpSec wall on your own, as follows, you must navigate it flawlessly well. And it doesn't matter where it happens: on the Internet, in real life, and so on. Be one step ahead! May the power be with you!
+
+**Why don't [you](https://officercia.mirror.xyz) follow all your OpSec rules yourself?**
+
+First off, what gives you such confidence? Second, every form of defense I have had to use in my life has succeeded every time. I am a blogger at this point in my life, so I do not always need to be anonymous. I sacrifice some of my privacy so you can know this information and be able to defend yourself from dangers.
+
+People who I advised in OpSec are now in charge of mega-companies and entire nations. Some people have had their lives spared during assassination attempts. That goes beyond words. No proofs. Although I'm not aware of any instances, the paradox of survivorship bias in crypto is probable. [DM](https://t.me/farm42) me if you find a weak technique!
+
 
 **What do I need for a perfect OpSec?**
 
@@ -62,13 +70,17 @@ Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?i
 
 - [Check out this tool!](https://mprimi.github.io/portable-secret)
 
-Secondly, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base)! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring. 
+**Why is this guide so big?**
+
+Well, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base)! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring. 
 
 > This manual is the culmination of years of work by security professionals. Consider this guidebook to be a compilation of advice and routes.
 
-«Antenna-websites» were created at that time. There, their authors gathered a variety of resources that were related by a common subject to make someone’s life easier! In some ways, the creators of Awesome Lists and start.me continue this idea now. And it's fantastically amazing! 
+«Antenna-websites» were created at that time. There, their authors gathered a variety of resources that were related by a common subject to make someone’s life easier! In some ways, the creators of Awesome Lists and start.me continue this idea now. And it's fantastically amazing!
 
-Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients!
+**Why does this guide have many authors?**
+
+Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients! Safety professionals have spent decades developing this manual, sharing their expertise in every word. Once again, consider this guidebook to be a compilation of advice and routes.
 
 > Remember, you must manage your OpSec wall and literally take it through "[be like water](https://www.goodreads.com/quotes/29138-be-like-water-making-its-way-through-cracks-do-not)", tending not to overdo it! You construct your own security wall, which you must guard, repair, and develop, exactly like a real wall. Visit: [this article](officercia.mirror.xyz/4x2-M4R2cSnID1wpsTO4CQNrMQ5JUFouR-rZ_N4xO-Q)!
 
