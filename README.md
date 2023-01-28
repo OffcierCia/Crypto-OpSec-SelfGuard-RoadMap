@@ -32,7 +32,7 @@
 
 ## To answer your questions beforehand...
 
-**Why do I need OpSec?**
+### **Why do I need OpSec?**
 
 Take a close look at [this picture](https://t.me/officer_cia/684). Then think up: the world is full of bad people, scammers, hackers, competitors, extortionists, and your personal enemies. Read [this research](https://www.usenix.org/system/files/1401_08-12_mickens.pdf). 
 
@@ -41,13 +41,13 @@ Take a close look at [this picture](https://t.me/officer_cia/684). Then think up
 
 This guide tries to account for all models, but focuses more on protecting against hackers, scammers, annoying fans and paparazzi, competitive espionage specialists (which can include police or other law enforcement officers who in theory can abuse their power), and so on. Your OpSec depends directly on those against whom you are up against. In other words, you must build your own OpSec wall on your own, as follows, you must navigate it flawlessly well. And it doesn't matter where it happens: on the Internet, in real life, and so on. Be one step ahead! May the power be with you!
 
-**Why don't [you](https://officercia.mirror.xyz) follow all your OpSec rules yourself?**
+### **Why don't [you](https://officercia.mirror.xyz) follow all your OpSec rules yourself?**
 
 First off, what gives you such confidence? Second, every form of defense I have had to use in my life has succeeded every time. I am a blogger at this point in my life, so I do not always need to be anonymous. I sacrifice some of my privacy so you can know this information and be able to defend yourself from dangers.
 
 People [who I advised in OpSec are now in charge](https://twitter.com/officer_cia/status/1617237177707929601) of mega-companies and entire nations. Some people have had their lives spared during assassination attempts. That goes beyond words. No proofs. Although I'm not aware of any instances, the paradox of survivorship bias in crypto is probable. [DM](https://t.me/farm42) me if you find a weak technique!
 
-**What do I need for a perfect OpSec?**
+### **What do I need for a perfect OpSec?**
 
 Firstly, for an ideal OpSec I recommend either developing an own programming language (done by different remote & in-house teams) with your own semantics or becoming a developer yourself, or avoiding using ANY third-party software, implying that it can be compromised, and developing tools and apps in dependance on your needs completely on your own. 
 
@@ -69,15 +69,15 @@ Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?i
 
 - [Check out this tool!](https://mprimi.github.io/portable-secret)
 
-**Why is this guide so big?**
+### **Why is this guide so big?**
 
 Well, regarding big lists. Japan was the first country to invent the work that we do now in the form of [SoKs](https://www.jsys.org/type_SoK/) or [Awesome GitHub lists](https://github.com/OffcierCia/ultimate-defi-research-base)! If anyone is still around, browsers used to be sort of a table or database of websites, many of which were quite… uninspiring. 
 
 > This manual is the culmination of years of work by security professionals. Consider this guidebook to be a compilation of advice and routes.
 
-«Antenna-websites» were created at that time. There, their authors gathered a variety of resources that were related by a common subject to make someone’s life easier! In some ways, the creators of Awesome Lists and start.me continue this idea now. And it's fantastically amazing!
+[«Antenna-websites»](https://share-docs.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12465) were created at that time. There, their authors gathered a variety of resources that were related by a common subject to make someone’s life easier! In some ways, the creators of Awesome Lists and start.me continue this idea now. And it's fantastically amazing!
 
-**Why does this guide have many authors?**
+### **Why does this guide have many authors?**
 
 Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients! Safety professionals have spent decades developing this manual, sharing their expertise in every word. Once again, consider this guidebook to be a compilation of advice and routes.
 
