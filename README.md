@@ -554,7 +554,11 @@ Employees should be able to implement the measures required on their part with o
 
 Implement separation of duties. Make sure that those who work on your network are not the same people in charge of security.
 
+> Study [Zero trust security model](https://en.m.wikipedia.org/wiki/Zero_trust_security_model): The zero trust security model, also known as zero trust architecture (ZTA), zero trust network architecture or zero trust network access (ZTNA), and sometimes known as perimeterless security, describes an approach to the design and implementation of IT systems.
+
 - [Read More](https://arxiv.org/abs/2106.10740)
+- [SIEM](https://en.wikipedia.org/wiki/Security_information_and_event_management)
+- [DLP](https://digitalguardian.com/blog/what-data-loss-prevention-dlp-definition-data-loss-prevention)
 
 ---
 
