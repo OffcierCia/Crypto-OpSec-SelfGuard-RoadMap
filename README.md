@@ -45,8 +45,7 @@ This guide tries to account for all models, but focuses more on protecting again
 
 First off, what gives you such confidence? Second, every form of defense I have had to use in my life has succeeded every time. I am a blogger at this point in my life, so I do not always need to be anonymous. I sacrifice some of my privacy so you can know this information and be able to defend yourself from dangers.
 
-People who I advised in OpSec are now in charge of mega-companies and entire nations. Some people have had their lives spared during assassination attempts. That goes beyond words. No proofs. Although I'm not aware of any instances, the paradox of survivorship bias in crypto is probable. [DM](https://t.me/farm42) me if you find a weak technique!
-
+People [who I advised in OpSec are now in charge](https://twitter.com/officer_cia/status/1617237177707929601) of mega-companies and entire nations. Some people have had their lives spared during assassination attempts. That goes beyond words. No proofs. Although I'm not aware of any instances, the paradox of survivorship bias in crypto is probable. [DM](https://t.me/farm42) me if you find a weak technique!
 
 **What do I need for a perfect OpSec?**
 
