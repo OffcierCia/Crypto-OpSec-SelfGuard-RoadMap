@@ -48,7 +48,7 @@ Take a close look at [this picture](https://t.me/officer_cia/684). Then think up
 
 - Study [my blog](https://officercia.mirror.xyz)!
 
-This guide tries to account for all models, but focuses more on protecting against hackers, scammers, competitive espionage specialists (which can include police or other law enforcement officers who in theory can abuse their power), and so on. Your OpSec depends directly on those against whom you are up against. In other words, you must build your own OpSec wall on your own, as follows, you must navigate it flawlessly well. Be one step ahead! May the power be with you!
+This guide tries to account for all models, but focuses more on protecting against hackers, scammers, competitive espionage specialists (which can include police or other law enforcement officers who in theory can abuse their power), and so on. Your OpSec depends directly on those against whom you are up against. In other words, you must build your own OpSec wall on your own, as follows, you must navigate it flawlessly well. And it doesn't matter where it happens: on the Internet, in real life, and so on. Be one step ahead! May the power be with you!
 
 **What do I need for a perfect OpSec?**
 
