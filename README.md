@@ -685,6 +685,13 @@ If your pc is comprised, your telegram can be used to exfiltrate your photos. In
 
 Only Interact with DeFi Protocols You Trust - Take your time to read up on some previous concepts we’ve covered such as staking, yield farming, NFT farming, and research any other new terms you may come across before depositing crypto into a DApp that deploys any of these investment strategies. 
 
+**Wallets Review:**
+
+- [walletcompare.xyz](https://walletcompare.xyz)
+- [walletscrutiny.com](https://walletscrutiny.com)
+
+**Awesome Tools:**
+
 - [TryEthernal.com](https://TryEthernal.com)
 - [Defillama.com](https://Defillama.com)
 - [Rotki](https://github.com/rotki)
