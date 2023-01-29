@@ -114,6 +114,7 @@ Don’t use 3rd party VPN, rent a VPS and bootstrap open source VPN server!
 - [Setup OpenVPN server on Ubuntu](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts)
 - [Watch more](https://youtu.be/rXwJwubqVmI)
 - [Wireguard VS OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn)
+- [Brave Browser Privacy Issues](https://telegra.ph/Brave-Browser-is-a-Spyware-01-29)
 
 **Check out:**
 
