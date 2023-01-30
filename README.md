@@ -218,6 +218,7 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 
 > Aegis Authenticator is open source (licensed under GPL v3) and the source code [can be found here](http://github.com/beemdevelopment/Aegis). The issue with Authy is that it depends on a phone number which can be changed through an email request, allowing anyone access to HOTP/TOTP after an approximate 4-day wait period. To avoid that, disable multi-device function in Authy's settings!
 
+- [Tips from TrailOfBits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [Read More](https://www.threatstack.com/blog/five-opsec-best-practices-to-live-by)
 
 ---
@@ -541,6 +542,7 @@ Better yet, don’t store confidential or encrypted files on magnetic storage. S
 Appraise the level of risk associated with each vulnerability. Rank your vulnerabilities using factors such as the likelihood of an attack happening, the extent of damage that you would suffer, and the amount of work and time you would need to recover. The more likely and damaging an attack is, the more you should prioritize mitigating the associated risk.
 
 - [Read More](https://www.reddit.com/r/opsec/)
+- [Tips from TrailOfBits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 
 ---
 
