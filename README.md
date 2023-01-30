@@ -47,6 +47,10 @@ First off, what gives you such confidence? Second, every form of defense I have 
 
 People [who I advised in OpSec are now in charge](https://twitter.com/officer_cia/status/1617237177707929601) of mega-companies and entire nations. Some people have had their lives spared during assassination attempts. That goes beyond words. No proofs. Although I'm not aware of any instances, the paradox of survivorship bias in crypto is probable. [DM](https://t.me/farm42) me if you find a weak technique!
 
+### **Why does this guide focus primarily on advice for [EVM-based](https://github.com/mektigboy/evm-chad) blockchains and cryptocurrencies based on them?**
+
+No, this guide is appropriate for owners of **all of the possible coins, developers, shadowy super-coders and digital nomads**: you may own Bitcoin, DOGE, Sol, XMR, ETH, NFT - anything. I tried to cover all the bases, and if you follow the links, you'll see that there are already a ton of fantastic answers to all of your queries!
+
 ### **What do I need for a perfect OpSec?**
 
 Firstly, for an ideal OpSec I recommend either developing an own programming language (done by different remote & in-house teams) with your own semantics or becoming a developer yourself, or avoiding using ANY third-party software, implying that it can be compromised, and developing tools and apps in dependance on your needs completely on your own. 
