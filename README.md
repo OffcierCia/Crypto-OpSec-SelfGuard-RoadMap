@@ -83,8 +83,9 @@ Last but not least, everything you do is based on the outcomes you need to achie
 
 > Remember, you must manage your OpSec wall and literally take it through "[be like water](https://www.goodreads.com/quotes/29138-be-like-water-making-its-way-through-cracks-do-not)", tending not to overdo it! You construct your own security wall, which you must guard, repair, and develop, exactly like a real wall. Visit: [this article](officercia.mirror.xyz/4x2-M4R2cSnID1wpsTO4CQNrMQ5JUFouR-rZ_N4xO-Q)!
 
-The most important thing to understand here is the path of the cyber attack – its vector. Let's take a closer look at various problems associated with OpSec and its implementation to modern life!
+> Because OpSec is fundamentally based on fear, it effectively treats all people equally, regardless of their political or religious preferences. The following 25 rules are comparable to the rally racers' safety regulations in that they are both "written in blood". 
 
+The most important thing to understand here is the path of the cyber attack – its vector. Let's take a closer look at various problems associated with OpSec and its implementation to modern life! 
 
 #
 
