@@ -403,6 +403,8 @@ Also check out:
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 - [algoVPN](https://github.com/trailofbits/algo)
 - [usbraptor](https://sourceforge.net/projects/usbraptor)
+- [Network Bandwidth Analyzer - Bandwidth Monitor](https://www.solarwinds.com/network-bandwidth-analyzer-pack?CMP=ORG-BLG-DNS-X_WW_X_NP_X_X_EN_X_X-BAP-20190930_9BestNetworkBan_X_X_VidNo_X-X)
+- [Network and IT infrastructure monitoring for small & medium environments](https://www.paessler.com/prtg/prtg-network-monitor)
 
 ---
 
