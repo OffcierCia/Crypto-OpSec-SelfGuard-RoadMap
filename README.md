@@ -41,12 +41,6 @@ Take a close look at [this picture](https://t.me/officer_cia/684). Then think up
 
 This guide tries to account for all models, but focuses more on protecting against hackers, scammers, annoying fans and paparazzi, competitive espionage specialists (which can include police or other law enforcement officers who in theory can abuse their power), and so on. Your OpSec depends directly on those against whom you are up against. In other words, you must build your own OpSec wall on your own, as follows, you must navigate it flawlessly well. And it doesn't matter where it happens: on the Internet, in real life, and so on. Be one step ahead! May the power be with you!
 
-### **Why don't [you](https://officercia.mirror.xyz) follow all your OpSec rules yourself?**
-
-First off, what gives you such confidence? Second, every form of defense I have had to use in my life has succeeded every time. I am a blogger at this point in my life, so I do not always need to be anonymous. I sacrifice some of my privacy so you can know this information and be able to defend yourself from dangers.
-
-People [who I advised in OpSec are now in charge](https://twitter.com/officer_cia/status/1617237177707929601) of mega-companies and entire nations. Some people have had their lives spared during assassination attempts. That goes beyond words. No proofs. Although I'm not aware of any instances, the paradox of survivorship bias in crypto is probable. [DM](https://t.me/farm42) me if you find a weak technique!
-
 ### **Why does this guide focus primarily on advice for [EVM-based](https://github.com/mektigboy/evm-chad) blockchains and cryptocurrencies based on them?**
 
 No, this guide is appropriate for owners of **all of the possible coins, developers, shadowy super-coders and digital nomads**: you may own Bitcoin, DOGE, Sol, XMR, ETH, NFT - anything. I tried to cover all the bases, and if you follow the links, you'll see that there are already a ton of fantastic answers to all of your queries!
