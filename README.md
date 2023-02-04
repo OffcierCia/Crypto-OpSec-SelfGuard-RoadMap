@@ -620,8 +620,11 @@ Malware can also have the functionality to "attack" a computer's clipboard. The 
 
 Your level of opsec usually depends on your threat model and which adversary you're up against. So it's hard to define how good your opsec is. But I'd say it sounds pretty okay. I recommend watching: 
 
+> If you defiantly refuse to say who you are, it can make people angry that you’re upsetting social reciprocity. You know who they are, but they don’t know who you are. It feels rude. [Read this article!](https://sive.rs/anon)
+
 - [Watch More](https://www.youtube.com/watch?v=9XaYdCdwiWU)
 - [Watch More](https://www.youtube.com/watch?v=ixLuRvYlrlw)
+- [Read more](https://sive.rs/anon)
 
 **Check out:**
 
