@@ -30,8 +30,6 @@
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
-## To answer your questions beforehand...
-
 ### **Why do I need OpSec?**
 
 Take a close look at [this picture](https://t.me/officer_cia/684). Then think up: the world is full of bad people, scammers, hackers, competitors, extortionists, and your personal enemies. Read [this research](https://www.usenix.org/system/files/1401_08-12_mickens.pdf). 
