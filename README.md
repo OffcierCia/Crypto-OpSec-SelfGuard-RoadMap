@@ -640,6 +640,9 @@ Your level of opsec usually depends on your threat model and which adversary you
 - [How to find hidden cameras - 2.0](https://www.securitybees.com/blogs/home/48443077-how-to-find-hidden-cameras)
 - [4 Ways of Detecting Hidden Cameras in Your Airbnb](https://www.surveillance-video.com/blog/4-ways-to-find-hidden-cameras-in-your-airbnb.html)
 - [Cybersecurity expert explains how to find hidden cameras in an Airbnb or hotel room](https://www.mirror.co.uk/news/weird-news/cybersecurity-expert-explains-how-find-25118806)
+
+> Keep in mind that cameras are frequently mounted with the mirror in the frame. This increases the camera's field of view. Check out ceiling as well. Also, keep in mind that the camera can be hidden in glasses, a cigarette pack, or a watch.
+
 - [How to Find Hidden Spy Cameras in your Airbnb with Wireshark](https://www.franksworld.com/2022/10/15/how-to-find-hidden-spy-cameras-in-your-airbnb-with-wireshark)
 - [Lumos System Can Find Hidden Cameras and IoT Devices in Your Airbnb or Hotel Room](https://thehackernews.com/2022/05/lumos-system-can-find-hidden-cameras.html)
 - [Lumos: IoT device detection system](https://usa.kaspersky.com/blog/how-to-find-spy-cameras-and-other-iot-devices/26737)
