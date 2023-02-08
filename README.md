@@ -688,6 +688,9 @@ One thing to keep in mind before we get started is that very few firms produce p
 
 - Check out: [darknetdiaries: Encrypted Phones](https://darknetdiaries.com/episode/105)
 - [A nice OpSec feature](https://www.nairaland.com/6258327/xiaomi-phone-allows-me-operate)
+- [iPhones Vulnerable to Attack Even When Turned Off](https://threatpost.com/iphones-attack-turned-off/179641)
+- [Malicious profiles – one of the most serious threats to iPhones](https://www.jamf.com/blog/malicious-profiles-come/)
+- [Why Configuration Profiles Can Be As Dangerous As Malware on iPhones and iPads](https://www.howtogeek.com/176195/why-configuration-profiles-can-be-as-dangerous-as-malware-on-iphones-and-ipads/amp/)
 
 Here’s a list of the most secure phones you can use today:
 
