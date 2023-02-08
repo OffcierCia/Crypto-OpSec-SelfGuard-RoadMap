@@ -646,6 +646,10 @@ Your level of opsec usually depends on your threat model and which adversary you
 - [How to Find Hidden Spy Cameras in your Airbnb with Wireshark](https://www.franksworld.com/2022/10/15/how-to-find-hidden-spy-cameras-in-your-airbnb-with-wireshark)
 - [Lumos System Can Find Hidden Cameras and IoT Devices in Your Airbnb or Hotel Room](https://thehackernews.com/2022/05/lumos-system-can-find-hidden-cameras.html)
 - [Lumos: IoT device detection system](https://usa.kaspersky.com/blog/how-to-find-spy-cameras-and-other-iot-devices/26737)
+- [Researchers reveal how hotel key cards can be hacked - what you need to know](https://www.tripwire.com/state-of-security/researchers-hotel-key-cards-can-be-hacked-what-you-need-to-know)
+- [How Does a Drive-By NFC Hack Work?](https://www.makeuseof.com/tag/drive-nfc-hack-work)
+- [Key Card Entry System Security: What is the Difference Between NFC and RFID?](https://www.getgenea.com/blog/key-card-entry-system-security-what-is-the-difference-between-nfc-and-rfid)
+- [Your hotel card may be copied through this item](https://www.theverge.com/23433594/flipper-zero-hacking-gadget-wireless-pentesting-open-source-antenna)
 
 **Check out:**
 
