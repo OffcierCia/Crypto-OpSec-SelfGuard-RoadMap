@@ -618,7 +618,7 @@ Malware can also have the functionality to "attack" a computer's clipboard. The 
 
 ### Problem 21
 
-Your level of opsec usually depends on your threat model and which adversary you're up against. So it's hard to define how good your opsec is. But I'd say it sounds pretty okay. I recommend watching: 
+Your level of opsec usually depends on your threat model and which adversary you're up against. So it's hard to define how good your opsec is. But I'd say it sounds pretty okay. I recommend: 
 
 > If you defiantly refuse to say who you are, it can make people angry that you’re upsetting social reciprocity. You know who they are, but they don’t know who you are. It feels rude. [Read this article!](https://sive.rs/anon)
 
@@ -633,6 +633,16 @@ Your level of opsec usually depends on your threat model and which adversary you
 3. Video could be easily find. Just buy any [cameras detector at Amazon](https://www.amazon.com/gp/aw/d/B07B93347H/ref=sspa_mw_detail_1?ie=UTF8&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWwp13NParams). You should be able to detect infrared radiation coming from the objective or (and) wireless connection! Any front camera on old phone does not have infrared filter so also can be used for it!
 4. Sweep with a metal detector or a [pin-pointer](https://youtu.be/GLKK8pXGZ78).
 5. Never use a local Wi-Fi network without VPN (mullvad.net or [use a hardware VPN](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)).
+
+**Read:**
+
+- [How To Detect Hidden Cameras](https://alfred.camera/blog/how-to-detect-hidden-cameras)
+- [How to find hidden cameras - 2.0](https://www.securitybees.com/blogs/home/48443077-how-to-find-hidden-cameras)
+- [4 Ways of Detecting Hidden Cameras in Your Airbnb](https://www.surveillance-video.com/blog/4-ways-to-find-hidden-cameras-in-your-airbnb.html)
+- [Cybersecurity expert explains how to find hidden cameras in an Airbnb or hotel room](https://www.mirror.co.uk/news/weird-news/cybersecurity-expert-explains-how-find-25118806)
+- [How to Find Hidden Spy Cameras in your Airbnb with Wireshark](https://www.franksworld.com/2022/10/15/how-to-find-hidden-spy-cameras-in-your-airbnb-with-wireshark)
+- [Lumos System Can Find Hidden Cameras and IoT Devices in Your Airbnb or Hotel Room](https://thehackernews.com/2022/05/lumos-system-can-find-hidden-cameras.html)
+- [Lumos: IoT device detection system](https://usa.kaspersky.com/blog/how-to-find-spy-cameras-and-other-iot-devices/26737)
 
 **Check out:**
 
