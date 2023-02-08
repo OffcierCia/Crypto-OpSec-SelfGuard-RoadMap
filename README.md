@@ -625,6 +625,14 @@ Your level of opsec usually depends on your threat model and which adversary you
 - [Watch More](https://www.youtube.com/watch?v=ixLuRvYlrlw)
 - [Read more](https://sive.rs/anon)
 
+**Things to check out in any Airbnb/Booking property you may rent:**
+
+1. Long term devices connected to source of electricity. Look at electricity sources.
+2. Cameras hard to put into a wall. It can be done during building, so rare.
+3. Video could be easily find. Just buy any [cameras detector at Amazon](https://www.amazon.com/gp/aw/d/B07B93347H/ref=sspa_mw_detail_1?ie=UTF8&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWwp13NParams). You should be able to detect infrared radiation coming from the objective or (and) wireless connection! Any front camera on old phone does not have infrared filter so also can be used for it!
+4. Sweep with a metal detector or a pin-pointer.
+5. Never use a local Wi-Fi network without VPN (mullvad.net or [use a hardware VPN](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)).
+
 **Check out:**
 
 - [logic bomb](https://github.com/starius/logic-bomb/blob/master/logic_bomb.c)
