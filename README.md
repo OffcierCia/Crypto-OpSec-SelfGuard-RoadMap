@@ -146,6 +146,7 @@ Use passwords that are at least 8 characters in length, but a minimum of 12 is g
 Using a string of unrelated words while still meeting the dictionary requirement makes it easy to have an extremely secure password while still being able to remember it. If fully relying on a password manager, a password of 20+ characters in length that is randomly generated can be used. 
 
 - [Wi-Fi Security A-Z](twitter.com/officer_cia/status/1566473017068331010)
+- [Fing App](https://www.fing.com)
 - [How to detect if someone is attempting to crack your wi-fi](https://andrecamillo.medium.com/how-to-detect-if-someone-is-attempting-to-crack-your-wi-fi-1d142c5cec93)
 - [Use a Raspberry Pi To Catch Hackers with OpenCanary](https://www.tomshardware.com/news/use-a-raspberry-pi-to-catch-hackers-with-opencanary)
 - [canarytokens.org](https://canarytokens.org/generate)
