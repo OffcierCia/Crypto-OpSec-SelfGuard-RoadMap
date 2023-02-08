@@ -699,6 +699,7 @@ Here’s a list of the most secure phones you can use today:
 - Solarin From Sirin Labs
 - Purism Librem 5 - Top-1 IMHO ❗️
 - Sirin Labs Finney U1
+- [Kyocera phones](https://kyoceramobile.com/available-phones/)
 - Latest iPhone (watch out [iCloud](https://www.quora.com/What-can-the-FBI-or-police-access-from-an-iCloud-account-Can-they-access-everything) & [known attacks](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)) or Android
 - [BlackBerry Device](https://www.blackberry.com/us/en/products/secure-smartphones) - Let's [respect](https://www.itworldcanada.com/slideshow/blackberry-through-the-years) the true [Pioneers](https://arstechnica.com/gadgets/2013/02/a-look-at-blackberrys-devices-through-the-ages/) in this industry!
 - Google Pixel (4 and beyond) are good privacy friendly options if you reconfigure them to run GrapheneOS!
