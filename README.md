@@ -346,6 +346,7 @@ At the same time, I believe that OpSec, in its broadest sense, does not function
 
 - [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 - [Set of utilities to manage BIP44-compatible Ethereum HD wallet](https://github.com/pavel-main/ethereum-hd-tools)
+- [The Last Laptop You'll Ever Need For Crypto](https://defieducation.substack.com/p/the-last-laptop-youll-ever-need-for)
 
 After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
 
@@ -398,6 +399,15 @@ Also check out:
 - [usbraptor](https://sourceforge.net/projects/usbraptor)
 - [Network Bandwidth Analyzer - Bandwidth Monitor](https://www.solarwinds.com/network-bandwidth-analyzer-pack?CMP=ORG-BLG-DNS-X_WW_X_NP_X_X_EN_X_X-BAP-20190930_9BestNetworkBan_X_X_VidNo_X-X)
 - [Network and IT infrastructure monitoring for small & medium environments](https://www.paessler.com/prtg/prtg-network-monitor)
+
+**Important OpSec Tip:**
+
+Avoid installing any third-party software, including single-player and multiplayer games, on your primary (for work/crypto) computer or phone:
+
+- [Dota 2 Under Attack: How a V8 Bug Was Exploited in the Game](https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game)
+- [Dangerous RCE Vulnerability in GTA Online Fixed](https://gridinsoft.com/blogs/rce-vulnerability-in-gta-online)
+- [What We Know About the Vulnerabilities Keeping ‘Dark Souls’ Offline](https://flashpoint.io/blog/rce-vulnerability-dark-souls)
+- [Details about the ‘Dark Souls’ hacking exploit have been published](https://www.nme.com/news/gaming-news/details-about-the-dark-souls-hacking-exploit-have-been-published-3186809)
 
 ---
 
