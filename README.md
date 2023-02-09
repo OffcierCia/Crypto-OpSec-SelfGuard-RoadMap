@@ -216,6 +216,7 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 
 - [Tips from TrailOfBits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [Read More](https://www.threatstack.com/blog/five-opsec-best-practices-to-live-by)
+- [CryptoCustody Blog](https://cryptocustody.substack.com)
 
 ---
 
@@ -472,6 +473,8 @@ Remain Vigilant -  Create a culture of skepticism where they feel comfortable ch
 - [Check out](https://twitter.com/Laughing_Mantis/status/1579550302172508161)
 - [Wardriving](https://github.com/AlexLynd/ESP8266-Wardriving)
 - [CreepDetector](https://github.com/skickar/CreepDetector)
+- [AntiCensorship Messaging](https://censorship.no/en/index.html)
+- [Discord e2e encryption](https://github.com/mpgn/discord-e2e-encryption)
 
 ---
 
@@ -554,6 +557,7 @@ Appraise the level of risk associated with each vulnerability. Rank your vulnera
 
 - [Read More](https://www.reddit.com/r/opsec/)
 - [Tips from TrailOfBits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
+- [CryptoCustody Blog](https://cryptocustody.substack.com)
 
 ---
 
@@ -788,7 +792,7 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 
 ### Problem 25
 
-Be aware of most common attacks. Follow hacker websites, latest security standards, check out what [Nitrokey](https://www.nitrokey.com/) and [YubiKey](https://www.yubico.com) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) so possible criminals won't be able to collect needed data.
+Be aware of most common attacks. Follow hacker websites, latest security standards, check out what [Nitrokey](https://www.nitrokey.com/) or [YubiKey](https://www.yubico.com) or [Titan](https://cloud.google.com/titan-security-key) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) so possible criminals won't be able to collect needed data.
 
 - [Physical Attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
 - [3FA](https://www.techtarget.com/searchsecurity/definition/three-factor-authentication-3FA)
