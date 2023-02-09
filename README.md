@@ -194,6 +194,9 @@ Ask them to NEVER make changes to your phone number/SIM unless you physically sh
 - [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
 - [How to use an ipad as a secure calling and messaging device](https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device)
 - [Read More](https://medium.com/the-business-of-crypto/fundamentals-of-opsec-in-crypto-7844ba701b1d)
+- [Intro to Web3 Security](https://n00bzunit3d.xyz/blog/intro-to-web3-security)
+- [Privacy and Scaling Explorations](https://mirror.xyz/privacy-scaling-explorations.eth)
+- [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit)
 
 ---
 
@@ -854,6 +857,9 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 - [All known smart contract-side and user-side attacks and vulnerabilities](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
 - [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy)
 - [Privacy.sexy Website](https://privacy.sexy)
+- [Intro to Web3 Security](https://n00bzunit3d.xyz/blog/intro-to-web3-security)
+- [Privacy and Scaling Explorations](https://mirror.xyz/privacy-scaling-explorations.eth)
+- [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit)
 
 #
 
