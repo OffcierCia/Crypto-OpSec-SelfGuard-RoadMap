@@ -908,12 +908,6 @@ Support is **very** important to me, with it I can do what I love - educating De
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
-**Sponsored:**
-
-- Order the best code audits here: [pessimistic.io](https://pessimistic.io)
-
--  If you need an awesome lawyer, head to [analybits.xyz](https://analybits.xyz) and [rata0x](https://twitter.com/rata0x)
-
 The best thing is to support me directly by donating to any address from the list below:
 
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
