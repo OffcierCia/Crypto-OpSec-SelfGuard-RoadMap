@@ -483,6 +483,7 @@ Remain Vigilant -  Create a culture of skepticism where they feel comfortable ch
 OpSec often comes into play in public settings. For example, if members of your team are discussing work-related matters at a nearby lunch spot, during a conference, or over a beer, odds are that someone could overhear. As they say, loose lips can sink ships, so make sure you don’t discuss any sensitive company information while out in public.  
 
 - [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
+- [Network Security Myths Busted](https://darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks)
 
 A lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically. 
 
@@ -631,6 +632,10 @@ Malware can also have the functionality to "attack" a computer's clipboard. The 
 
 - [Watch More](https://www.youtube.com/watch?v=pGcerfVqYyU)
 - [Read More](https://medium.com/@cryptochatjoe/remaining-anonymous-in-todays-crypto-market-a-101-guide-for-the-badass-not-so-techies-7091edffa9aa)
+- [scan.tylabs.com](https://scan.tylabs.com)
+- [any.run](https://any.run)
+- [dangerzone.rocks](https://dangerzone.rocks)
+- [Malwoverview](https://github.com/alexandreborges/malwoverview)
 
 ---
 
