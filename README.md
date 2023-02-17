@@ -716,9 +716,9 @@ One thing to keep in mind before we get started is that very few firms produce p
 Here’s a list of the most secure phones you can use today:
 
 - Bittium Tough Mobile 2C
-- K-iPhone – One of the most secure Phones [IMHO](https://officercia.mirror.xyz/)❕
+- K-iPhone
 - Solarin From Sirin Labs
-- Purism Librem 5 - Top-1 IMHO ❗️
+- Purism Librem 5
 - Sirin Labs Finney U1
 - [Kyocera phones](https://kyoceramobile.com/available-phones/)
 - Latest iPhone (watch out [iCloud](https://www.quora.com/What-can-the-FBI-or-police-access-from-an-iCloud-account-Can-they-access-everything) & [known attacks](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)) or Android
