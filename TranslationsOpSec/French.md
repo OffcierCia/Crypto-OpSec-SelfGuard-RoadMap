@@ -306,6 +306,3 @@ Si vous voulez soutenir mon travail, vous pouvez m'envoyer un don à l'adresse :
 - **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
 
 ##
-
-
-(👍 ͡❛ ͜ʖ ͡❛)👍
