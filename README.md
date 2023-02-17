@@ -15,9 +15,7 @@
 # **Translations:**
 
 - [Portuguese-Brazilian](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Portuguese.md)
-- [Russian](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/Russian.md)
 - [French](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap/blob/main/TranslationsOpSec/French.md)
-
 
 # OpSec SelfGuard RoadMap
 
