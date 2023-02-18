@@ -54,6 +54,7 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 - [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 - [AnonPlanet](https://anonymousplanet.org/links.html)
+- [opsecprofessionals.org](https://opsecprofessionals.org)
 
 > [Study Kerckhoffs's principle](https://en.m.wikipedia.org/wiki/Kerckhoffs%27s_principle) - The principle which holds that a cryptosystem should be secure, even if everything about the system, except the key, is public knowledge. This concept is widely embraced by cryptographers, in contrast to security through obscurity, which is not.
 
@@ -867,6 +868,7 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 - [Intro to Web3 Security](https://n00bzunit3d.xyz/blog/intro-to-web3-security)
 - [Privacy and Scaling Explorations](https://mirror.xyz/privacy-scaling-explorations.eth)
 - [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit)
+- [opsecprofessionals.org](https://opsecprofessionals.org)
 
 #
 
