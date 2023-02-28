@@ -170,6 +170,7 @@ If you see suspicious password activity or failed log-ins on any of your account
 - [How to Defend Your Castle | Innovative Trio in Smart Contract Security: Monitoring, Prevention, Defense](https://blog.pessimistic.io/how-to-defend-your-castle-innovative-trio-in-smart-contract-security-monitoring-prevention-c8885304035a)
 - [Web3 Cybersecurity Academy](https://twitter.com/1nf0s3cpt/status/1615613430991564807)
 - [Enhancing user asset security](https://twitter.com/1nf0s3cpt/status/1614896605270007811)
+- [Rare Web2 phreaker style attacks: Note](https://telegra.ph/Dear-friends-does-anyone-here-know-of-any-rare-Web2-phreaker-style-attacks-01-30)
 
 ---
 
