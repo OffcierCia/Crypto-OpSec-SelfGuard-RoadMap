@@ -216,6 +216,12 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 - [Tips from TrailOfBits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [Read More](https://www.threatstack.com/blog/five-opsec-best-practices-to-live-by)
 - [CryptoCustody Blog](https://cryptocustody.substack.com)
+- [A DIY Guide to High-Security Cryptography](https://medium.com/web3-magazine/a-diy-guide-to-high-security-cryptography-5c85a5fd8934)
+- [Securing OT Systems: A Practical Guide](https://ismailtasdelen.medium.com/securing-ot-systems-a-practical-guide-827d1a5d9515)
+- [ECDSA: Handle with Care](https://blog.trailofbits.com/2020/06/11/ecdsa-handle-with-care/)
+- [solidity-security](https://github.com/jcr-security/solidity-security-teaching-resources)
+- [A Basic iPhone Feature Helps Criminals Steal Your Entire Digital Life](https://www.wsj.com/articles/apple-iphone-security-theft-passcode-data-privacya-basic-iphone-feature-helps-criminals-steal-your-digital-life-cbf14b1a)
+- [Checklist for Developers for securing APIs](https://infosecwriteups.com/api-security-for-developers-58f971bcc2c1)
 
 ---
 
