@@ -55,6 +55,7 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 - [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 - [AnonPlanet](https://anonymousplanet.org/links.html)
 - [opsecprofessionals.org](https://opsecprofessionals.org)
+- [Crypto Security Best Practices Checklist](https://cryptosecurity.hashnode.dev/crypto-security-best-practices-checklist)
 
 > [Study Kerckhoffs's principle](https://en.m.wikipedia.org/wiki/Kerckhoffs%27s_principle) - The principle which holds that a cryptosystem should be secure, even if everything about the system, except the key, is public knowledge. This concept is widely embraced by cryptographers, in contrast to security through obscurity, which is not.
 
