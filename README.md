@@ -463,6 +463,9 @@ That said, it doesn’t really matter what industry you’re in. If you have any
 - [Read More](https://www.cnbc.com/2021/06/11/tips-to-help-keep-your-crypto-wallet-secure.html)
 - [Read More](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 - [Drive NFC Hack](https://www.makeuseof.com/tag/drive-nfc-hack-work)
+- [Web3.0 API Security for TestNet and MainNet Environment for Authorization Attack Prevention Implementation Using Python](https://medium.com/@spartan_21003/web3-0-api-security-for-testnet-and-mainnet-environment-for-authorization-attack-prevention-b39bab63313)
+- [Ethereum nodes security](https://medium.com/@0xOZ/ethereum-nodes-security-5cce950fcc77)
+- [How To Secure Your Crypto Wallet On A Virtual Machine And Stop Front-Running](https://medium.com/immunefi/improving-opsec-in-the-crypto-space-virtual-machine-flashbots-edition-ee2c1fa280c5)
 
 ---
 
