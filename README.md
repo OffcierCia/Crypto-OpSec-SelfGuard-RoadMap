@@ -498,6 +498,8 @@ OpSec often comes into play in public settings. For example, if members of your 
 A lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically. 
 
 - [Watch More](https://www.youtube.com/watch?v=hxHqE2W8scQy)
+- [Awesome InfoSec](https://github.com/onlurking/awesome-infosec)
+- [Dear Security, be a part of the solution](https://medium.com/chris-dialogue/dear-security-be-a-part-of-the-solution-703201425805)
 
 ---
 
