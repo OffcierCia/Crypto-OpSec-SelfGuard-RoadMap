@@ -583,6 +583,8 @@ Get countermeasures in place. The last step of operational security is to create
 Employees should be able to implement the measures required on their part with or without additional training.
 
 - [Read More](https://hackernoon.com/5-tips-to-prevent-hackers-from-stealing-your-crypto-assets-e2243zig)
+- [Ultimate Guide to Safely Self Custody your Crypto](https://www.cypherock.com/blogs/ultimate_guide_to_set_up_crypto_stack_security)
+- [Setting up a VM for crypto operations](https://medium.com/immunefi/improving-opsec-in-the-crypto-space-virtual-machine-flashbots-edition-ee2c1fa280c5)
 
 ---
 
