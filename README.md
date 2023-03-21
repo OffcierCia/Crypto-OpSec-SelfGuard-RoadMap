@@ -558,6 +558,8 @@ If you have confidential files you want to protect, store them in cipher text, u
 
 If you want to sanitize the files, you can run a multi-pass wipe, shred or erase program. Glary Utilities includes a free file shredder tool where you can shred files or folders using Dept of Defense standard 5220.22-M. You can repeat the delete process up to 10 times.
 
+> One may even come up with using an [old-fashioned device](https://richardwarrender.com/2019/03/psion-fever-breaching-a-digital-data-island/) without internet/bluetooth connection. [Check out this example](https://zedstarr.com/2021/06/11/online-retro-connecting-psions-mc400-series-3a-machines-to-the-internet/). Do not ever store any back-ups if you are using a similar device for OpSec purposes!
+
 Even if someone was able to recover remnants of old magnetic disk data after 10 shredding passes, they would still not see the plain text data, they would see scrambled cipher text data, and would have to decrypt the very strong 256-bit AES encryption.
 
 Better yet, don’t store confidential or encrypted files on magnetic storage. Store the files on a removable flash drive that can be shredded with software and physically destroyed if desired. Unplug the flash drive when not in use.
