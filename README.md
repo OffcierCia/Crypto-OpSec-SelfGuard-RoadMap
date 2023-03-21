@@ -607,7 +607,7 @@ Automate tasks to reduce the need for human intervention. Humans are the weakest
 - [Telegram & Discord Security Best Practices](https://telegra.ph/Telegram--Discord-Security-Best-Practices-01-02)
 - [Read More](https://web.mit.edu/smadnick/www/wp/2019-05.pdf)
 - [Read More](https://medium.com/immunefi/how-not-to-get-hacked-on-telegram-2db2b93a5fa2v)
-
+- [Check out: Littlesnitch tool](https://www.obdev.at/products/littlesnitch)
 
 ---
 
@@ -814,7 +814,9 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 Be aware of most common attacks. Follow hacker websites, latest security standards, check out what [Nitrokey](https://www.nitrokey.com/) or [YubiKey](https://www.yubico.com) or [Titan](https://cloud.google.com/titan-security-key) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) so possible criminals won't be able to collect needed data.
 
 - [Physical Attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
+- [Physical Security Tips](https://twitter.com/rektfencer/status/1636050286564511744?s=20)
 - [3FA](https://www.techtarget.com/searchsecurity/definition/three-factor-authentication-3FA)
+- [Counter-OSINT Techniques](https://github.com/CScorza/OSINTAnonymous)
 
 Pretend to be someone ordinary. For example, follow the legend that you are just a developer of one of the games for Asian market (there are a lot of them), mimic a "average person" in everything - even in financial transactions/operations. **Think like your possible enemy: forewarned is forearmed.**
 
