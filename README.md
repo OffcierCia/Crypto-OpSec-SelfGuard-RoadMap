@@ -428,6 +428,7 @@ Avoid installing any third-party software, including single-player and multiplay
 Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet. 
 
 - [Physical crypto attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
+- [About If you want know, who use your computer when you are not nearby - PC Mouse Tracker](https://github.com/iterweb/watcher)
 
 If you’re ordering pizza with crypto, order it for pickup instead of delivery. When online shopping, use a different (and publicly available) address for package delivery. Options here include your workplace or drop boxes at delivery service providers like FedEx and your local postal service.
 
@@ -652,6 +653,7 @@ Malware can also have the functionality to "attack" a computer's clipboard. The 
 - [any.run](https://any.run)
 - [dangerzone.rocks](https://dangerzone.rocks)
 - [Malwoverview](https://github.com/alexandreborges/malwoverview)
+- [urlscan.io](https://urlscan.io)
 
 ---
 
