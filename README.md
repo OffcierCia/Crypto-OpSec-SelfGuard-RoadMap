@@ -581,6 +581,13 @@ Appraise the level of risk associated with each vulnerability. Rank your vulnera
 
 Get countermeasures in place. The last step of operational security is to create and implement a plan to eliminate threats and mitigate risks. This could include updating your hardware, creating new policies regarding sensitive data, or training employees on sound security practices and company policies. Countermeasures should be straightforward and simple. 
 
+- [Create a ‘Panic’ Alarm With Aqara Hub & Siri Shortcuts](https://homekitnews.com/2020/03/15/create-a-panic-alarm-with-aqara-hub-siri-shortcuts/)
+- [How to use the 'In Case of Emergency' iPhone shortcut to get quick help from rescue services or a contact](https://www.businessinsider.com/guides/tech/in-case-of-emergency-iphone-shortcut?amp)
+- [Automated Panic Button: Details in Comments](https://www.reddit.com/r/shortcuts/comments/s5mupe/automated_panic_button_details_in_comments/)
+- [Event Triggers - Siri](https://support.apple.com/guide/shortcuts/event-triggers-apd932ff833f/ios)
+- [Using Siri Shortcuts as a Panic Button on Apple Watch - Discussion](https://t.me/lobsters_chat/423127)
+- [Panic Button App example](https://www.youtube.com/watch?v=qPiAtEuKM4w)
+
 > If your job requires you to deal with various files (for example, CV), always ask to upload them to Google Drive in preview mode beforehand. Or open them via [dangerzone.rocks](https://dangerzone.rocks). Even with all of the above, always do your work from a separate computer and VM!
 
 Employees should be able to implement the measures required on their part with or without additional training.
