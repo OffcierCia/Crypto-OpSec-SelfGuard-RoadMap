@@ -494,6 +494,9 @@ OpSec often comes into play in public settings. For example, if members of your 
 
 - [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
 - [Network Security Myths Busted](https://darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks)
+- [5 Ways to Find Hidden Cameras Using Your Mobile Phone](https://www.makeuseof.com/tag/use-smartphone-detect-hidden-surveillance-cameras/)
+- [9 Places Where Secret Cameras Are Most Likely to Be Hidden](https://www.makeuseof.com/where-secret-cameras-are-likely-to-be-hidden/)
+- [Discussion about how to find hidden cameras.](https://t.me/lobsters_chat/411600)
 
 A lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically. 
 
@@ -573,6 +576,10 @@ Appraise the level of risk associated with each vulnerability. Rank your vulnera
 - [Read More](https://www.reddit.com/r/opsec/)
 - [Tips from TrailOfBits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [CryptoCustody Blog](https://cryptocustody.substack.com)
+- [6 Reasons to Avoid Cloud Services and Keep Your Feet on the Ground](https://www.makeuseof.com/tag/reasons-avoid-cloud-services/)
+- [How Crypto Stealth Addresses Keep Your Transactions Private](https://www.makeuseof.com/how-crypto-stealth-addresses-keep-your-transactions-private/)
+- [How to Hide Your MAC Address and Why You Should](https://www.makeuseof.com/hide-mac-address/)
+- [5 Ways to Hide Apps on Your iPhone](https://www.makeuseof.com/ways-to-hide-iphone-apps/)
 
 ---
 
@@ -606,6 +613,9 @@ Implement separation of duties. Make sure that those who work on your network ar
 - [Read More](https://arxiv.org/abs/2106.10740)
 - [SIEM](https://en.wikipedia.org/wiki/Security_information_and_event_management)
 - [DLP](https://digitalguardian.com/blog/what-data-loss-prevention-dlp-definition-data-loss-prevention)
+- [IDS](https://www.geeksforgeeks.org/intrusion-detection-system-ids/)
+- [How to Generate Your Own GnuPG Key](https://www.makeuseof.com/how-to-generate-your-own-gnupg-key/)
+- [5 Reasons Installing Fewer Apps Helps You Stay Safe](https://www.makeuseof.com/why-installing-less-software-better-security/)
 
 ---
 
