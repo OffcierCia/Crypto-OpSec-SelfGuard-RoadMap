@@ -503,6 +503,7 @@ A lot of OpSec missteps can be avoided by being more aware of your surroundings 
 - [Watch More](https://www.youtube.com/watch?v=hxHqE2W8scQy)
 - [Awesome InfoSec](https://github.com/onlurking/awesome-infosec)
 - [Dear Security, be a part of the solution](https://medium.com/chris-dialogue/dear-security-be-a-part-of-the-solution-703201425805)
+- [Staying Safe in Web3: OTC Scams](https://polkaverse.com/@bruno/staying-safe-in-web3-otc-scams-30094)
 
 ---
 
@@ -535,6 +536,8 @@ Identify possible threats. For each category of information that you deem sensit
 
 - [Read More](https://datatracker.ietf.org/wg/opsec/documents/)
 - [AnonPlanet](https://anonymousplanet.org/links.html)
+- [censorship.no](https://censorship.no/)
+- [detect.expert](https://detect.expert/)
 
 ---
 
