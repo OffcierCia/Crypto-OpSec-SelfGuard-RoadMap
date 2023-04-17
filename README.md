@@ -110,6 +110,7 @@ Don’t use 3rd party VPN, rent a VPS and bootstrap open source VPN server!
 - [Watch more](https://youtu.be/rXwJwubqVmI)
 - [Wireguard VS OpenVPN](https://restoreprivacy.com/vpn/wireguard-vs-openvpn)
 - [Brave Browser Privacy Issues](https://telegra.ph/Brave-Browser-is-a-Spyware-01-29)
+- [How to Disappear from the Internet!](https://medium.com/@garvittkohli/how-to-disappear-from-the-internet-53a039dc6397)
 
 **Check out:**
 
