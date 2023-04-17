@@ -289,6 +289,7 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 - [Read More](https://www.gocivilairpatrol.com/programs/emergency-services/operations-support/operational-security-opsec)
 - [How to Store Seed Phrase Backups](https://unchained.com/blog/how-to-store-bitcoin-seed-phrase-backups)
 - [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening)
+- [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme)
 
 ---
 
