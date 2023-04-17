@@ -158,6 +158,12 @@ If you see suspicious password activity or failed log-ins on any of your account
 [KeePass](https://keepass.info) or [Keepassx](https://keepassx.org) or [KeePassDX](https://www.keepassdx.com) or [KeePassXC](https://keepassxc.org) or [BitWarden](https://bitwarden.com) are good options. I also found [this tutorial](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093) for [integrity check](https://keepass.info/integrity.html) (and other checks) very helpful, be sure to check it out as well: [link](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093).
 
 - [This article tells that when using BitWarden one have to audit server side cryptography primitives by himself and monitor for changes!](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations)
+- [Secant](https://start.me/p/GEbM6z/secant)
+- [Awesome csirt](https://github.com/Spacial/awesome-csirt)
+- [teachingprivacy.org](https://teachingprivacy.org/)
+- [securityinabox.org](https://securityinabox.org/en/)
+- [SecureYourselfNow](https://www.hoppersroppers.org/security/SecureYourselfNow/0-SecureYourselfNow.html)
+- [ssd.eff.org](https://ssd.eff.org/en)
 
 **On the opposite:**
 
