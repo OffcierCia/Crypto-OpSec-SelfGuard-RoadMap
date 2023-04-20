@@ -281,6 +281,7 @@ Offline (better - physical) backups. Store them in a safe. Can be written on pap
 
 - [Audio Steganography : The art of hiding secrets](https://sumit-arora.medium.com/audio-steganography-the-art-of-hiding-secrets-within-earshot-part-1-of-2-6a3bbd706e15)
 - [Audio Steganography Technique for Communication Security](https://ukdiss.com/examples/implementation-design-for-audio-steganography.php)
+- [Learn OpSec basics in 15 mins](https://www.youtube.com/watch?v=rMSgnOYcEVE)
 
 Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
@@ -291,6 +292,8 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 - [How to Store Seed Phrase Backups](https://unchained.com/blog/how-to-store-bitcoin-seed-phrase-backups)
 - [Awesome Security Hardening Guides](https://github.com/decalage2/awesome-security-hardening)
 - [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme)
+- [iOS Forensics References](https://github.com/RealityNet/iOS-Forensics-References)
+- [Android Forensics References](https://github.com/RealityNet/Android-Forensics-References)
 
 ---
 
@@ -546,6 +549,7 @@ Identify possible threats. For each category of information that you deem sensit
 - [AnonPlanet](https://anonymousplanet.org/links.html)
 - [censorship.no](https://censorship.no/)
 - [detect.expert](https://detect.expert/)
+- [WhatBreach](https://github.com/Ekultek/WhatBreach)
 
 ---
 
