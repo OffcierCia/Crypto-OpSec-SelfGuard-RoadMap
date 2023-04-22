@@ -30,7 +30,7 @@
 
 ### **Why do I need OpSec?**
 
-Take a close look at [this picture](https://t.me/officer_cia/684). Then think up: the world is full of bad people, scammers, hackers, competitors, extortionists, and your personal enemies. Read [this research](https://www.usenix.org/system/files/1401_08-12_mickens.pdf). 
+Take a close look at [this picture](https://t.me/officer_cia/684) ([imgur link](https://imgur.com/a/vx5OeVk)). Then think up: the world is full of bad people, scammers, hackers, competitors, extortionists, and your personal enemies. Read [this research](https://www.usenix.org/system/files/1401_08-12_mickens.pdf). 
 
 - Study [my blog!](https://officercia.mirror.xyz)
 - [Follow AnonPlanet!](https://anonymousplanet.org/links.html)
