@@ -47,6 +47,10 @@ Try not to enable such a psychological phenomenon as the [tunnel effect](https:/
 
 This is all correct, but nothing stops you from doing a fork or ordering an independent audit of the tools you are going to use, does it? With all said, it all depends on what you are going to get in result and against whom you are acting.
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [Trail of Bits Minimum Viable Plans (MVPs) for Security](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
@@ -54,6 +58,8 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 - [AnonPlanet](https://anonymousplanet.org/links.html)
 - [opsecprofessionals.org](https://opsecprofessionals.org)
 - [Crypto Security Best Practices Checklist](https://cryptosecurity.hashnode.dev/crypto-security-best-practices-checklist)
+
+</details>
 
 > [Study Kerckhoffs's principle](https://en.m.wikipedia.org/wiki/Kerckhoffs%27s_principle) - The principle which holds that a cryptosystem should be secure, even if everything about the system, except the key, is public knowledge. This concept is widely embraced by cryptographers, in contrast to security through obscurity, which is not.
 
@@ -99,6 +105,10 @@ For example, if a Protonmail user sends an email to a Gmail user, the email is e
 
 Don’t use 3rd party VPN, rent a VPS and bootstrap open source VPN server!
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Richard Stallman: How I Do My Computing](https://stallman.org/stallman-computing.html)
 - [Choosing a Reliable VPN Provider for Life & Work](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
@@ -113,15 +123,23 @@ Don’t use 3rd party VPN, rent a VPS and bootstrap open source VPN server!
 - [Brave Browser Privacy Issues](https://telegra.ph/Brave-Browser-is-a-Spyware-01-29)
 - [How to Disappear from the Internet!](https://medium.com/@garvittkohli/how-to-disappear-from-the-internet-53a039dc6397)
 
+</details>
+
 **Check out:**
 
 Use dedicated email address for each account, or use an alias eg. chortly534524twitter@gmail , if it leaks it will be isolated to the account!
 
 You can also use something like [private addresses feature](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection) from DuckDuckGo or [simplelogin.io](https://simplelogin.io).
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [How to hide your email](https://gizmodo.com/the-best-ways-to-hide-your-email-address-1848092989)
 - [Anti-detection system](https://detect.expert)
 - [Browser leakage checkers](https://graph.org/Checkers-01-19)
+
+</details>
 
 ---
 
@@ -137,13 +155,23 @@ Use different emails and different strong passwords. Store them in one place lik
 
 Use passwords that are at least 8 characters in length, but a minimum of 12 is generally recommended for memorization. Along with that, if using memorization, ensure that a minimum complexity requirement is met: which means having an uppercase character, a lowercase character, a digit, and a non-alphabetic character. 
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Store SSH keys in the Secure Enclave!](https://github.com/maxgoedjen/secretive)
 - [Blockchain dark forest selfguard handbook](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy/user_awareness/01_handbook/en)
 - [A tool that allows user to create time bound backups for various cryptocurrencies](https://github.com/James-Sangalli/crypto-timelocked-backup)
 
+</details>
+
 > For a perfect-level privacy, always generate complex passwords and write them down on a notebook. It takes time but saves headache. Somewhere along the line, the 'stop writing passwords on sticky notes' narrative got misinterpreted as 'never write them down'. There's nuance to it!
 
 Using a string of unrelated words while still meeting the dictionary requirement makes it easy to have an extremely secure password while still being able to remember it. If fully relying on a password manager, a password of 20+ characters in length that is randomly generated can be used. 
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [Wi-Fi Security A-Z](twitter.com/officer_cia/status/1566473017068331010)
 - [Fing App](https://www.fing.com)
@@ -153,11 +181,16 @@ Using a string of unrelated words while still meeting the dictionary requirement
 - [Someone overheard me! Why it's important to think about all attack vectors, even if they seem unlikely to happen?](https://officercia.mirror.xyz/Gc4msiSq4HkKrrsKcL5tDF613iUtX4vWUAb5DYdDPC0)
 - [MacOS + IOS + Crypto + OpSec = ?](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
 - [Awesome wifi security](https://github.com/edelahozuah/awesome-wifi-security)
-
+  
+</details>
 
 If you see suspicious password activity or failed log-ins on any of your accounts, change all of your passwords, starting with sensitive and authorization accounts, such as your primary email and bank/crypto accounts. 
 
 [KeePass](https://keepass.info) or [Keepassx](https://keepassx.org) or [KeePassDX](https://www.keepassdx.com) or [KeePassXC](https://keepassxc.org) or [BitWarden](https://bitwarden.com) are good options. I also found [this tutorial](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093) for [integrity check](https://keepass.info/integrity.html) (and other checks) very helpful, be sure to check it out as well: [link](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093).
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [This article tells that when using BitWarden one have to audit server side cryptography primitives by himself and monitor for changes!](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations)
 - [Secant](https://start.me/p/GEbM6z/secant)
@@ -167,9 +200,15 @@ If you see suspicious password activity or failed log-ins on any of your account
 - [SecureYourselfNow](https://www.hoppersroppers.org/security/SecureYourselfNow/0-SecureYourselfNow.html)
 - [ssd.eff.org](https://ssd.eff.org/en)
 
+</details>
+
 **On the opposite:**
 
 > For 2FA one can use KeePass + Yubikey as well. KeePass allows setting up TOTP to any entry in your .kdbx file. Yubikey could be used in company with KeePass to add a bit of entropy on each re-encryption when adding an entry in your db file: [Ref No.1](https://developers.yubico.com/Developer_Program/Guides/Touch_triggered_OTP.html); [Ref No.2](https://www.reddit.com/r/KeePass/comments/opx34q/keepassxc_and_yubikeys_setting_up_the); [Ref No.3](https://github.com/keepassxreboot/keepassxc/discussions/6344).
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [Read More](https://blog.keys.casa/7-ways-to-level-up-your-bitcoin-opsec/)
 - [NIST 800-63b Password Guidelines and Best Practices](https://specopssoft.com/blog/nist-800-63b/)
@@ -178,6 +217,8 @@ If you see suspicious password activity or failed log-ins on any of your account
 - [Web3 Cybersecurity Academy](https://twitter.com/1nf0s3cpt/status/1615613430991564807)
 - [Enhancing user asset security](https://twitter.com/1nf0s3cpt/status/1614896605270007811)
 - [Rare Web2 phreaker style attacks: Note](https://telegra.ph/Dear-friends-does-anyone-here-know-of-any-rare-Web2-phreaker-style-attacks-01-30)
+
+</details>
 
 ---
 
@@ -221,6 +262,10 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 
 > Aegis Authenticator is open source (licensed under GPL v3) and the source code [can be found here](http://github.com/beemdevelopment/Aegis). The issue with Authy is that it depends on a phone number which can be changed through an email request, allowing anyone access to HOTP/TOTP after an approximate 4-day wait period. To avoid that, disable multi-device function in Authy's settings!
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Tips from TrailOfBits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [Read More](https://www.threatstack.com/blog/five-opsec-best-practices-to-live-by)
 - [CryptoCustody Blog](https://cryptocustody.substack.com)
@@ -231,11 +276,17 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 - [A Basic iPhone Feature Helps Criminals Steal Your Entire Digital Life](https://www.wsj.com/articles/apple-iphone-security-theft-passcode-data-privacya-basic-iphone-feature-helps-criminals-steal-your-digital-life-cbf14b1a)
 - [Checklist for Developers for securing APIs](https://infosecwriteups.com/api-security-for-developers-58f971bcc2c1)
 
+</details>
+
 ---
 
 ### Problem 5
 
 Cold storage, and separate “hot” wallet. Use multisig ([gnosis-safe.io](https://gnosis-safe.io) as example) or at least a hardware wallet. Never store your seed phrase digitally. Seed phrases are intended to be stored on the paper card included with hardware wallets! That means never type it up, store it online, or take a photo of the card. Store your key on hard device.
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
@@ -243,6 +294,8 @@ Cold storage, and separate “hot” wallet. Use multisig ([gnosis-safe.io](http
 - [Read More](https://joelgsamuel.medium.com/how-to-keep-your-smartphone-safe-from-spying-d7d50fbed817)
 - [ShiftCrypto](https://shiftcrypto.support/help/en-us/5-backup/72-what-types-of-wallet-backups-can-i-create)
 - [Rogue Key Attack in BLS Signature and Harmony Security](https://medium.com/@coolcottontail/rogue-key-attack-in-bls-signature-and-harmony-security-eac1ea2370ee)
+
+</details>
 
 **Great wallets (both hot and cold):**
 
@@ -286,6 +339,10 @@ Offline (better - physical) backups. Store them in a safe. Can be written on pap
 
 Ask yourself, what happens if my house catches on fire? What temperature is my safe rated to? Some individuals find a safety deposit box handy.
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
 - [OpSec Going Smarter](https://officercia.mirror.xyz/B9hBom4jGhkV0C-47E4YBz8tBJkb0a7zVwQR0jITIyM)
 - Check out: [Portable Secret](https://mprimi.github.io/portable-secret) & [digi cloak](https://github.com/kaushalmeena/digi-cloak)
@@ -295,6 +352,8 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 - [Authenticator app for storing your 2FA secrets](https://github.com/ente-io/auth/#readme)
 - [iOS Forensics References](https://github.com/RealityNet/iOS-Forensics-References)
 - [Android Forensics References](https://github.com/RealityNet/Android-Forensics-References)
+
+</details>
 
 ---
 
@@ -331,9 +390,15 @@ For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xab
 
 OpSec isn't always a matter of survival! It manifests itself in a variety of ways: at work, in everyday life, in communication, in DAO work, in conferences, and so on. You may be surprised to learn that there is no perfect solution. The strategies and tactics differ greatly and are dependent on you and what you need to achieve.
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [An ultimate list of rules any on-chain survivor should follow to stay safe!](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [openvpn-install](https://github.com/Nyr/openvpn-install)
 - [Juice jacking: Why you should avoid public phone charging stations](https://www.nbcnews.com/tech/security/juice-jacking-why-you-should-avoid-public-phone-charging-stations-n1132046)
+
+</details>
 
 I'm only offering you a set of tools and guidelines to hunt for information; the rest is up to you! No one can create your security wall better than you, and learning OpSec does not require you to become a hostile, distrustful cryptopunk and abuse it to the extreme: you might find something that works for you.
 
@@ -473,6 +538,10 @@ That said, it doesn’t really matter what industry you’re in. If you have any
 
 > Tor just makes your life easier a little bit. There is neither no out-of-the-box security nor out-of-the-box privacy solutions… There are no bad tools either. You can use obscore privacy enhanced forks like librewolf but its a trade off as you end up being more identifiable through browser fingerprinting, whereas when you use ff/chrome you are one of millions sharing a similar fingerprint.
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Read More](https://www.cnbc.com/2021/06/11/tips-to-help-keep-your-crypto-wallet-secure.html)
 - [Read More](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 - [Drive NFC Hack](https://www.makeuseof.com/tag/drive-nfc-hack-work)
@@ -481,11 +550,17 @@ That said, it doesn’t really matter what industry you’re in. If you have any
 - [How To Secure Your Crypto Wallet On A Virtual Machine And Stop Front-Running](https://medium.com/immunefi/improving-opsec-in-the-crypto-space-virtual-machine-flashbots-edition-ee2c1fa280c5)
 - [The Evolving Landscape of Privacy in Web3](https://mirror.xyz/thecryptonomad.eth/7RBs7PRAFCbp4uwSwAm7Y6727A2LfTEA-duSSLhSiAY)
 
+</details>
+
 ---
 
 ### Problem 10
 
 Remain Vigilant -  Create a culture of skepticism where they feel comfortable checking twice before clicking a link or responding to a request for sensitive information, and you’ll have a much more secure organization overall. Watch out [physical attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)!
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [Wi-Fi Security when holding Crypto assets!](https://t.me/officer_cia/377)
 - [Read More](https://www.ledger.com/academy/security/hack-wifi)
@@ -498,6 +573,8 @@ Remain Vigilant -  Create a culture of skepticism where they feel comfortable ch
 - [CreepDetector](https://github.com/skickar/CreepDetector)
 - [AntiCensorship Messaging](https://censorship.no/en/index.html)
 - [Discord e2e encryption](https://github.com/mpgn/discord-e2e-encryption)
+  
+</details>
 
 ---
 
@@ -532,12 +609,18 @@ Maybe you can come up with your own solution based on [logic bomb](https://githu
 
 > [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and Cryptography can also be combined for this purpose. After all, cryptography hides information, whereas steganography masks the fact that it was transmitted. For example, if you stenographically double-encrypt your passwords and store them in a cloud-based password manager, hackers (even if the vault is decoded or hacked) will be unable to use them as they will need your [stega-key](https://www.edureka.co/blog/steganography-tutorial) for this. You would, however, have to decrypt each password each time you are using it, with a special note.
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA)
 - Check out [this tool](https://github.com/utkusen/wholeaked)!
 - [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
 - [Watch More](https://www.youtube.com/watch?v=0aSQMeoz9ow)
 - [stylesuxx.github.io](https://stylesuxx.github.io/steganography)
 - [stegonline.georgeom.net](https://stegonline.georgeom.net/upload)
+
+</details>
 
 ---
 
@@ -559,6 +642,10 @@ Identify possible threats. For each category of information that you deem sensit
 
 Analyze security holes and other vulnerabilities. Assess your current safeguards and determine what, if any, loopholes or weaknesses exist that may be exploited to gain access to your sensitive data.
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Can forensic science still recover data from a hard drive after a seven-pass wipe?](https://www.quora.com/Can-forensic-science-still-recover-data-from-a-hard-drive-after-a-seven-pass-wipe?)
 - [Gentoo](https://www.gentoo.org)
 - [TailsOS](https://tails.boum.org/about/index.en.html)
@@ -569,6 +656,8 @@ Analyze security holes and other vulnerabilities. Assess your current safeguards
 - [File carving](https://resources.infosecinstitute.com/topic/file-carving)
 - [Read More](https://www.lopp.net/bitcoin-information/security.html)
 - [Choose Veracrypt (better) or FileVault!](https://book.cyberyozh.com/veracrypt-veracrypt-vs-truecrypt)
+
+</details>
 
 **Also:**
 
@@ -590,6 +679,10 @@ Better yet, don’t store confidential or encrypted files on magnetic storage. S
 
 Appraise the level of risk associated with each vulnerability. Rank your vulnerabilities using factors such as the likelihood of an attack happening, the extent of damage that you would suffer, and the amount of work and time you would need to recover. The more likely and damaging an attack is, the more you should prioritize mitigating the associated risk.
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Read More](https://www.reddit.com/r/opsec/)
 - [Tips from TrailOfBits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [CryptoCustody Blog](https://cryptocustody.substack.com)
@@ -598,11 +691,17 @@ Appraise the level of risk associated with each vulnerability. Rank your vulnera
 - [How to Hide Your MAC Address and Why You Should](https://www.makeuseof.com/hide-mac-address/)
 - [5 Ways to Hide Apps on Your iPhone](https://www.makeuseof.com/ways-to-hide-iphone-apps/)
 
+</details>
+
 ---
 
 ### Problem 16
 
 Get countermeasures in place. The last step of operational security is to create and implement a plan to eliminate threats and mitigate risks. This could include updating your hardware, creating new policies regarding sensitive data, or training employees on sound security practices and company policies. Countermeasures should be straightforward and simple. 
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [Create a ‘Panic’ Alarm With Aqara Hub & Siri Shortcuts](https://homekitnews.com/2020/03/15/create-a-panic-alarm-with-aqara-hub-siri-shortcuts/)
 - [How to use the 'In Case of Emergency' iPhone shortcut to get quick help from rescue services or a contact](https://www.businessinsider.com/guides/tech/in-case-of-emergency-iphone-shortcut?amp)
@@ -610,6 +709,8 @@ Get countermeasures in place. The last step of operational security is to create
 - [Event Triggers - Siri](https://support.apple.com/guide/shortcuts/event-triggers-apd932ff833f/ios)
 - [Using Siri Shortcuts as a Panic Button on Apple Watch - Discussion](https://t.me/lobsters_chat/423127)
 - [Panic Button App example](https://www.youtube.com/watch?v=qPiAtEuKM4w)
+  
+</details>
 
 > If your job requires you to deal with various files (for example, CV), always ask to upload them to Google Drive in preview mode beforehand. Or open them via [dangerzone.rocks](https://dangerzone.rocks). Even with all of the above, always do your work from a separate computer and VM!
 
@@ -661,6 +762,10 @@ Incident response and disaster recovery planning are always crucial components o
 
 Risk management: The process of identifying, assessing and controlling threats to an organization's capital and earnings. These risks stem from a variety of sources including financial uncertainties, legal liabilities, technology issues, strategic management errors, accidents and natural disasters.
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Violent Attack Vectors in Web3: A Detailed Review](https://officercia.mirror.xyz/qfhQ_ocTPKnO5EqMlZ2ixIX7oBIfz5Tznid82EucbYk)
 - [Here's a List of 29 Different Types of USB Attacks](https://www.bleepingcomputer.com/news/security/heres-a-list-of-29-different-types-of-usb-attacks)
 - [Bluetooth Attacks and Security Tips – Awareness Results in Better Protection](https://home.sophos.com/en-us/security-news/2021/bluetooth-attacks)
@@ -668,6 +773,8 @@ Risk management: The process of identifying, assessing and controlling threats t
 - [This is a macOS hardening to read or set security configuration](https://github.com/ataumo/macos_hardening)
 - [A collection of awesome security hardening guides, tools and other resources](https://github.com/decalage2/awesome-security-hardening)
 - [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+  
+</details>
 
 Many individuals from an organization can be in charge of different parts of the risk management process. Through this process, they can discover potential areas for a data breach or other threats. Understanding potential threat vectors is central to this process, as it allows them to be seen before they can be exploited. 
 
@@ -838,11 +945,17 @@ Check out this [awesome repo!](https://github.com/Msiusko/web3privacy)
 
 Use trusted services. Using a secure, easy-to-use crypto wallet to interact with DeFi applications is essential to a safe and user-friendly DeFi experience. Interacting with smart contracts can be tricky for first-time users, so using a beginner-friendly crypto wallet with DApp support is a smart way to mitigate risks stemming from accidental errors on the side of the user. Better do **everything** manually!
 
+<details>
+<summary>Expand</summary>
+<br />
+  
 - [The Only Safe Way to Store Crypto](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [Read More](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [Read More](https://blog.eduonix.com/cryptocurrency/cryptocurrency-security-checklist-investors-adopt/)
 - [How to protect your assets](https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80)
 - [On Operational Security in Web3](https://0xrusowsky.substack.com/p/on-operational-security)
+  
+</details>
 
 ---
 
@@ -850,10 +963,16 @@ Use trusted services. Using a secure, easy-to-use crypto wallet to interact with
 
 Be aware of most common attacks. Follow hacker websites, latest security standards, check out what [Nitrokey](https://www.nitrokey.com/) or [YubiKey](https://www.yubico.com) or [Titan](https://cloud.google.com/titan-security-key) do and why. As a conclusion - read what is [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and [counterOSINT](https://github.com/soxoj/counter-osint-guide-en) so possible criminals won't be able to collect needed data.
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Physical Attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
 - [Physical Security Tips](https://twitter.com/rektfencer/status/1636050286564511744?s=20)
 - [3FA](https://www.techtarget.com/searchsecurity/definition/three-factor-authentication-3FA)
 - [Counter-OSINT Techniques](https://github.com/CScorza/OSINTAnonymous)
+  
+</details>
 
 Pretend to be someone ordinary. For example, follow the legend that you are just a developer of one of the games for Asian market (there are a lot of them), mimic a "average person" in everything - even in financial transactions/operations. **Think like your possible enemy: forewarned is forearmed.**
 
