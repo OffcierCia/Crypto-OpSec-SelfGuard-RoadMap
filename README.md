@@ -182,6 +182,11 @@ Using a string of unrelated words while still meeting the dictionary requirement
 - [MacOS + IOS + Crypto + OpSec = ?](https://officercia.mirror.xyz/0uiAGM50rkQSvHbptcrVkCkyxsnewpAFIdu3oyga42Y)
 - [Awesome wifi security](https://github.com/edelahozuah/awesome-wifi-security)
 - [bbox.rocks](https://bbox.rocks)
+- [IT security lecture](https://github.com/bkimminich/it-security-lecture/)
+- [Unredacter Tool](https://github.com/BishopFox/unredacter)
+- [forensicdots.de](https://www.forensicdots.de/)
+- [meta-secret App](https://github.com/meta-secret)
+- [Portable-secret App](https://mprimi.github.io/portable-secret/)
   
 </details>
 
