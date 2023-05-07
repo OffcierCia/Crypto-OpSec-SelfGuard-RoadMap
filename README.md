@@ -68,6 +68,8 @@ Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?i
 > I highly recommend to purchase a hardware wallet directly from the manufacturer's website rather than online retailers like Amazon/eBay. It is also advised to use an alternative email address or a virtual office to protect your personal information in case of a data leak. I also don’t like trusting hardware. Therefore, we all should have physical ciphers! Once again, study Steganography!
 
 - [Check out this tool!](https://mprimi.github.io/portable-secret)
+- [Wholeaked Tool](https://github.com/utkusen/wholeaked)
+- [Symbiote Tool](https://github.com/hasanfirnas/symbiote)
 
 ### **Why is this guide so big?**
 
@@ -98,6 +100,7 @@ For example, if a Protonmail user sends an email to a Gmail user, the email is e
 - [Watch More](https://www.youtube.com/channel/UCYVU6rModlGxvJbszCclGGw)
 - [Read More on Email Encryption with Proton](https://proton.me/support/proton-mail-encryption-explained)
 - [Meta Secret Tool](https://github.com/meta-secret)
+- [Croc Tool](https://github.com/schollz/croc)
 
 > Don't forget that the VDS/RDP + VM combination can replace all of this, but it is not available to everyone. If you know how to do it correctly - choose this way. [Check out this article as well](https://www.techtarget.com/searchitoperations/tip/Understand-the-differences-between-VPS-vs-VPC).
 
