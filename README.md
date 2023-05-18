@@ -424,11 +424,14 @@ A VPN (Virtual Private Network) is an application that increases your online sec
 One helpful sheet created by someone comparing VPNs in detail is [here](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit#gid=0)!
 
 [Mullvad](https://mullvad.net) does a few things differently than most other VPNs, such as allowing cash payments and not requiring an email address to create an account. One may also wonder: Isn't WireGuard less safe than OpenVPN, since logs are kept for WireGuard (at least temporary? Well, If you have multiple users you have to make an additional gateway with additional IP address. Like in [Nordlynx](https://nordvpn.com/blog/nordlynx-protocol-wireguard/). But out of the box you cant say that OpenVPN is more safe. It's more difficult to configure it so misconfiguration may be an issue. With all said, I prefer mullvad.net + oVPN. 
+  
+> There is a take that you should never use VPN services and run your own VPS/VPN only! [Check out this resource!](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
 
 Another Option — Setting Up a Hardware VPN. If you area VPN enjoyer I’d strongly consider you look at affordable hardware options, for example, the [gl-mt1300](https://www.amazon.com/GL-iNet-GL-MT1300-Wireless-Pocket-Sized-Repeater/dp/B08MKZXGBY) is a cheap and very nice piece of kit, easy way to protect your home network from threats without relying on running software locally. It may seem overkill but the options of TOR or Mullvad and general WireGuard, and measures to stop [DNS leakage](http://www.dnsleaktest.com) make it quite a nice useful piece of kit!
 
 - [How I turned a mini-PC into an Ethereum node to run at home](https://medium.com/coinmonks/how-i-turned-a-mini-pc-into-an-ethereum-node-to-run-at-home-5aebf1b6f881)
 - [Spin up your own Ethereum node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node)
+- [Check out this resource!](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
 
 It is important to note that you can achieve the same thing by installing oVPN Mullvad (or another service you trust / your own VPN) configuration on your home router! You should also keep in mind the basic rule: the VPN is your buddy and will keep you safe from a wide range of threats, including even several WiFi and physical attacks. I hope this short [note](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg) helps you decide!
 
