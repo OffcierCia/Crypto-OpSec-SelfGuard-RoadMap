@@ -647,6 +647,16 @@ Identify possible threats. For each category of information that you deem sensit
 - [detect.expert](https://detect.expert/)
 - [WhatBreach](https://github.com/Ekultek/WhatBreach)
 
+**Offline/Radio + Crypto:**
+
+- [Building a Transaction By Hand](https://klmoney.wordpress.com/bitcoin-dissecting-transactions-part-2-building-a-transaction-by-hand/)
+- [Generating a Seed Phrase using a Calculator](https://vault12.com/securemycrypto/cryptocurrency-security-how-to/calculator-seed-phrase-generator)
+- [Instruments on the radio waves🛠](https://telegra.ph/Instruments-on-the-radio-waves-02-01)
+- [No Internet, No Problem: How to Send Bitcoin by Amateur Radio](https://news.bitcoin.com/no-internet-no-problem-how-to-send-bitcoin-by-amateur-radio)
+- [The Cypherpunks Tapping Bitcoin via Ham Radio](https://www.wired.com/story/cypherpunks-bitcoin-ham-radio/)
+- [The Only Safe Way to Store Crypto: Ultimate OpSec](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
+- [Better privacy without special software](https://mprimi.github.io/portable-secret/)
+
 ---
 
 ### Problem 14
