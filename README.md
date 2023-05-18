@@ -63,7 +63,7 @@ This is all correct, but nothing stops you from doing a fork or ordering an inde
 
 > [Study Kerckhoffs's principle](https://en.m.wikipedia.org/wiki/Kerckhoffs%27s_principle) - The principle which holds that a cryptosystem should be secure, even if everything about the system, except the key, is public knowledge. This concept is widely embraced by cryptographers, in contrast to security through obscurity, which is not.
 
-Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) tool. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes have the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
+Let’s say we deal with a [Duress](https://play.google.com/store/apps/details?id=me.lucky.duress) or [Wasted](https://f-droid.org/packages/me.lucky.wasted/) tools. As such, it can be used wrong (e.g. weak password), or used to do bad things (e.g., exfiltrate intellectual property). On the opposite, we can just use [Steganography](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA) and a small paper, without even touching the computer. Both attitudes have the right to exist, in my honest opinion! All of the above refers to the criticism of tools as such and their role in OpSec.
 
 > I highly recommend to purchase a hardware wallet directly from the manufacturer's website rather than online retailers like Amazon/eBay. It is also advised to use an alternative email address or a virtual office to protect your personal information in case of a data leak. I also don’t like trusting hardware. Therefore, we all should have physical ciphers! Once again, study Steganography!
 
@@ -208,7 +208,9 @@ If you see suspicious password activity or failed log-ins on any of your account
 - [securityinabox.org](https://securityinabox.org/en/)
 - [SecureYourselfNow](https://www.hoppersroppers.org/security/SecureYourselfNow/0-SecureYourselfNow.html)
 - [ssd.eff.org](https://ssd.eff.org/en)
-
+- [Wasted](https://f-droid.org/packages/me.lucky.wasted/)
+- [bbox.rocks](https://bbox.rocks)
+  
 </details>
 
 **On the opposite:**
@@ -370,11 +372,9 @@ Ask yourself, what happens if my house catches on fire? What temperature is my s
 
 Never do anything you do not understand. Always check which token you approve, transaction you sign, assets you send, etc - be extremely accurate while making any financial operation. Keep in mind that one of possible attack vectors is to put you in a situation that will encourage you to do smth (login or anything like that).
 
-You can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date.
+> Tip: Don't use Tails OS if you want to achieve anonymity on the network, choose Whonix OS together with Qubes OS or Whonix OS together with free and secure Linux and virtualization through KVM/Qemu!
 
-**Tip:**
-
-For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in.](https://www.darknetstats.com/tutorial-xmpp-jabber-otr-over-tor) Or Matrix… Or, at least, configure telegram correctly… 
+> You can install Comodo or MalwareBytes antivirus but it won't help you if you do not understand them. Keep up your basic set of defending tools up to date. For ultra-secure comunications, run WhonixOS and [use Jabber (Adium, Psi+ or Xabber or ChatSecure) over Tor with OTR plug-in.](https://www.darknetstats.com/tutorial-xmpp-jabber-otr-over-tor) Or Matrix… Or, at least, configure telegram correctly… 
 
 - [Digital Communications Protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0)
 - [OTR versus OMEMO](https://forums.whonix.org/t/otr-versus-omemo/14063)
@@ -443,6 +443,8 @@ At the same time, I believe that OpSec, in its broadest sense, does not function
 - [Guide to securing and improving privacy on macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 - [Set of utilities to manage BIP44-compatible Ethereum HD wallet](https://github.com/pavel-main/ethereum-hd-tools)
 - [The Last Laptop You'll Ever Need For Crypto](https://defieducation.substack.com/p/the-last-laptop-youll-ever-need-for)
+- [Nano-Painting: Encryption With Colours](https://medium.com/asecuritysite-when-bob-met-alice/nano-painting-encryption-with-colours-1d18a79ee942)
+- [Hacking a Windows Machine by Hiding a RAT Inside an Image](https://systemweakness.com/hacking-a-windows-machine-by-hiding-a-rat-inside-an-image-843832bafc7e)
 
 After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
 
