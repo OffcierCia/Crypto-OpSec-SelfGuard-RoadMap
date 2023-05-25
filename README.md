@@ -516,6 +516,7 @@ Avoid installing any third-party software, including single-player and multiplay
 
 Be careful about using your real home address online for delivery purposes. Data breaches are now a daily occurrence, and many breaches include customer names and addresses. Your physical address is not as easily changeable as a phone number or email address, so be especially mindful about where you use it on the Internet. 
 
+- [DefaultCreds CheatSheet](https://github.com/ihebski/DefaultCreds-cheat-sheet/)
 - [Physical crypto attacks](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md)
 - [About If you want know, who use your computer when you are not nearby - PC Mouse Tracker](https://github.com/iterweb/watcher)
 
@@ -618,6 +619,10 @@ Identify your sensitive data, including your product research, passwords, intell
 Be smarter. Most likely in the future we will all have to face [AI](https://share-docs.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12465) and Neural Network which were made specifically for finding people and information based on [OSINT](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws) and similar (up to [Big Data](https://www.ledgerinsights.com/amex-visa-citi-back-80m-funding-for-trm-labs-blockchain-intelligence/)) methodologies, so the only thing that will save us is what separates humans from machines - our imagination and our capacity for illogical unpredictable actions. 
 
 Whatever you do, do it with some element of randomness. If you find it hard to comprehend, then put it in the hands of playing cards or [random.org](https://random.org). Do you transfer an amount? Send not an even (1000, 100, 50, etc.) or similar value, and so on. I think you get my point. Once again, be smarter, for example: there is a tool like [Ethereum alarm clock](https://blog.chronologic.network/tutorial-using-the-ethereum-alarm-clock-cli-63cd1e6416be) ([2](https://www.ethereum-alarm-clock.com/)), but you have to remember to use it [with caution](https://www.theblock.co/amp/post/178418/ethereum-alarm-clocks-smart-contract-is-being-targeted-by-exploiters). 
+
+- [The Wiretap: How The FBI Digs Up Deleted WhatsApp Messages](https://www.forbes.com/sites/thomasbrewster/2023/05/23/the-wiretap-fbi-digs-up-deleted-whatsapp-messages/)
+- [anonymousplanet.org](https://anonymousplanet.org/)
+- [Android keyboard for secure E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY)
 
 Maybe you can come up with your own solution based on [logic bomb](https://github.com/starius/logic-bomb/blob/master/logic_bomb.c) and [canarytokens.org](https://canarytokens.org) with [tenderly.co](https://tenderly.co)! The tool previously described [has been hacked](https://www.theblock.co/amp/post/178418/ethereum-alarm-clocks-smart-contract-is-being-targeted-by-exploiters), use with caution and only if you know what you are doing. You can use [Escrow](https://github.com/JackBekket/escrow-eth/blob/master/contracts/EscrowAdvansed.sol) and [Multisig](https://gnosis-safe.io) as a substitute for this.
 
