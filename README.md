@@ -456,9 +456,18 @@ At the same time, I believe that OpSec, in its broadest sense, does not function
 
 After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
 
+- [Read this article!](https://mjg59.dreamwidth.org/66429.html)
+- [MacOS Secure Profiles](https://github.com/sambacha/macos-secure-profiles)
+- [MacOS Security](https://github.com/usnistgov/macos_security)
+- [Free, open-source tools to protect your Mac](https://objective-see.org/tools.html)
+- [Mac Monitor](https://github.com/redcanaryco/mac-monitor)
+- [Security checklist app for your Mac](https://paretosecurity.com/)
+
 **On the opposite:**
 
 Tend to use:
+
+> you can use Apple Configurator and create a blueprint to ensure conformance (trusting they apply it)
 
 - QubesOS; [Manual](https://www.qubes-os.org/news/2022/10/28/how-to-organize-your-qubes)
 - TailsOS; [Manual](https://blokt.com/guides/tails-os)
