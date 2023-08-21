@@ -616,6 +616,7 @@ OpSec often comes into play in public settings. For example, if members of your 
 - [5 Ways to Find Hidden Cameras Using Your Mobile Phone](https://www.makeuseof.com/tag/use-smartphone-detect-hidden-surveillance-cameras/)
 - [9 Places Where Secret Cameras Are Most Likely to Be Hidden](https://www.makeuseof.com/where-secret-cameras-are-likely-to-be-hidden/)
 - [Discussion about how to find hidden cameras.](https://t.me/lobsters_chat/411600)
+- [Perform a Self-doxxing!](https://docs.osintbuddy.com/)
 
 A lot of OpSec missteps can be avoided by being more aware of your surroundings and the context in which you are speaking: what you’re saying, where you are, who you’re speaking to, and who might overhear. It’s a good idea to go over the “no-no’s” for your specific company during onboarding and to remind employees of them periodically. 
 
@@ -623,6 +624,11 @@ A lot of OpSec missteps can be avoided by being more aware of your surroundings 
 - [Awesome InfoSec](https://github.com/onlurking/awesome-infosec)
 - [Dear Security, be a part of the solution](https://medium.com/chris-dialogue/dear-security-be-a-part-of-the-solution-703201425805)
 - [Staying Safe in Web3: OTC Scams](https://polkaverse.com/@bruno/staying-safe-in-web3-otc-scams-30094)
+- [HoneyPots against Hackers](https://vk.com/@greyteam-70-besplatnyh-primanok-dlya-lovli-hakerov)
+- [Randomness Concept](https://alpine-agate-fa5.notion.site/Randomness-a0632b0800814de280e273b9cdb264bc)
+- [CIA Triad](https://www.fortinet.com/resources/cyberglossary/cia-triad#:~:text=The%20three%20letters%20in%20%22CIA,and%20methods%20for%20creating%20solutions)
+- [Detect Personal Information Leakage With OSINT Attack Surface Management](https://osintteam.blog/detect-personal-information-leakage-with-osint-attack-surface-management-4a46923dd2fd)
+- [Leveraging Open-Source Intelligence (OSINT) for Enhancing Efficiency in Business Administration: A Comprehensive Examination](https://osintteam.blog/leveraging-open-source-intelligence-osint-for-enhancing-efficiency-in-business-administration-a-507a44f6517e)
 
 ---
 
