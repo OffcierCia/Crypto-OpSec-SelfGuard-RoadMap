@@ -36,6 +36,8 @@ Take a close look at [this picture](https://t.me/officer_cia/684) ([imgur link](
 
 This guide tries to account for all models, but focuses more on protecting against hackers, scammers, annoying fans and paparazzi, competitive espionage specialists (which can include police or other law enforcement officers who in theory can abuse their power), and so on. Your OpSec depends directly on those against whom you are up against. In other words, you must build your own OpSec wall on your own, as follows, you must navigate it flawlessly well. And it doesn't matter where it happens: on the Internet, in real life, and so on. Be one step ahead! May the power be with you!
 
+- [Security Tips & Devices for Digital Nomads](https://officercia.mirror.xyz/GX0LvoKDcC12ACXzhT3F_3PVRSfEyhE8cJYMZnoia9U)
+
 ### **Why does this guide focus primarily on advice for [EVM-based](https://github.com/mektigboy/evm-chad) blockchains and cryptocurrencies based on them?**
 
 No, this guide is appropriate for owners of **all of the possible coins, developers, shadowy super-coders and digital nomads**: you may own Bitcoin, DOGE, Sol, XMR, ETH, NFT - anything. I tried to cover all the bases, and if you follow the links, you'll see that there are already a ton of fantastic answers to all of your queries!
@@ -298,6 +300,7 @@ Cold storage, and separate “hot” wallet. Use multisig ([gnosis-safe.io](http
 - [Another List](https://docs.google.com/spreadsheets/d/13d5xnVa2PlhzNLAxvvufRCT1fpDbnByI3UOf276zYZ0/edit?pli=1#gid=1518841983)
 - [walletcompare.xyz/](https://walletcompare.xyz/)
 - [walletscrutiny.com](https://walletscrutiny.com/)
+- [Security Tips & Devices for Digital Nomads](https://officercia.mirror.xyz/GX0LvoKDcC12ACXzhT3F_3PVRSfEyhE8cJYMZnoia9U)
 
 <details>
 <summary>Expand</summary>
