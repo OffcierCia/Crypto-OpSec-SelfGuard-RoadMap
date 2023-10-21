@@ -439,6 +439,7 @@ Another Option — Setting Up a Hardware VPN. If you area VPN enjoyer I’d stro
 - [How I turned a mini-PC into an Ethereum node to run at home](https://medium.com/coinmonks/how-i-turned-a-mini-pc-into-an-ethereum-node-to-run-at-home-5aebf1b6f881)
 - [Spin up your own Ethereum node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node)
 - [Check out this resource!](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
+- [Improve Fast Reaction: Techniques to Enhance Your Reflexes](https://medium.com/@joaoaniceto.webdeveloper/improve-fast-reaction-techniques-to-enhance-your-reflexes-fe052a8f2459)
 
 It is important to note that you can achieve the same thing by installing oVPN Mullvad (or another service you trust / your own VPN) configuration on your home router! You should also keep in mind the basic rule: the VPN is your buddy and will keep you safe from a wide range of threats, including even several WiFi and physical attacks. I hope this short [note](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg) helps you decide!
 
