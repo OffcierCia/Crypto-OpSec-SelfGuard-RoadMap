@@ -456,6 +456,7 @@ At the same time, I believe that OpSec, in its broadest sense, does not function
 - [The Last Laptop You'll Ever Need For Crypto](https://defieducation.substack.com/p/the-last-laptop-youll-ever-need-for)
 - [Nano-Painting: Encryption With Colours](https://medium.com/asecuritysite-when-bob-met-alice/nano-painting-encryption-with-colours-1d18a79ee942)
 - [Hacking a Windows Machine by Hiding a RAT Inside an Image](https://systemweakness.com/hacking-a-windows-machine-by-hiding-a-rat-inside-an-image-843832bafc7e)
+- [The Importance of Self-Custody Password Managers: A Deep Dive](https://nomadscrolls.net/2023/10/29/the-importance-of-self-custody-password-managers-a-deep-dive/)
 
 After all, one key rule that almost never gets emphasized is "always be aware of what rule you're breaking, why, and how it may affect you in case of an assault or other problems. In any case, it is critical to understand where the boundaries of this "standard of OpSec & security" lie, which I will attempt to do via the lens of many approaches, which I will attempt to express in such a way that they are universal.
 
