@@ -30,19 +30,6 @@ _________                        __           ________          _________       
 
 # Guide d'auto-protection OpSec
 
-**| Notes de l'auteur (en anglais):**
-
-- [Tout sur la sécurité des NFTs ](https://graph.org/NFT-security-01-28) 
-- [Scanners de données du navigateur ](https://graph.org/Checkers-01-19)
-- [Tous les outils de sécutité ETH existants](https://graph.org/ETHSec-Tools-02-13)
-- [Tous les bons TG de communautés de dev ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
-- [Ressources pour les attaques connues sur les utilisateurs et les smart-contracts](https://graph.org/Data-02-14)
-- [Anti-sèche Solidity, liste des outils et références ](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
-- [Toutes les attaques et vecteurs d'attaques sur les smart-contracts et les utilisateurs](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [Liste et références de tous les outils d'analyse des transactions, de crypto-forensics et d'investigation possibles dans une seule note.](https://graph.org/TX-Analysis-tools-04-19)
-- [Principes clés du stockage de crypto cold wallet, attaques, méthodes de défense et meilleures pratiques](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
-
-
 #### Problème 1
 
 Utilisez un fournisseur de messagerie sécurisé comme protonmail ou tutanota. Utilisez un VPN de confiance comme Mullvad ou ProtonVPN. 
