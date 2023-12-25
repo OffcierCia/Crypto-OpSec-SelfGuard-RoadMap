@@ -141,7 +141,6 @@ You can also use something like [private addresses feature](https://spreadprivac
 
 - [How to hide your email](https://gizmodo.com/the-best-ways-to-hide-your-email-address-1848092989)
 - [Anti-detection system](https://detect.expert)
-- [Browser leakage checkers](https://graph.org/Checkers-01-19)
 
 </details>
 
@@ -1094,7 +1093,6 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 - [Check out this awesome Privacy-focused toolkit!](https://techlore.tech/resources)
 - [The Ten Commandments of crypto security](https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40)
 - [Privacytests.org](https://privacytests.org)
-- [All known smart contract-side and user-side attacks and vulnerabilities](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
 - [Privacy.sexy Repo](https://github.com/undergroundwires/privacy.sexy)
 - [Privacy.sexy Website](https://privacy.sexy)
 - [Intro to Web3 Security](https://n00bzunit3d.xyz/blog/intro-to-web3-security)
