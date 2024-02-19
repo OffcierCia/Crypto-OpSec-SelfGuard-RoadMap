@@ -532,6 +532,7 @@ Avoid installing any third-party software, including single-player and multiplay
 - [Discord Security](https://github.com/0xngmi/discord-server-guidelines/blob/master/README.md)
 - [Stop Auto-Download on Telegram: Working Methods for Desktop, iPhone, Android!](https://www.techbloat.com/stop-auto-download-on-telegram-methods-android-ios-desktop.html)
 - [Death Note Anonymity](https://gwern.net/death-note-anonymity)
+- [Instant Workstation: Virtual Machines](https://instantworkstation.com/virtual-machines)
 
 ---
 
