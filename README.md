@@ -553,6 +553,7 @@ If you’re ordering pizza with crypto, order it for pickup instead of delivery.
 - [Torn](https://mirror.xyz/xanny.eth/SGxwfVQ75831z5vFaS1LrlatUJEhxBvZ2cyTvAdCD0k)
 - [Anon Swaps](https://telegra.ph/ButHow-01-28)
 - [sideshift.ai](https://sideshift.ai)
+- [secureshift.io](https://secureshift.io)
 - [agoradesk.com](https://agoradesk.com)
 - [Aztecnetwork](https://twitter.com/aztecnetwork)
 - [Aztec-2 Dune Privacy Dashboard](https://dune.com/jaosef/Aztec-2)
