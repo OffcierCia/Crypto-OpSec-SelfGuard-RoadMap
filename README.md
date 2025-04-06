@@ -332,14 +332,15 @@ Cold storage, and separate “hot” wallet. Use multisig ([safe.global](https:/
 
 - [Alphawallet](https://twitter.com/alphawallet)
 - [Airgap_it](https://twitter.com/airgap_it)
+- [Konkret Wallet](https://codeberg.org/konkret/konkret-wallet)
+  - [Why fork MetaMask](https://twitter.com/0xngmi/status/1601744180510085121)
+  - [Alternatives to Metamask](https://ethereum.stackexchange.com/questions/73982/alternatives-to-metamask)
 - [rainbow.me](https://rainbow.me)
 - [Frame.sh](https://frame.sh)
 - [Walletscrutiny.com](http://walletscrutiny.com)
 - [Grid-lattice1](https://gridplus.io/products/grid-lattice1)
 - [Atomicwallet.io](https://atomicwallet.io)
-- [Alternatives to Metamask](https://ethereum.stackexchange.com/questions/73982/alternatives-to-metamask)
 - [myetherwallet.com](https://www.myetherwallet.com)
-- [Forked MetaMask](https://twitter.com/0xngmi/status/1601744180510085121)
 - [Multichain crypto wallet](www.npmjs.com/package/multichain-crypto-wallet)
 
 ---
