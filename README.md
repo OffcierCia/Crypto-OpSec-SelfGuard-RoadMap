@@ -20,7 +20,7 @@
 
 **Special Thanks:**
 
-- [AnonPlanet](https://anonymousplanet.org/links.html)
+- [AnonPlanet](https://anonymousplanet.org)
 
 **| Special Notes:**
 
