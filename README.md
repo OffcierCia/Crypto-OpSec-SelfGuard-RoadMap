@@ -133,7 +133,7 @@ Don’t use 3rd party VPN, rent a VPS and bootstrap open source VPN server!
 
 Use dedicated email address for each account, or use an alias eg. chortly534524twitter@gmail , if it leaks it will be isolated to the account!
 
-You can also use something like [private addresses feature](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection) from DuckDuckGo or [simplelogin.io](https://simplelogin.io).
+You can also use something like [private addresses feature](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection) from DuckDuckGo, [anon.li](https://anon.li) or [simplelogin.io](https://simplelogin.io).
 
 <details>
 <summary>Expand</summary>
