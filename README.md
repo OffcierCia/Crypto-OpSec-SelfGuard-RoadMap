@@ -971,6 +971,7 @@ Only Interact with DeFi Protocols You Trust - Take your time to read up on some 
 - [TryEthernal.com](https://TryEthernal.com)
 - [Defillama.com](https://Defillama.com)
 - [Rotki](https://github.com/rotki)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X data API, MCP server, SDKs, and webhooks for public tweet search, account lookup, follower export, monitors, and media workflows that can add off-chain social context to crypto OpSec research.
 - [Find wallet](https://ethereum.org/en/wallets/find-wallet)
 - [Read More](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [Read More](https://assets.website-files.com/5ffef4c69be53b44bd10b438/6012f54022181b0d0a3a948c_CryptoCurrency%20Security%20Standards%20Checklist.pdf)
@@ -1161,4 +1162,3 @@ The best thing is to support me directly by donating to any address from the lis
 ##
 
 **Thank you! Stay safe!**
-
