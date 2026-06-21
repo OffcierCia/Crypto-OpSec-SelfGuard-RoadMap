@@ -1100,7 +1100,7 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 - [Privacy and Scaling Explorations](https://mirror.xyz/privacy-scaling-explorations.eth)
 - [A collection of practical security-focused guides and checklists for smart contract development](https://github.com/nascentxyz/simple-security-toolkit)
 - [opsecprofessionals.org](https://opsecprofessionals.org)
-
+- [CypherpunkGuide](https://cypherpunkguide.com)
 #
 
 
