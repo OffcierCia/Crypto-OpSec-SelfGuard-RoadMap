@@ -322,7 +322,6 @@ Cold storage, and separate “hot” wallet. Use multisig ([safe.global](https:/
 
 **For Bitcoin:**
 
-- [Coldcardwallet](https://twitter.com/coldcardwallet)
 - [Cypherockwallet](https://twitter.com/cypherockwallet)
 - [Sparrowwallet.com](https://sparrowwallet.com)
 - [BitBox](https://shiftcrypto.ch/bitbox02/threat-model)
