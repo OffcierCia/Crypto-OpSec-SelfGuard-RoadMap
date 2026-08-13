@@ -1142,6 +1142,7 @@ Support is **very** important to me, with it I can do what I love - educating De
 
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches an SPL mint or program ID and alerts on Telegram on new transactions, no external database.
 
 The best thing is to support me directly by donating to any address from the list below:
 
