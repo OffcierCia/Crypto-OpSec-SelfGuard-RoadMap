@@ -1140,7 +1140,6 @@ Pretend to be someone ordinary. For example, follow the legend that you are just
 
 Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users!
 
-- [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
 The best thing is to support me directly by donating to any address from the list below:
@@ -1152,8 +1151,6 @@ The best thing is to support me directly by donating to any address from the lis
 - **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR
 
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
-
-- You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
  **Much much thanks every single one of you!**
 
