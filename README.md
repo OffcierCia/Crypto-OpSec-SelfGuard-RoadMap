@@ -984,6 +984,7 @@ Don’t use Tornado and forget about it, but you can use:
 - [SideShift](https://sideshift.ai) or [AgoraDesk](https://agoradesk.com)
 - [How to fund an undoxxed Ethereum wallet off-chain](https://mirror.xyz/xanny.eth/SGxwfVQ75831z5vFaS1LrlatUJEhxBvZ2cyTvAdCD0k)
 - [changenow.io](https://changenow.io)
+- [CryptoRoute](https://cryptoroute.io) - non-custodial cross-chain swaps, no account or custody, you sign for your own funds
 - [tradeogre](https://tradeogre.com/markets)
 - ETH-XMR [atomic swap](https://github.com/noot/atomic-swap) - this one released via a bridge!
 - Maybe also check out: [Aztecnetwork](https://twitter.com/aztecnetwork) but always keep in mind [this dune dashboard!](https://dune.com/jaosef/Aztec-2)
