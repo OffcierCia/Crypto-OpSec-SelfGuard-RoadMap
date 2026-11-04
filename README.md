@@ -557,6 +557,7 @@ If you’re ordering pizza with crypto, order it for pickup instead of delivery.
 - [Aztec-2 Dune Privacy Dashboard](https://dune.com/jaosef/Aztec-2)
 - [RailGun](https://railgun.ch/#/)
 - [Monero](https://telegra.ph/CIA-Officer--Monero-05-08)
+- [XMRList](https://xmrlist.com/) - directory of businesses that accept Monero, to pay privately
 
 ---
 
