@@ -293,7 +293,7 @@ Hardware-based 2FA options are regarded as more secure than phone-based OTP opti
 
 ### Problem 5
 
-Cold storage, and separate “hot” wallet. Use multisig ([safe.global](https://safe.global) as example) or at least a hardware wallet. Never store your seed phrase digitally. Seed phrases are intended to be stored on the paper card included with hardware wallets! That means never type it up, store it online, or take a photo of the card. Store your key on hard device.
+Cold storage, and separate “hot” wallet. Use multisig ([safe.global](https://safe.global) as example, and for team treasuries an onchain policy layer such as [Chainwall](https://github.com/okcontract/chainwall), source-available under BUSL-1.1) or at least a hardware wallet. Never store your seed phrase digitally. Seed phrases are intended to be stored on the paper card included with hardware wallets! That means never type it up, store it online, or take a photo of the card. Store your key on hard device.
 
 - [List of Hardware Wallet Hacks](https://thecharlatan.ch/List-Of-Hardware-Wallet-Hacks/)
 - [Another List](https://docs.google.com/spreadsheets/d/13d5xnVa2PlhzNLAxvvufRCT1fpDbnByI3UOf276zYZ0/edit?pli=1#gid=1518841983)
